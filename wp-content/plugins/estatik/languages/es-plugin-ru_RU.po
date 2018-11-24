@@ -1,0 +1,1689 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Estatik\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-08 22:53+0500\n"
+"PO-Revision-Date: 2017-05-19 09:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: Russian (Russia)\n"
+"Language: ru-RU\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: ru_RU\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: ru_RU\n"
+"X-Poedit-SearchPath-0: estatik"
+
+msgid "Request title"
+msgstr ""
+
+msgid "%s baths"
+msgstr "%s ван.ком."
+
+msgid "Properties"
+msgstr "Недвижимость"
+
+msgid "Add new"
+msgstr "Добавить"
+
+msgid "Add New Property"
+msgstr "Добавить объект"
+
+msgid "Edit Property"
+msgstr "Редактировать недвижимость"
+
+msgid "New Property"
+msgstr "Новая недвижимость"
+
+msgid "All Properties"
+msgstr "Вся недвижимость"
+
+msgid "View Properties"
+msgstr "Просмотреть свойства"
+
+msgid "Search Properties"
+msgstr "Поиск недвижимости"
+
+msgid "No Properties found"
+msgstr "Не найдено"
+
+msgid "No Properties found in the Trash"
+msgstr "В корзине недвижимость не найдена"
+
+msgid "Property Categories"
+msgstr "Категории недвижимости"
+
+msgid "Property Category"
+msgstr "Категория недвижимости"
+
+msgid "Search Property Categories"
+msgstr "Поиск по категориям"
+
+msgid "All Property Categories"
+msgstr "Все категории недвижимости"
+
+msgid "Parent Property Category"
+msgstr "Категория недвижимости"
+
+msgid "Parent Property Category:"
+msgstr "Категория недвижимости"
+
+msgid "Edit Property Category"
+msgstr "Редактировать категорию"
+
+msgid "Update Property Category"
+msgstr "Обновить категорию"
+
+msgid "Add New Property Category"
+msgstr "Добавить новую категорию"
+
+msgid "New Property Category"
+msgstr "Новая категория"
+
+msgid "Property Status"
+msgstr "Статус объекта"
+
+msgid "Search Status Categories"
+msgstr "Поиск по статусу"
+
+msgid "All Status Categories"
+msgstr "Все статусы"
+
+msgid "Parent Status Category"
+msgstr "Статус категории"
+
+msgid "Parent Status Category:"
+msgstr "Статус категории"
+
+msgid "Edit Status Category"
+msgstr "Изменить статус категории"
+
+msgid "Update Status Category"
+msgstr "Обновить статус"
+
+msgid "Add New Status Category"
+msgstr "Добавить новый статус"
+
+msgid "New Status Category"
+msgstr "Новый статус"
+
+msgid "Status Categories"
+msgstr "Категории статуса"
+
+msgid "Property Types"
+msgstr "Типы недвижимости"
+
+msgid "Search Types Categories"
+msgstr "Поиск по типам"
+
+msgid "All Types Categories"
+msgstr "Все типы категорий"
+
+msgid "Parent Type Category"
+msgstr "Тип категории"
+
+msgid "Parent Type Category:"
+msgstr "Тип категории"
+
+msgid "Edit Type Category"
+msgstr "Редактировать тип"
+
+msgid "Update Type Category"
+msgstr "Обновить тип"
+
+msgid "Add New Type Category"
+msgstr "Добавить новый тип"
+
+msgid "New Type Category"
+msgstr "Новый тип категории"
+
+msgid "Type Categories"
+msgstr "Категории типов"
+
+msgid "New user registration on your blog %s:"
+msgstr "Новый пользователь зарегистрировался на вашем блоге %s:"
+
+msgid "Username: %s"
+msgstr "Логин: %s"
+
+msgid "E-mail: %s"
+msgstr "E-mail: %s"
+
+msgid "[%s] New User Registration"
+msgstr "[%s] Регистрация нового пользователя"
+
+msgid "Hi there,"
+msgstr "Добрый день,"
+
+msgid "Welcome to %s! Here's how to log in:"
+msgstr "Добро пожаловать на %s! Введите свой логин и пароль:"
+
+msgid "Password: %s"
+msgstr "Пароль: %s"
+
+msgid "If you have any problems, please contact me at %s."
+msgstr "Если у вас возникли вопросы, свяжитесь нами по %s."
+
+msgid "Estatik Team!"
+msgstr "Команда Estatik!"
+
+msgid "[%s] Your username and password"
+msgstr "[%s] Ваш логин и пароль"
+
+msgid "Please fill your field."
+msgstr "Пожалуйста, заполните поля."
+
+msgid "Email is required."
+msgstr "Email обязательное поле."
+
+msgid "Email is not valid."
+msgstr "Email не является действительным."
+
+msgid "This email is already exist. Please choose another one."
+msgstr "Этот email уже существует. Пожалуйста, выберите другой."
+
+msgid "User name is required."
+msgstr "Имя пользователя обязательное поле."
+
+msgid "This user name is already registered. Please choose another one."
+msgstr ""
+"Это имя пользователя уже зарегистрировано. Пожалуйста, выберите другой."
+
+msgid "Agent info"
+msgstr "Информация об агенте"
+
+msgid "Please edit your agent information below and click save to finish."
+msgstr ""
+"Пожалуйста, отредактируйте информацию агента ниже и нажмите Сохранить для "
+"завершения."
+
+msgid "Please fill up your agent information below and click save to finish."
+msgstr ""
+"Пожалуйста, заполните информацию ниже и нажмите Сохранить для завершения."
+
+msgid "Save & Close"
+msgstr "Сохранить и закрыть"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "User name"
+msgstr "Имя пользователя"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Company"
+msgstr "Компания"
+
+msgid "Properties Q-ty"
+msgstr "Кол-во объектов"
+
+msgid "Sold properties"
+msgstr "Количество проданных объектов"
+
+msgid "Tel"
+msgstr "Тел.:"
+
+msgid "www"
+msgstr "www"
+
+msgid "Rating"
+msgstr "Рейтинг"
+
+msgid "About"
+msgstr "Дополнительная инфо"
+
+msgid "Photo/Logo"
+msgstr "Фото/логотип"
+
+msgid "Upload photo"
+msgstr "Загрузка фото"
+
+msgid "Add new field"
+msgstr "Добавить новое поле"
+
+msgid "Please select agents you want to copy."
+msgstr "Пожалуйста, выберите агентов, которых вы хотите скопировать."
+
+msgid "Please select agents you want to delete."
+msgstr "Пожалуйста, выберите агентов, которых вы хотите удалить."
+
+msgid "Please select agents you want to publish."
+msgstr "Пожалуйста, выберите агентов, которых вы хотите опубликовать."
+
+msgid "Please select agents you want to unpublish."
+msgstr "Пожалуйста, выберите агентов, которых вы хотите снять с публикации."
+
+msgid "Are you sure you want to Copy it?"
+msgstr "Вы уверены, что вы хотите сделать копию?"
+
+msgid "Are you sure you want to delete it?"
+msgstr "Вы действительно хотите удалить?"
+
+msgid "Are you sure you want to publish it?"
+msgstr "Вы уверены, что вы хотите опубликовать?"
+
+msgid "Are you sure you want to unpublish it?"
+msgstr "Вы уверены, что вы хотите отменить публикацию?"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Agents"
+msgstr "Агенты"
+
+msgid "Filter by"
+msgstr "Сортировать по"
+
+msgid "Bad"
+msgstr "Плохо"
+
+msgid "Poor"
+msgstr "Средне"
+
+msgid "Regular"
+msgstr "Нормально"
+
+msgid "Good"
+msgstr "Хорошо"
+
+msgid "Excellent"
+msgstr "Отлично"
+
+msgid "By Name"
+msgstr "По имени"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Reset"
+msgstr "Сбросить"
+
+msgid "Manage"
+msgstr "Управлять"
+
+msgid "Select all"
+msgstr "Выбрать все"
+
+msgid "Undo selection"
+msgstr "Отменить выделение"
+
+msgid "Copy"
+msgstr "Копировать"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Publish"
+msgstr "Опубликовать"
+
+msgid "Unpublish"
+msgstr "Отменить публикацию"
+
+msgid "Agent has been deleted."
+msgstr "Агент был удален."
+
+msgid "Selected Agents have been copied."
+msgstr "Выбранные агенты были скопированы."
+
+msgid "Selected Agents have been deleted."
+msgstr "Выбранные агенты были удалены."
+
+msgid "Selected Agents have been published."
+msgstr "Были опубликованы отдельные агенты."
+
+msgid "Selected Agents have been unpublished."
+msgstr "Выбранные агенты были сняты с публикации."
+
+msgid "Your Search results."
+msgstr "Результаты вашего поиска"
+
+msgid "Agent ID"
+msgstr "ID агента"
+
+msgid "Username"
+msgstr "Логин"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Unactive"
+msgstr "Неактивный"
+
+msgid "Active"
+msgstr "Активный"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "No record Found."
+msgstr "Не найдено ни одной записи!"
+
+msgid "Dashboard"
+msgstr "Панель управления"
+
+msgid "My listings"
+msgstr "Мои объявления"
+
+msgid "Data Manager"
+msgstr "Менеджер данных"
+
+msgid "Data manager"
+msgstr "Менеджер данных"
+
+msgid "Agent Info"
+msgstr "Агент"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Get support"
+msgstr "Техподдержка"
+
+msgid "Step-by-step guide"
+msgstr "Пошаговая инструкция"
+
+msgid "Video Tutorial"
+msgstr "Видео документация"
+
+msgid "Submit a ticket"
+msgstr "Связаться с нами"
+
+msgid "Choose Your Theme"
+msgstr "Выберите тему"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "field has been added."
+msgstr "Поле было добавлено."
+
+msgid "field has been deleted."
+msgstr "Поле было удалено."
+
+msgid "Properties details"
+msgstr "Детали недвижимости"
+
+msgid "Location"
+msgstr "Место"
+
+msgid "Dimensions"
+msgstr "Размеры"
+
+msgid "Features"
+msgstr "Характеристики"
+
+msgid "Currency"
+msgstr "Валюта"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Rent period"
+msgstr "Срок аренды"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "States/Regions"
+msgstr "Области"
+
+msgid "Cities"
+msgstr "Города"
+
+msgid "Neighboarhood"
+msgstr "Окружающая территория"
+
+msgid "Area & lot size"
+msgstr "Жилая площадь и площадь всего участка"
+
+msgid "Appliances"
+msgstr "Приборы"
+
+msgid "No record found. Please add new one."
+msgstr "Не найдено записей. Пожалуйста, добавьте новый."
+
+msgid "Please enter numbers only."
+msgstr "Пожалуйста, вводите только цифры."
+
+msgid "Please Edit your property detail and click save to finish."
+msgstr ""
+"Пожалуйста, отредактируйте информацию об объекте и нажмите Сохранить для "
+"завершения."
+
+msgid "Please fill up your property detail and click save to finish."
+msgstr ""
+"Пожалуйста заполните поля ниже и нажмите кнопку Сохранить для завершения."
+
+msgid "Property has been updated."
+msgstr "Информация о недвижимости была обновлена."
+
+msgid "Basic information"
+msgstr "Основная информация"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Neighborhood"
+msgstr "Район / Местность"
+
+msgid "Media"
+msgstr "Медиафайлы"
+
+msgid "Property ID"
+msgstr "ID недвижимости"
+
+msgid "Title"
+msgstr "Название"
+
+msgid "Featured"
+msgstr "Популярно"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Hot"
+msgstr "Хит продаж"
+
+msgid "Open house"
+msgstr "Сдается"
+
+msgid "Foreclosure"
+msgstr "Продается"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Period"
+msgstr "Период"
+
+msgid "Bedrooms"
+msgstr "Спальни"
+
+msgid "Bathrooms"
+msgstr "Ванные комнаты"
+
+msgid "Floors"
+msgstr "Этажи"
+
+msgid "Area"
+msgstr "Площадь"
+
+msgid "Lot size"
+msgstr "Весь участок"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Choose Country"
+msgstr "Выберите страну"
+
+msgid "State/Region"
+msgstr "Область / Регион:"
+
+msgid "City"
+msgstr "Город"
+
+msgid "ZIP/Postcode"
+msgstr "Почтовый индекс"
+
+msgid "Street"
+msgstr "Улица"
+
+msgid "Longitude"
+msgstr "Долгота"
+
+msgid "Latitude"
+msgstr "Широта"
+
+msgid "Images"
+msgstr "Изображения"
+
+msgid "Video"
+msgstr "Видео"
+
+msgid "Select files or upload images in a zip-file."
+msgstr "Выберите файлы или загрузите изображения в zip формате."
+
+msgid "Upload"
+msgstr "Загрузить"
+
+msgid ""
+"The first image will be default image. You can drag and drop images to "
+"change their order."
+msgstr ""
+"Первое изображение будет изображением по умолчанию. Вы можете перетащить "
+"изображения, чтобы изменить их порядок."
+
+msgid "Embed the code"
+msgstr "Вставьте код"
+
+msgid ""
+"Please Import your property detail with CSV sample and click save to finish"
+msgstr ""
+"Пожалуйста, внесите данные недвижимости в образец файла CSV и нажмите "
+"«Сохранить», чтобы ипортировать"
+
+msgid "Property has been Added."
+msgstr "Новый объект добавлен."
+
+msgid "Please choose CSV file. or download sample file for refrence."
+msgstr "Пожалуйста, выберите CSV-файл или скачайте его пример."
+
+msgid "Download Sample File"
+msgstr "Загрузить пример файла"
+
+msgid "CSV Import"
+msgstr "CSV импорт"
+
+msgid "Please select properties you want to copy."
+msgstr "Пожалуйста, выберите объекты, которые вы хотите скопировать."
+
+msgid "Please select properties you want to delete."
+msgstr "Пожалуйста, выберите объекты, которые вы хотите удалить."
+
+msgid "Please select properties you want to publish."
+msgstr "Пожалуйста, выберите объекты, которые вы хотите опубликовать."
+
+msgid "Please select properties you want to unpublish."
+msgstr "Пожалуйста, выберите объекты, которые вы хотите снять с публикации."
+
+msgid "My Listings"
+msgstr "Мои объявления"
+
+msgid "Date added"
+msgstr "Дата добавления"
+
+msgid "Property has been deleted."
+msgstr "Недвижимость была удалена."
+
+msgid "Selected properties have been copied."
+msgstr "Выбранные объекты недвижимости были скопированы."
+
+msgid "Selected properties have been deleted."
+msgstr "Выбранные объекты недвижимости были удалены."
+
+msgid "Selected properties have been published."
+msgstr "Выбранные объекты недвижимости были опубликованы."
+
+msgid "Selected properties have been unpublished."
+msgstr "Выбранные объекты недвижимости были сняты с публикации."
+
+msgid "Your search results."
+msgstr "Результаты поиска"
+
+msgid "Image"
+msgstr "Изображение"
+
+msgid "No Image"
+msgstr "Нет изображения"
+
+msgid "No record found."
+msgstr "Не найдено ни одной записи!"
+
+msgid "No City"
+msgstr "Городов нет"
+
+msgid "No record found. please add new one."
+msgstr "Не найдено записей. Пожалуйста, добавьте новую."
+
+msgid "No State"
+msgstr "Нет штатов"
+
+msgid "Please fill up your Settings detail and click save to finish."
+msgstr ""
+"Пожалуйста, выберите нужные настройки и нажмите Сохранить для завершения."
+
+msgid "Settings has been updated."
+msgstr "Настройки были обновлены."
+
+msgid "General Settings"
+msgstr "Общие настройки"
+
+msgid "Layout"
+msgstr "Расположение"
+
+msgid "Sharing"
+msgstr "Социальные сети"
+
+msgid "Powered by link"
+msgstr "Ссылка Powered by"
+
+msgid "Number of listings per page"
+msgstr "Количество объявлений на странице"
+
+msgid "Title/Address"
+msgstr "Название/адрес"
+
+msgid "Agent"
+msgstr "Агент"
+
+msgid "Labels"
+msgstr "Значки"
+
+msgid "Date format"
+msgstr "Формат даты"
+
+msgid "Listings layout"
+msgstr "Расположение списка"
+
+msgid "Single property"
+msgstr "Один объект"
+
+msgid "Listings view"
+msgstr "Вид списка"
+
+msgid "Table"
+msgstr "Таблица"
+
+msgid "2 colums"
+msgstr "2 колонки"
+
+msgid "list"
+msgstr "Список"
+
+msgid "Height"
+msgstr "Высота"
+
+msgid "Widht"
+msgstr "Ширина"
+
+msgid "Photo on<br />the left/right"
+msgstr "Фото <br>слева/справа"
+
+msgid "Photo <br />in center"
+msgstr "Фото<br>в центре"
+
+msgid "Photo <br /> Thumb"
+msgstr "Фото<br>предпросмотра"
+
+msgid "Default currency"
+msgstr "Валюта по умолчанию"
+
+msgid "Dollar, Euro, etc"
+msgstr "Доллар, евро, и т.д."
+
+msgid "Price format"
+msgstr "Формат цены"
+
+msgid "Currency sign place"
+msgstr "Расположение знака валюты"
+
+msgid "Before price"
+msgstr "Перед ценой"
+
+msgid "After price"
+msgstr "После цены"
+
+msgid "PDF Player"
+msgstr "PDF"
+
+#: estatik/admin_template/es_widgets.php:6
+msgid "Estatik Search"
+msgstr "Поиск Estatik"
+
+msgid "Show On Pages"
+msgstr "Показать на страницах"
+
+msgid "Select Pages"
+msgstr "Выбор страниц"
+
+msgid "Archive Page"
+msgstr "Страница архива"
+
+msgid "Single Page"
+msgstr "Страница одного объекта"
+
+msgid "Category Page"
+msgstr "Страница категории"
+
+msgid "Search Page"
+msgstr "Страница поиска"
+
+msgid "Author Page"
+msgstr "Страница автора"
+
+msgid "Estatik Request Form"
+msgstr "Форма запроса Estatik"
+
+msgid "Request Title:"
+msgstr "Название запроса:"
+
+msgid "Learn more about this property"
+msgstr "Узнать больше об этом объекте недвижимости"
+
+msgid "Request Message:"
+msgstr "Текст сообщения:"
+
+msgid ""
+"Hi, I`m interested in the property. Please send me more information about it."
+" Thank you!"
+msgstr ""
+"Добрый день, я заинтересован в этой недвижимости. Пожалуйста, пришлите мне "
+"больше информации о ней. Заранее спасибо!"
+
+msgid "Send Message To"
+msgstr "Отправить сообщение"
+
+msgid "admin"
+msgstr "Администратор"
+
+msgid "Estatik Slideshow"
+msgstr "Estatik слайд-шоу"
+
+msgid "Show Arrows:"
+msgstr "Показывать стрелки:"
+
+msgid "* When No selected images will be changed with fade effect."
+msgstr "* Если выбрать Нет, изображения будут меняться с эффектом fade."
+
+msgid "Slide Effect"
+msgstr "Эффект слайда"
+
+msgid "Only Featured:"
+msgstr "Только популярное:"
+
+msgid "Listing IDs"
+msgstr "ID объекта "
+
+msgid "Images Height"
+msgstr "Высота изображений"
+
+msgid "Images Width"
+msgstr "Ширина изображений"
+
+msgid "Number of Images"
+msgstr "Число изображений:"
+
+msgid "Import CSV Property"
+msgstr "Импорт CSV"
+
+msgid "Add New Agent"
+msgstr "Добавить нового агента"
+
+msgid ""
+"You are registered to our website. Your username and password Emailed to you."
+msgstr ""
+"Вы зарегистрированы на нашем сайте. На вашу почту отправлены имя "
+"пользователя и пароль."
+
+msgid "Logout"
+msgstr "Выйти"
+
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+msgid "Yout profile has been updated."
+msgstr "Ваш профиль был обновлен."
+
+msgid "Add New Properties"
+msgstr "Добавить новые объекты"
+
+msgid "Import Csv"
+msgstr "Импортировать CSV"
+
+msgid "Properties sold"
+msgstr "Количество проданных объектов"
+
+msgid "No active Agent."
+msgstr "Нет активного агента."
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "hot"
+msgstr "популярные"
+
+msgid "openhouse"
+msgstr "сдается"
+
+msgid "foreclosure"
+msgstr "продается"
+
+msgid "%s bed"
+msgid_plural "%s beds"
+msgstr[0] "%s комната"
+msgstr[1] "%s комнат"
+
+msgid "%s bath"
+msgid_plural "%s baths"
+msgstr[0] "%s ванная"
+msgstr[1] "%s ван.комн."
+
+msgid "View on map"
+msgstr "На карте"
+
+msgid "Details"
+msgstr "Детали"
+
+msgid "Map"
+msgstr "Карта"
+
+#: estatik/front_templates/includes/es_login.php:13
+msgid "you are logged in"
+msgstr "Вы вошли как"
+
+msgid "logout"
+msgstr "выйти"
+
+msgid "Log in into your account"
+msgstr "Войти в свой аккаунт"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "LOGIN"
+msgstr "ВХОД"
+
+msgid "I forgot my password"
+msgstr "Я забыл свой пароль"
+
+msgid "I need to register for a new account"
+msgstr "Мне нужно зарегистрировать новый аккаунт"
+
+msgid "Please"
+msgstr "Пожалуйста"
+
+msgid "register"
+msgstr "регистрация"
+
+msgid "as Agent to edit your profile."
+msgstr "как агент, чтобы изменить свой профиль."
+
+msgid "You are not Agent."
+msgstr "Вы не являетесь агентом."
+
+msgid "and"
+msgstr "и"
+
+msgid "Basic facts"
+msgstr "Основные факты"
+
+msgid "Contact agent"
+msgstr "Связаться с агентом"
+
+msgid "Area size"
+msgstr "Размер площади"
+
+msgid "Rent Period"
+msgstr "Срок аренды"
+
+msgid "View on map / Neighborhood"
+msgstr "Посмотреть на карте"
+
+msgid "Amenities"
+msgstr "Удобства"
+
+msgid "Properties q-ty"
+msgstr "Количество объектов"
+
+msgid "To top"
+msgstr "Наверх"
+
+msgid "You are already logged in."
+msgstr "Вы уже вошли."
+
+msgid "Properties by Agent"
+msgstr "по агенту"
+
+msgid "View first"
+msgstr "Сортировать по"
+
+msgid "Menu is empty."
+msgstr "Меню не настроено"
+
+msgid "Estatik Request Info from"
+msgstr "Estatik запрос от"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Property Address"
+msgstr "Адрес"
+
+msgid "Request"
+msgstr "Запрос"
+
+msgid "Your message was sent"
+msgstr "Ваше сообщение было отправлено"
+
+#: estatik/front_templates/widgets/es_request_form.php:54
+msgid "Thank you for your message! We will contact you as soon as we can."
+msgstr "Спасибо за ваше сообщение! Мы свяжемся с вами в ближайшее время."
+
+msgid "Email not valid."
+msgstr "Email не действителен."
+
+msgid "Your name"
+msgstr "Ваше имя"
+
+msgid "Your email"
+msgstr "Ваш E-mail"
+
+msgid "Phone number"
+msgstr "Номер телефона"
+
+msgid "Send"
+msgstr "Отправитъ"
+
+msgid "Address, City, ZIP"
+msgstr "Адрес, город, индекс"
+
+msgid "min"
+msgstr "мин"
+
+msgid "max"
+msgstr "макс"
+
+#: estatik/front_templates/widgets/es_search.php:238
+msgid "Key words"
+msgstr "Ключевые слова"
+
+#: estatik/front_templates/widgets/es_slideshow.php:282
+msgid "No Slide"
+msgstr "Слайдов нет"
+
+msgid "Basic Facts"
+msgstr "Основные факты"
+
+msgid "Subscriptions"
+msgstr "Подписки"
+
+msgid "Add subscription"
+msgstr "Добавить подписку"
+
+msgid "Add New Subscription"
+msgstr "Создать новую подписку"
+
+msgid ""
+"Please create or edit your subscription plan here. Do not forget to click on "
+"save button."
+msgstr ""
+"Здесь вы можете отредактировать или создать новые подписки. Не забудьте "
+"сохранить изменения."
+
+msgid "Featured properties"
+msgstr "Популярная недвижимость"
+
+msgid "Subscription period"
+msgstr "Период подписки"
+
+msgid "Renewal Price"
+msgstr "Цена обновления подписки"
+
+msgid "Orders"
+msgstr "Заказы"
+
+msgid "Order status"
+msgstr "Статус заказа"
+
+msgid "Subscription"
+msgstr "Подписка"
+
+msgid "Price, $"
+msgstr "Цена, RUB"
+
+msgid "Subscription settings"
+msgstr "Настройки подписок"
+
+msgid "Listing publishing"
+msgstr "Публикация недвижимости"
+
+msgid "Automatic"
+msgstr "Автоматическое"
+
+msgid "Manual"
+msgstr "Ручное"
+
+msgid "Enable Subscriptions"
+msgstr "Включить подписки"
+
+msgid "Registration page"
+msgstr "Страница регистрации"
+
+msgid "Manage properties page"
+msgstr "Страница фронтенд менеджмента"
+
+msgid "Subscriptions table page"
+msgstr "Страница таблицы с подписками"
+
+msgid "Subscription expired email settings"
+msgstr "Настройки письма окончания подписки"
+
+msgid "Subscription expired subject"
+msgstr "Тема письма"
+
+msgid "Subscription expired message"
+msgstr "Текст письма окончания подписки"
+
+msgid "Subscription Paypal settings"
+msgstr "Настройки PayPal"
+
+msgid ""
+"Hello, Your subscription plan period ends today. Please renew your "
+"subscription and click here >> to proceed. Otherwise your listings will be "
+"unpublished. Thank you."
+msgstr ""
+"Добрый день, \n"
+"Ваша подписка заканчивается сегодня. Пожалуйста, обновите план подписки "
+"здесь >> . В противном случае ваши объекты будут сняты с публикации. Мы "
+"благодарим Вас. "
+
+msgid "Paypal Type"
+msgstr "Тип PayPal"
+
+msgid "Paypal email"
+msgstr "Email PayPal"
+
+msgid "Paypal API Mode"
+msgstr "PayPal API режим"
+
+msgid "Number of properties"
+msgstr "Количество объектов"
+
+msgid "Proceed"
+msgstr "Продолжить"
+
+msgid "Update Subscription"
+msgstr "Обновить подписку"
+
+msgid ""
+"Here you can create plans that will meet your website requirements and be "
+"most profitable for you."
+msgstr ""
+"Здесь вы можете создать подписки, которые отвечают вашим требованиям и будут "
+"наиболее рентабельными для вас."
+
+msgid "Week"
+msgstr "Неделя"
+
+msgid "Month"
+msgstr "Месяц"
+
+msgid "Year"
+msgstr "Год"
+
+msgid "Map view"
+msgstr "Настройки карты"
+
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+msgid ""
+"Please create pages with shortcodes below to display map on your website"
+msgstr "Используйте шорткоды ниже для изображения карты на вашем сайте."
+
+msgid "All properties"
+msgstr "Все объекты"
+
+msgid "Properties for rent"
+msgstr "Недвижимость для аренды"
+
+msgid "Properties for sale"
+msgstr "Недвижимость для продажи"
+
+msgid "Specific properties"
+msgstr "Определенные объекты"
+
+msgid "Icons color"
+msgstr "Цвет иконок"
+
+msgid "Icons type"
+msgstr "Тип иконок"
+
+msgid "Extra settings"
+msgstr "Дополнительные настройки"
+
+msgid "Number of listings to show"
+msgstr "Количество объектов для показа"
+
+msgid "Map zoom level (default value is 12)"
+msgstr "Степень увеличения (12 по умолчанию)"
+
+msgid "Choose theme color style"
+msgstr "Выберите цветовую схему темы"
+
+msgid "View first menu"
+msgstr "Меню Сортировать по"
+
+msgid "Light"
+msgstr "Светлый"
+
+msgid "Dark"
+msgstr "Темный"
+
+msgid "PDF flyer"
+msgstr "PDF брошюра"
+
+msgid "Select subscription"
+msgstr "Выберите подписку"
+
+msgid "text/number"
+msgstr "текст/число "
+
+msgid "Add new property"
+msgstr "Добавить объект"
+
+msgid "Filter by:"
+msgstr "Сортировать по:"
+
+msgid "Property ID:"
+msgstr "ID недвижимости:"
+
+msgid "Date added:"
+msgstr "Дата добавления:"
+
+msgid "Manage:"
+msgstr "Управление:"
+
+msgid "Select / deselect all"
+msgstr "Выбрать все / отменить выбор всех"
+
+msgid "Types"
+msgstr "Типы"
+
+msgid "Categories"
+msgstr "Категории"
+
+msgid "Call for price"
+msgstr "Позвоните, чтобы уточнить цену"
+
+msgid "Open-house"
+msgstr "Сдается"
+
+msgid "Year  built"
+msgstr "Год постройки"
+
+msgid ""
+"Here you can add video and upload images. Please enter video code in iframe "
+"format, e.g. -"
+msgstr ""
+"Здесь вы можете добавлять видео и загружать изображения. Введите код видео в "
+"формате iframe, например. -"
+
+msgid "Embed the code:"
+msgstr "Вставьте код:"
+
+msgid "Add image(s)"
+msgstr "Добавить новую картинку"
+
+msgid "STATUS"
+msgstr "СТАТУС"
+
+msgid "CATEGORIES"
+msgstr "КАТЕГОРИИ"
+
+msgid "TYPES"
+msgstr "ТИПЫ"
+
+msgid "RENT PERIOD"
+msgstr "СРОК АРЕНДЫ"
+
+msgid "Add new item"
+msgstr "Добавить новый пункт"
+
+msgid "By Name:"
+msgstr "По имени:"
+
+msgid "Company:"
+msgstr "Компания:"
+
+msgid "Sold properties:"
+msgstr "Количество проданных объектов:"
+
+msgid "Telephone:"
+msgstr "Телефон:"
+
+msgid "Website:"
+msgstr "Сайт:"
+
+msgid "Password:"
+msgstr "Пароль:"
+
+msgid "Rating:"
+msgstr "Рейтинг:"
+
+msgid "About:"
+msgstr "Дополнительная информация:"
+
+msgid "Profile photo:"
+msgstr "Фото профиля"
+
+msgid "Choose source file"
+msgstr "Выберите исходный файл"
+
+msgid "Choose File"
+msgstr "Выбрать файл"
+
+msgid "No file chosen"
+msgstr "Файл не выбран"
+
+msgid "Property status"
+msgstr "Статус недвижимости"
+
+msgid "Skip first line"
+msgstr "Пропустить первую строку"
+
+msgid "Choose Import Fields"
+msgstr "Выберите поля для импорта"
+
+msgid "-- Choose fields for import --"
+msgstr "-- Выберите поля для импорта ---"
+
+msgid "CSV delimiter"
+msgstr "CSV разделитель"
+
+msgid "Custom Label => Content"
+msgstr "Пользовательский значок => Содержание"
+
+msgid ""
+"Please Import your property detail with CSV sample and click save to finish "
+"Download Sample File"
+msgstr ""
+"Пожалуйста, внесите данные недвижимости в образец файла CSV и нажмите "
+"«Сохранить», чтобы импортировать. Загрузить образец файла"
+
+msgid "Powered by link:"
+msgstr "Ссылка Powered by:"
+
+msgid "Listing publishing:"
+msgstr "Публикация листинга:"
+
+msgid "Number of listings per page:"
+msgstr "Количество объявлений на странице:"
+
+msgid "Show price"
+msgstr "Показать цену"
+
+msgid "Title / Address"
+msgstr "Название / Адрес"
+
+msgid "Show Address"
+msgstr "Показать адрес"
+
+msgid "Show/hide Contact Agent tab"
+msgstr "Показать / скрыть вкладку Связаться с агентом"
+
+msgid "Hide main title"
+msgstr "Скрыть основное название"
+
+msgid "Date format:"
+msgstr "Формат даты:"
+
+msgid "Theme style"
+msgstr "Стиль темы"
+
+msgid "Google map API key"
+msgstr "API ключ карт Google"
+
+msgid "Admin Logo image"
+msgstr "Изображение логотипа администратора"
+
+msgid "Admin Logo Width"
+msgstr "Ширина логотипа администратора"
+
+msgid "Admin Logo Height"
+msgstr "Высота логотипа администратора"
+
+msgid "Single property layout"
+msgstr "Расположение одного объекта"
+
+msgid "Listings layout:"
+msgstr "Расположение списка:"
+
+msgid "Default currency:"
+msgstr "Валюта по умолчанию:"
+
+msgid "Price format:"
+msgstr "Формат цены:"
+
+msgid "Currency sign place:"
+msgstr "Расположение знака валюты:"
+
+msgid "SET MAP MARKERS"
+msgstr "НАСТРОИТЬ МАРКЕРЫ КАРТЫ"
+
+msgid "-- Select taxonomy --"
+msgstr "-- Выберите таксономию --"
+
+msgid "-- Select term --"
+msgstr "-- Выберите термин --"
+
+msgid "EXTRA SETTINGS"
+msgstr "ДОПОЛНИТЕЛЬНЫЕ НАСТРОЙКИ"
+
+msgid "Enable subscriptions"
+msgstr "Включить подписки"
+
+msgid "PayPal Subscription settings"
+msgstr "Настройки PayPal"
+
+msgid "PayPal mode"
+msgstr "PayPal режим:"
+
+msgid "PayPal Username"
+msgstr "PayPal логин"
+
+msgid "PayPal password"
+msgstr "PayPal пароль"
+
+msgid "Signature"
+msgstr "Подпись"
+
+msgid "PayPal Response Page"
+msgstr "Страница ответа PayPal"
+
+msgid ""
+"Use [es_subscription_paypal_response_page] shortcode if you want create a "
+"custom PayPal page."
+msgstr ""
+"Используйте шорткод [es_subscription_paypal_response_page], если вы хотите "
+"создать пользовательскую страницу PayPal."
+
+msgid "PayPal Return URL"
+msgstr "URL страницы возврата PayPal"
+
+msgid "PayPal Cancel URL"
+msgstr "URL страницы отмены PayPal"
+
+msgid "PayPal Notify URL (for IPN)"
+msgstr "URL-адрес уведомления PayPal (для IPN)"
+
+msgid "Please fill up your settings details and click save to finish"
+msgstr ""
+"Пожалуйста, заполните ваши настройки и нажмите кнопку «Сохранить» для "
+"завершения."
+
+msgid "Most recent"
+msgstr "Самые последние"
+
+msgid "Highest price"
+msgstr "Самая высокая цена"
+
+msgid "Lowest price"
+msgstr "Самая низкая цена"
+
+msgid "Most popular"
+msgstr "Самые популярные"
+
+msgid "Layouts"
+msgstr "Расположение"
+
+msgid "Admin Logo"
+msgstr "Логотип администратора"
+
+msgid "Set map markers"
+msgstr "Настроить маркеры карты"
+
+msgid "Select taxonomy"
+msgstr "Выберите таксономию"
+
+msgid "Select term"
+msgstr "Выберите термин"
+
+msgid "Related services"
+msgstr "Сопутствующие услуги"
+
+msgid "Choose fields for import"
+msgstr "Выберите поля для импорта"
+
+msgid "Changelog"
+msgstr "Список изменений"
+
+msgid "Installation & setup"
+msgstr "УСТАНОВКА И НАСТРОЙКА"
+
+msgid ""
+"Sit back and let us handle everything. Within 2 hours you`ll get a site "
+"exactly like our demo."
+msgstr ""
+"Устройтесь поудобнее и позвольте нам решить эту задачу. В течение двух часов "
+"у Вас будет сайт, настроенный в точности как наш demo сайт."
+
+msgid "Customization"
+msgstr "КАСТОМИЗАЦИЯ"
+
+msgid "We can develop any additional feature on your individual request."
+msgstr ""
+"Мы готовы разработать любую дополнительную опцию или функционал по Вашему "
+"индивидуальному запросу."
+
+msgid "Custom real estate website"
+msgstr "КАСТОМНЫЙ САЙТ НЕДВИЖИМОСТИ"
+
+msgid ""
+"Need a site with unique stunning design and flexible trendy features? Click "
+"here."
+msgstr ""
+"Нужен сайт с уникальным эффектным дизайном и гибкими в настройке, "
+"современными функциями? Кликните здесь."
+
+msgid "Telephone"
+msgstr "Телефон"
+
+msgid "Website"
+msgstr "Сайт"
+
+msgid "Profile photo"
+msgstr "Фото профиля"
+
+msgid "Start import"
+msgstr "Начать импорт"
+
+msgid "Estatik Calculator"
+msgstr "Estatik калькулятор"
+
+msgid "Estatik Map View"
+msgstr "Estatik карта"
+
+msgid "Show arrows"
+msgstr "Показывать стрелки"
+
+msgid "Vertical"
+msgstr "Вертикально"
+
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+msgid "Listings IDs"
+msgstr "ID объектов"
+
+msgid "Limit"
+msgstr "Максимальное количество объектов"
+
+msgid "Slides to show"
+msgstr "Количество слайдов в слайд-шоу"
+
+msgid "Show on pages"
+msgstr "Показывать на страницах"
+
+msgid "All pages"
+msgstr "Все страницы"
+
+msgid "Show on checked pages"
+msgstr "Показывать на отмеченных страницах"
+
+msgid "Hide on checked pages"
+msgstr "Скрыть на отмеченных страницах"
+
+msgid "Select pages"
+msgstr "Выбрать страницы"
+
+msgid "Search Title"
+msgstr "Название поиска"
+
+msgid "Add search field"
+msgstr "Добавить поле поиска"
+
+msgid "Select field"
+msgstr "Выбрать поле"
+
+msgid "Map Title"
+msgstr "Название карты"
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "State"
+msgstr "Область"
+
+msgid "Admin"
+msgstr "Администратор"
+
+msgid "Admin & Agent"
+msgstr "Администратор & Агент"
+
+msgid "General"
+msgstr "Общие"
+
+msgid "Sq ft"
+msgstr "Кв. ф."
+
+msgid "Sq m"
+msgstr "м2"
+
+msgid "Acres"
+msgstr "Акры"
+
+msgid "Hectares"
+msgstr "Гектары"
+
+msgid "Property title"
+msgstr "Название"
+
+msgid "%s beds"
+msgstr "%s комнат"
+
+msgid "sq ft"
+msgstr "кв. ф."
+
+msgid "sq m"
+msgstr "м2"
+
+msgid "acres"
+msgstr "акры"
+
+msgid "hectares"
+msgstr "га"
+
+msgid "Subscription data"
+msgstr "Данные по подписке"
+
+msgid "Property qty"
+msgstr "Кол-во объектов"
+
+msgid "Featured qty"
+msgstr "Кол-во популярных объектов"
+
+msgid "Price renewal"
+msgstr "Цена за продление"
+
+msgid "Trial period"
+msgstr "Пробный период"
+
+msgid "Select trial period"
+msgstr "Выбрать период"
+
+msgid "Featured listings"
+msgstr "Горячие объекты"
+
+msgid "Total"
+msgstr "Итого"
+
+msgid "All listing"
+msgstr "Всего объектов"
+
+msgid "More details"
+msgstr "Детали"
+
+msgid "Import properties"
+msgstr "Импорт недвижимости"
+
+msgid "Migration"
+msgstr "Перемещение"
+
+msgid "BECOME PRO"
+msgstr "ПОЛУЧИТЬ PRO ВЕРСИЮ"
+
+msgid "Sharing Feature is available in Estatik Pro version only"
+msgstr "Публикация в социальных сетях доступна только в версии Estatik Pro"
+
+msgid "Disabled Layouts are available in Estatik Pro version"
+msgstr ""
+"Неактивные варианты расположения объектов доступны только в версии Estatik "
+"Pro"
+
+msgid ""
+"Please upload your Estatik Pro / Premium version in zip format and click "
+"upload to finish for update to new Version."
+msgstr ""
+"Пожалуйста, загрузите Вашу версию плагина Estatik Pro / Premium в формате "
+"ZIP и нажмите кнопку \"Загрузить\" для обновления до новой версии"
+
+msgid "Upload archive"
+msgstr "Загрузить архив"
+
+msgid "Upload Downloaded Estatik PRO / Premium"
+msgstr "Загрузите скачанный Estatik PRO / Premium"
+
+msgid ""
+"To update the previous version to major version 3.* you need to migrate your "
+"listings as the new version of the plugin requires."
+msgstr ""
+"Чтобы обновить предыдущую версию плагина до основной версии 3.*, Вам "
+"необходимо переместить Ваш список объявлений, как того требует новая версия "
+"плагина."
+
+msgid ""
+"Before doing this, please make sure that your version of the plugin doesn't "
+"have custom changes of the code."
+msgstr ""
+"Прежде, чем сделать это, пожалуйста, убедитесь, что в Вашей версии плагина "
+"нет кастомных изменений кода."
+
+msgid "Migrate"
+msgstr "Переместить"
+
+msgid "Are you sure you want to delete these items?"
+msgstr "Вы уверены, что хотите удалить эти объекты?"
+
+msgid "Are you sure you want to copy these items?"
+msgstr "Вы уверены, что хотите скопировать эти объекты?"
+
+msgid "Item is successfully created"
+msgstr "Объект успешно создан"
+
+msgid "m3"
+msgstr "м3"
+
+msgid "Please enter Google Map API key in General Settings of the plugin."
+msgstr ""
+"Пожалуйста, введите ключ API для Google Map в общих настройках плагина."
+
+msgid "UPLOAD DOWNLOADED ESTATIK PRO / PREMIUM"
+msgstr "Загрузите скачанную версию Estatik Pro / Premium"
+
+msgid "house"
+msgstr "дом"
+
+msgid "apartment"
+msgstr "квартира"

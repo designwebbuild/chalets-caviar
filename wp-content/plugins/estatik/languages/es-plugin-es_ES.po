@@ -1,0 +1,1196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Estatik\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-09 18:14+0500\n"
+"PO-Revision-Date: 2017-05-11 11:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (UK)\n"
+"Language: en-GB\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: ru_RU\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: estatik\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: en_GB"
+
+msgid "Ok"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Hot"
+msgstr ""
+
+msgid "Powered by link"
+msgstr ""
+
+msgid "Dollar, Euro, etc"
+msgstr ""
+
+msgid "NO"
+msgstr ""
+
+msgid "Estatik Pro"
+msgstr ""
+
+msgid "hot"
+msgstr ""
+
+msgid "Sq ft"
+msgstr ""
+
+msgid "Installation & setup"
+msgstr "Instalación y configuración"
+
+msgid "Lowest price"
+msgstr "Precio más bajo"
+
+msgid "Open house"
+msgstr "Casa Abierta"
+
+msgid "Foreclosure"
+msgstr "Juicio hipotecario"
+
+msgid "openhouse"
+msgstr "Casa Abierta"
+
+msgid "foreclosure"
+msgstr "Juicio hipotecario"
+
+msgid "Properties"
+msgstr "Propiedades"
+
+msgid "Add new"
+msgstr "Agregar nuevo"
+
+msgid "Add new property"
+msgstr "Añadir nueva propiedad"
+
+msgid "Edit Property"
+msgstr "Editar propiedad"
+
+msgid "New Property"
+msgstr "Nueva propiedad"
+
+msgid "All Properties"
+msgstr "Todas las Propieades"
+
+msgid "View Properties"
+msgstr "Ver propiedades"
+
+msgid "Search Properties"
+msgstr "Buscar propiedades"
+
+msgid "No Properties found"
+msgstr "Propiedades no encontradas"
+
+msgid "No Properties found in the Trash"
+msgstr "No se encontraron propiedades en la papelera"
+
+msgid "Property Categories"
+msgstr "Categorías de propiedad"
+
+msgid "Property Category"
+msgstr "Categoría de propiedad"
+
+msgid "Search Property Categories"
+msgstr "Buscar categorías de propiedad"
+
+msgid "All Property Categories"
+msgstr "Todas las categorías de propiedades"
+
+msgid "Parent Property Category"
+msgstr "Categoría superior"
+
+msgid "Parent Property Category:"
+msgstr "Categoría superior"
+
+msgid "Edit Property Category"
+msgstr "Editar"
+
+msgid "Update Property Category"
+msgstr "Actualizar Categoría"
+
+msgid "Add New Property Category"
+msgstr "Añadir nueva сategoría"
+
+msgid "New Property Category"
+msgstr "Nueva categoría de propiedad"
+
+msgid "Property Status"
+msgstr "Estado de la Propiedad"
+
+msgid "Search Status Categories"
+msgstr "Buscar estado"
+
+msgid "All Status Categories"
+msgstr "Todos estados"
+
+msgid "Parent Status Category"
+msgstr "Estado superior"
+
+msgid "Parent Status Category:"
+msgstr "Estado superior"
+
+msgid "Edit Status Category"
+msgstr "Editar estado"
+
+msgid "Update Status Category"
+msgstr "Actualizar estado"
+
+msgid "Add New Status Category"
+msgstr "Añadir nuevo estado"
+
+msgid "New Status Category"
+msgstr "Nuevo estado"
+
+msgid "Status Categories"
+msgstr "Estado"
+
+msgid "Property Types"
+msgstr "Tipos de propiedad"
+
+msgid "Search Types Categories"
+msgstr "Buscar tipos"
+
+msgid "All Types Categories"
+msgstr "Todos los tipos"
+
+msgid "Parent Type Category"
+msgstr "Tipo superior"
+
+msgid "Parent Type Category:"
+msgstr "Tipo superior"
+
+msgid "Edit Type Category"
+msgstr "Editar tipo"
+
+msgid "Update Type Category"
+msgstr "Actualizar tipo"
+
+msgid "Add New Type Category"
+msgstr "Añadir nuevo tipo"
+
+msgid "New Type Category"
+msgstr "Nuevo tipo"
+
+msgid "Type Categories"
+msgstr "Tipos"
+
+msgid "Dashboard"
+msgstr "Panel de control"
+
+msgid "My listings"
+msgstr "Mis propiedades"
+
+msgid "Data manager"
+msgstr "Gestor de datos"
+
+msgid "Data Manager"
+msgstr "Gestor de datos"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Get support"
+msgstr "Obtener manutención"
+
+msgid "Step-by-step guide"
+msgstr "Documentación"
+
+msgid "Video Tutorial"
+msgstr "Video Tutorial"
+
+msgid "Submit a ticket"
+msgstr "Haz una pregunta"
+
+msgid "Choose Your Theme"
+msgstr "Elegir su tema"
+
+msgid "Are you sure you want to delete it?"
+msgstr "¿Está seguro de que desea eliminar?"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Please fill your field."
+msgstr "Por favor, rellene su campo."
+
+msgid "field has been added."
+msgstr "se añadió nuevo campo"
+
+msgid "field has been deleted."
+msgstr "campo ha sido eliminado"
+
+msgid "Properties details"
+msgstr "Propiedades detalles"
+
+msgid "Location"
+msgstr "Ubicación"
+
+msgid "Dimensions"
+msgstr "Dimensiones"
+
+msgid "Features"
+msgstr "Características"
+
+msgid "Currency"
+msgstr "Moneda"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Add new field"
+msgstr "Agregar nuevo campo"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Rent period"
+msgstr "Período de arriendo"
+
+msgid "Country"
+msgstr "País"
+
+msgid "States/Regions"
+msgstr "Estados o regiones"
+
+msgid "Cities"
+msgstr "Ciudades"
+
+msgid "Area & lot size"
+msgstr "Zona"
+
+msgid "Appliances"
+msgstr "Electrodomesticos"
+
+msgid "No record found. Please add new one."
+msgstr "Ningún record fue encontrado. Por favor, añada uno nuevo."
+
+msgid "Upload Downloaded Estatik Pro"
+msgstr "Subir descargado Estatik Pro"
+
+msgid ""
+"Full advanced version with extra portal management option, social sharing, "
+"additional widgets support, etc."
+msgstr ""
+"Versión avanzada completa con la opción adicional de gestión del portal, el "
+"intercambio social, el apoyo adicional de widgets, etc."
+
+msgid "Please upload your"
+msgstr "Por favor, sube tu"
+
+msgid ""
+"version in zip format and click upload to finish for update to pro Version."
+msgstr ""
+"versión en formato zip y haga clic en Cargar para terminar de actualización "
+"para la versión Pro."
+
+msgid "Upload"
+msgstr "Subir"
+
+msgid "Upload Zip"
+msgstr "Subir zip"
+
+msgid "Please enter numbers only."
+msgstr "Por favor introduzca sólo números."
+
+msgid "Please Edit your property detail and click save to finish."
+msgstr ""
+"Por favor editar su detalle de la propiedad y haga clic en Guardar para "
+"finalizar."
+
+msgid "Save & Close"
+msgstr "Guardar & cerrar"
+
+msgid "Save"
+msgstr "Guardar "
+
+msgid "Please fill up your property detail and click save to finish."
+msgstr ""
+"Por favor editar su detalle de la propiedad y haga clic en Guardar para "
+"finalizar."
+
+msgid "Property has been updated."
+msgstr "Propiedad se ha actualizado."
+
+msgid "Basic information"
+msgstr "Información básica"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Property ID"
+msgstr "ID de propriedad"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Featured"
+msgstr "Destacado"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "No"
+msgstr "No"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Period"
+msgstr "Período"
+
+msgid "Bedrooms"
+msgstr "Dormitorios"
+
+msgid "Bathrooms"
+msgstr "Baños"
+
+msgid "Floors"
+msgstr "Pisos"
+
+msgid "Area"
+msgstr "Área"
+
+msgid "Lot size"
+msgstr "Superficie"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Choose Country"
+msgstr "Elija país"
+
+msgid "State/Region"
+msgstr "Estado/Región"
+
+msgid "City"
+msgstr "Ciudad:"
+
+msgid "ZIP/Postcode"
+msgstr "Código postal"
+
+msgid "Street"
+msgstr "Calle"
+
+msgid "Longitude"
+msgstr "Longitud"
+
+msgid "Latitude"
+msgstr "Latitud"
+
+msgid "Select files or upload images in a zip-file."
+msgstr "Seleccione los archivos o subir imágenes en un archivo zip."
+
+msgid "Please select properties you want to copy."
+msgstr "Por favor, seleccione las propiedades que desea copiar."
+
+msgid "Please select properties you want to delete."
+msgstr "Por favor, seleccione las propiedades que desea eliminar."
+
+msgid "Please select properties you want to publish."
+msgstr "Por favor, seleccione las propiedades que desea publicar."
+
+msgid "Please select properties you want to unpublish."
+msgstr "Por favor, seleccione las propiedades que desea anular la publicación."
+
+msgid "Are you sure you want to Copy it?"
+msgstr "¿Está seguro de que desea copiar?"
+
+msgid "Are you sure you want to publish it?"
+msgstr "¿Seguro que quieres publicar?"
+
+msgid "Are you sure you want to unpublish it?"
+msgstr "¿Seguro que deseas anular la publicación de ella?"
+
+msgid "My Listings"
+msgstr "Mis propiedades"
+
+msgid "Filter by"
+msgstr "Filtrado por"
+
+msgid "Date added"
+msgstr "Publicación"
+
+msgid "Manage"
+msgstr "Gestionar"
+
+msgid "Select all"
+msgstr "Seleccionar todo"
+
+msgid "Undo selection"
+msgstr "Deshacer la selección"
+
+msgid "Copy"
+msgstr "Copiar"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Publish"
+msgstr "Publicar"
+
+msgid "Unpublish"
+msgstr "Despublicar"
+
+msgid "Property has been deleted."
+msgstr "Propiedad ha sido eliminado."
+
+msgid "Selected properties have been copied."
+msgstr "Inmuebles seleccionados se han copiado."
+
+msgid "Selected properties have been deleted."
+msgstr "Se han eliminado Inmuebles seleccionados."
+
+msgid "Selected properties have been published."
+msgstr "Inmuebles seleccionados han sido publicados."
+
+msgid "Selected properties have been unpublished."
+msgstr "Inmuebles seleccionados han sido publicados."
+
+msgid "Your search results."
+msgstr "Resultados de su búsqueda"
+
+msgid "Image"
+msgstr "Imagen"
+
+msgid "No Image"
+msgstr "Sin imágen"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "No record found."
+msgstr "Ningún record fue encontrado"
+
+msgid "No City"
+msgstr "Ninguna ciudad"
+
+msgid "No record found. please add new one."
+msgstr "Ningún record fue encontrado. Por favor, añada uno nuevo."
+
+msgid "No State"
+msgstr "Ningún estado"
+
+msgid "Please fill up your Settings detail and click save to finish"
+msgstr ""
+"Por favor llenar el detalle Configuración y haga clic en Guardar para "
+"finalizar."
+
+msgid "Settings has been updated."
+msgstr "Ajustes se ha actualizado."
+
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+msgid "Layout"
+msgstr "Disposición"
+
+msgid "Images"
+msgstr "Imágenes"
+
+msgid "Sharing"
+msgstr "Social"
+
+msgid "Number of listings per page"
+msgstr "Número de artículos por página"
+
+msgid "Title/Address"
+msgstr "Título/dirección"
+
+msgid "Date format"
+msgstr "Formato de fecha"
+
+msgid "Date Format"
+msgstr "Formato de fecha"
+
+msgid "Listings layout"
+msgstr "Layout"
+
+msgid "Single property"
+msgstr "Propiedad única"
+
+msgid "Disabled Layouts are available in"
+msgstr "Diseños movilidad están disponibles en"
+
+msgid "version"
+msgstr "versión"
+
+msgid "Resize method"
+msgstr "Cambiar el tamaño"
+
+msgid "Crop & shrink"
+msgstr "Recortar y reducir"
+
+msgid "Crop"
+msgstr "Recortar"
+
+msgid "Listings view"
+msgstr "Propriedades visión"
+
+msgid "Table"
+msgstr "tabla"
+
+msgid "2 colums"
+msgstr "2 columnas"
+
+msgid "list"
+msgstr "lista"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Widht"
+msgstr "Ancho"
+
+msgid "Photo on<br />the left/right"
+msgstr "Foto de<br />la izquierda/derecho"
+
+msgid "Photo <br />in center"
+msgstr "Foto <br />en el centro"
+
+msgid "Photo <br /> Thumb"
+msgstr "Pequeña <br /> imagen"
+
+msgid "Disabled fields are available in"
+msgstr "Diseños movilidad están disponibles en"
+
+msgid "Default currency"
+msgstr "Moneda predeterminada"
+
+msgid "Price format"
+msgstr "Formato de precio"
+
+msgid "Currency sign place"
+msgstr "Signo de moneda lugar"
+
+msgid "Before price"
+msgstr "Antes de precio"
+
+msgid "After price"
+msgstr "Después de precio"
+
+msgid "PDF Player"
+msgstr "PDF folleto"
+
+msgid "Sharing Feature is available in"
+msgstr "Compartiendo característica está disponible en"
+
+msgid "version only"
+msgstr "sólo versión"
+
+msgid "Estatik Search"
+msgstr "Estatik Búsqueda"
+
+msgid "Search Title:"
+msgstr "Título de búsqueda"
+
+msgid "Show On Pages"
+msgstr "Mostrar en páginas"
+
+msgid "Select Pages"
+msgstr "Seleccione páginas"
+
+msgid "Archive Page"
+msgstr "Página de archivo"
+
+msgid "Single Page"
+msgstr "Una sola página"
+
+msgid "Category Page"
+msgstr "Categoría Página"
+
+msgid "Search Page"
+msgstr "Página de búsqueda"
+
+msgid "Author Page"
+msgstr "Página autor"
+
+msgid "%s beds"
+msgstr "%s dorms"
+
+msgid "%s baths"
+msgstr "%s baños"
+
+msgid "View on map"
+msgstr "Ver en mapa"
+
+msgid "Details"
+msgstr "Detalles"
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Powered by"
+msgstr "Funciona Con"
+
+msgid "Basic facts"
+msgstr "Hechos básicos"
+
+msgid "Area size"
+msgstr "Área"
+
+msgid "Rent Period"
+msgstr "Período de arriendo"
+
+msgid "Amenities"
+msgstr "Electrodomésticos"
+
+msgid "To top"
+msgstr "Ir arriba"
+
+msgid "Search"
+msgstr "Buscar "
+
+msgid "Properties by Agent"
+msgstr "Propiedades de Agente"
+
+msgid "Address, City, ZIP"
+msgstr "Dirección, ciudad, código postal"
+
+msgid "Reset"
+msgstr "Recomponer"
+
+msgid "min"
+msgstr "min"
+
+msgid "max"
+msgstr "max"
+
+msgid "Subscriptions"
+msgstr "Suscripción"
+
+msgid "Add subscription"
+msgstr "Añadir una suscripción"
+
+msgid "Add New Subscription"
+msgstr "Crear una nueva suscripción"
+
+msgid ""
+"Please create or edit your subscription plan here. Do not forget to click on "
+"save button."
+msgstr ""
+"Por favor, crear o editar su plan de suscripción aquí. No olvide hacer clic "
+"en el botón Guardar."
+
+msgid "Featured properties"
+msgstr "Propiedad muy valiosa"
+
+msgid "Subscription period"
+msgstr "Período de suscripción"
+
+msgid "Renewal Price"
+msgstr "Precio de suscripción de actualización"
+
+msgid "Orders"
+msgstr "Pedidos"
+
+msgid "Order status"
+msgstr "El estado del pedido"
+
+msgid "Subscription"
+msgstr "Suscripción"
+
+msgid "Price, $"
+msgstr "Precio, Euro"
+
+msgid "Subscription settings"
+msgstr "Configuración de suscripciones"
+
+msgid "Listing publishing"
+msgstr "Publicar propiedad"
+
+msgid "Automatic"
+msgstr "Automático"
+
+msgid "Manual"
+msgstr "A mano"
+
+msgid "Enable Subscriptions"
+msgstr "Inhabilitar suscripciones"
+
+msgid "Registration page"
+msgstr "Página de registro"
+
+msgid "Manage properties page"
+msgstr "Frontend gestión de la página"
+
+msgid "Subscriptions table page"
+msgstr "Tabla de páginas con las suscripciones"
+
+msgid "Subscription expired email settings"
+msgstr "Cartas de Ajustes de finalización de suscripción"
+
+msgid "Subscription expired subject"
+msgstr "Sujeto"
+
+msgid "Subscription expired message"
+msgstr "El texto de la carta de resolución de suscripción"
+
+msgid "Subscription Paypal settings"
+msgstr "Ajustes de PayPal"
+
+msgid ""
+"Hello, Your subscription plan period ends today. Please renew your "
+"subscription and click here >> to proceed. Otherwise your listings will be "
+"unpublished. Thank you."
+msgstr ""
+"¡Buenas tardes, \n"
+"Ваша подписка заканчивается сегодня. Пожалуйста, обновите план подписки "
+"здесь >> . В противном случае ваши объекты будут сняты с публикации. Мы "
+"благодарим Вас. "
+
+msgid "Paypal Type"
+msgstr "Tipo de PayPal"
+
+msgid "Paypal email"
+msgstr "Email PayPal"
+
+msgid "Paypal API Mode"
+msgstr "El modo API de PayPal"
+
+msgid "Number of properties"
+msgstr "Número de propiedades"
+
+msgid "Update Subscription"
+msgstr "Renovar su suscripción"
+
+msgid ""
+"Here you can create plans that will meet your website requirements and be "
+"most profitable for you."
+msgstr ""
+"Aquí puede crear suscripciones que satisfagan sus necesidades y será el más "
+"rentable para usted."
+
+msgid "Week"
+msgstr "Semana"
+
+msgid "Month"
+msgstr "Mes"
+
+msgid "Year"
+msgstr "Año"
+
+msgid "Map view"
+msgstr "Ajustes mapa"
+
+msgid "Shortcodes"
+msgstr "Códigos cortos"
+
+msgid ""
+"Please create pages with shortcodes below to display map on your website"
+msgstr ""
+"Por favor, crear páginas con códigos cortos por debajo de la visualización "
+"del mapa en su página web."
+
+msgid "All properties"
+msgstr "Todas las propiedades"
+
+msgid "Properties for rent"
+msgstr "Alquiler de inmuebles"
+
+msgid "Properties for sale"
+msgstr "Propiedades en venta"
+
+msgid "Specific properties"
+msgstr "Ciertos objetos"
+
+msgid "Icons color"
+msgstr "Los iconos de color"
+
+msgid "Icons type"
+msgstr "Icono de Tipo"
+
+msgid "Extra settings"
+msgstr "Ajustes adicionales"
+
+msgid "Number of listings to show"
+msgstr "El número de objetos que se vea"
+
+msgid "Map zoom level (default value is 12)"
+msgstr "El nivel de zoom del mapa (valor por defecto es 12)"
+
+msgid "Choose theme color style"
+msgstr "Seleccione el esquema de color del tema"
+
+msgid "View first menu"
+msgstr "Ordenar por menú"
+
+msgid "Light"
+msgstr "Ligero"
+
+msgid "Dark"
+msgstr "Oscuro"
+
+msgid "PDF flyer"
+msgstr "PDF folleto"
+
+msgid "Select subscription"
+msgstr "Seleccione la suscripción"
+
+msgid "text/number"
+msgstr "texto/número"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Update subscription"
+msgstr "Suscripción de actualización"
+
+msgid "Agents"
+msgstr "Agentes"
+
+msgid "Please fill up your agent information below and click save to finish."
+msgstr ""
+"Por favor llenar su información del agente de abajo y haga clic en Guardar "
+"para terminar."
+
+msgid "Company"
+msgstr "Empresa"
+
+msgid "Rating"
+msgstr "Clasificación"
+
+msgid "About"
+msgstr "Acerca de"
+
+msgid "Photo/Logo"
+msgstr "Foto / logotipo"
+
+msgid "Sold properties"
+msgstr "Propiedades vendidas"
+
+msgid "User name"
+msgstr "Nombre de usuario"
+
+msgid "Add New Agent"
+msgstr "Añadir Nuevo Agente"
+
+msgid "By Name:"
+msgstr "Por nombre"
+
+msgid ""
+"Please Import your property detail with CSV sample and click save to finish"
+msgstr ""
+"Importe el detalle de su propiedad con la muestra de CSV y haga clic en "
+"Guardar para finalizar."
+
+msgid "Choose source file"
+msgstr "Elija el archivo fuente"
+
+msgid "Property status"
+msgstr "Estado de la propiedad"
+
+msgid "Skip first line"
+msgstr "Omitir la primera línea"
+
+msgid "Choose Import Fields"
+msgstr "Seleccionar campos"
+
+msgid "Start import"
+msgstr "Iniciar importación"
+
+msgid "Year built"
+msgstr "Año de construcción"
+
+msgid "Property title"
+msgstr "Titulo de propiedad"
+
+msgid "Select / deselect all"
+msgstr "Seleccionar / anular la selección de todo"
+
+msgid "Call for price"
+msgstr "Llamar para preguntar el precio"
+
+msgid "Here you can add video and upload images."
+msgstr "Aquí puedes agregar videos y subir imágenes."
+
+msgid "Please enter video code in iframe format, e.g. -"
+msgstr "Introduzca el código de vídeo en formato iframe, p. -"
+
+msgid "Embed the code"
+msgstr "Incorpore el código"
+
+msgid "Categories"
+msgstr "Categorías"
+
+msgid "Types"
+msgstr "Tipos"
+
+msgid "Add new item"
+msgstr "Agregar ítem nuevo"
+
+msgid "By Name"
+msgstr "Por nombre"
+
+msgid "Properties Q-ty"
+msgstr "Cantidad de propiedades"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Profile photo"
+msgstr "Foto de perfil"
+
+msgid "Please fill up your settings details and click save to finish"
+msgstr ""
+"Rellene los detalles de su configuración y haga clic en Guardar para "
+"finalizar"
+
+msgid "Show price"
+msgstr "Mostrar precio"
+
+msgid "Title / Address"
+msgstr "Título / Dirección"
+
+msgid "Show Address"
+msgstr "Mostrar dirección"
+
+msgid "Show/hide Contact Agent tab"
+msgstr "Mostrar / ocultar la pestaña Agente de contacto"
+
+msgid "Theme style"
+msgstr "Estilo de tema"
+
+msgid "Admin Logo image"
+msgstr "Admin Logo"
+
+msgid "Admin Logo Width"
+msgstr "Anchura del logotipo"
+
+msgid "Admin Logo Height"
+msgstr "Altura del logotipo"
+
+msgid "Single property layout"
+msgstr "Disposición de una sola propiedad"
+
+msgid "Width"
+msgstr "Anchura"
+
+msgid "Enable subscriptions"
+msgstr "Habilitar suscripciones"
+
+msgid "PayPal Subscription settings"
+msgstr "Configuración de suscripción de PayPal"
+
+msgid "Signature"
+msgstr "Firma"
+
+msgid "PayPal Response Page"
+msgstr "Página de respuesta de PayPal"
+
+msgid "PayPal mode"
+msgstr "Modo PayPal"
+
+msgid "PayPal Username"
+msgstr "Nombre de usuario de PayPal"
+
+msgid "PayPal password"
+msgstr "Contraseña de PayPal"
+
+msgid "Most recent"
+msgstr "Más reciente"
+
+msgid "Highest price"
+msgstr "Precio más alto"
+
+msgid "Most popular"
+msgstr "Más popular"
+
+msgid "%s bed"
+msgstr "%s dorm"
+
+msgid "%s bath"
+msgstr "%s baño"
+
+msgid "Neighborhood"
+msgstr "Barrio"
+
+msgid "View on map / Neighborhood"
+msgstr "Ver en el mapa / Barrio"
+
+msgid "More details"
+msgstr "Detalles"
+
+msgid ""
+"Here you can add video and upload images. Please enter video code in iframe "
+"format, e.g. -"
+msgstr ""
+"Aquí puedes agregar videos y subir imágenes. Introduzca el código de vídeo "
+"en formato iframe, p. -"
+
+msgid "Add image(s)"
+msgstr "Añadir imagen"
+
+msgid "Please enter Google Map API key in General Settings of the plugin"
+msgstr ""
+"Ingresa la clave de la API de Google Map en Configuración general del "
+"complemento"
+
+msgid "Choose fields for import"
+msgstr "Seleccionar campos para la importación"
+
+msgid "CSV delimiter"
+msgstr "CSV delimitador"
+
+msgid "Bad"
+msgstr "Malo"
+
+msgid "Poor"
+msgstr "Mediocre"
+
+msgid "Regular"
+msgstr "Normal"
+
+msgid "Good"
+msgstr "Bueno"
+
+msgid "Excellent"
+msgstr "Excelente"
+
+msgid "Layouts"
+msgstr "Layout"
+
+msgid "Admin Logo"
+msgstr "Admin logotipo"
+
+msgid "Properties sold"
+msgstr "Propiedades vendidas"
+
+msgid "Set map markers"
+msgstr "Configurar marcadores de mapa"
+
+msgid "Select taxonomy"
+msgstr "Seleccionar taxonomía"
+
+msgid "Select term"
+msgstr "Seleccionar término"
+
+msgid "Related services"
+msgstr "Servicios relacionados"
+
+msgid ""
+"Sit back and let us handle everything. Within 2 hours you`ll get a site "
+"exactly like our demo."
+msgstr ""
+"Siéntese y déjenos manejar todo. Dentro de 2 horas usted conseguirá un sitio "
+"exactamente como nuestra demo."
+
+msgid "We can develop any additional feature on your individual request."
+msgstr ""
+"Podemos desarrollar cualquier característica adicional en su solicitud "
+"individual."
+
+msgid "Customization"
+msgstr "Personalización"
+
+msgid ""
+"Need a site with unique stunning design and flexible trendy features? Click "
+"here."
+msgstr ""
+"¿Necesita un sitio con un diseño único impresionante y características de "
+"moda flexibles? Haga clic aquí."
+
+msgid "Custom real estate website"
+msgstr "Sitio web inmobiliario personalizado"
+
+msgid "Subscription data"
+msgstr "Datos de suscripción"
+
+msgid "Property qty"
+msgstr "Cantidad de la propiedad"
+
+msgid "Featured qty"
+msgstr "Cantidad destacada"
+
+msgid "Price renewal"
+msgstr "Precio de renovación"
+
+msgid "Trial period"
+msgstr "Periodo de prueba"
+
+msgid "Select trial period"
+msgstr "Seleccione periodo de prueba"
+
+msgid "Featured listings"
+msgstr "Listas destacadas"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "All listing"
+msgstr "Todos los anuncios"
+
+msgid "Import properties"
+msgstr "Importar propiedades"
+
+msgid "Download Sample File"
+msgstr "Descargar archivo de muestra"
+
+msgid "Migration"
+msgstr "Migración"
+
+msgid "Become PRO"
+msgstr "Obtén la versión Pro"
+
+msgid "Sharing Feature is available in Estatik Pro version only"
+msgstr ""
+"La característica de uso compartido está disponible únicamente en la versión "
+"Estatik Pro"
+
+msgid "Disabled Layouts are available in Estatik Pro version"
+msgstr "Los diseños deshabilitados están disponibles en la versión Estatik Pro"
+
+msgid ""
+"Please upload your Estatik Pro / Premium version in zip format and click "
+"upload to finish for update to new Version."
+msgstr ""
+"Cargue su versión de Estatik Pro / Premium en formato zip y haga clic en "
+"cargar para finalizar para actualizar a la nueva versión."
+
+msgid "Upload archive"
+msgstr "Subir archivo"
+
+msgid "Upload Downloaded Estatik PRO / Premium"
+msgstr "Subir Descargado Estatik PRO / Premium"
+
+msgid ""
+"To update the previous version to major version 3.* you need to migrate your "
+"listings as the new version of the plugin requires."
+msgstr ""
+"Para actualizar la versión anterior a la versión principal 3. * necesitas "
+"migrar tus anuncios según requiera la nueva versión del complemento."
+
+msgid ""
+"Before doing this, please make sure that your version of the plugin doesn't "
+"have custom changes of the code."
+msgstr ""
+"Antes de hacer esto, asegúrese de que su versión del complemento no tenga "
+"cambios personalizados del código."
+
+msgid "Migrate"
+msgstr "Emigrar"
+
+msgid "Are you sure you want to delete these items?"
+msgstr "¿Está seguro de que desea eliminar estos elementos?"
+
+msgid "Are you sure you want to copy these items?"
+msgstr "¿Está seguro de que desea copiar estos elementos?"
+
+msgid "Item is successfully created"
+msgstr "El elemento se ha creado correctamente"

@@ -1,0 +1,2600 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Estatik\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-21 14:32+0100\n"
+"PO-Revision-Date: 2017-04-07 13:03+0000\n"
+"Last-Translator: \n"
+"Language-Team: Torsten Landsiedel\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: ru_RU\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Poedit-SearchPath-0: estatik"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:69 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:66
+msgid "Estatik Team!"
+msgstr ""
+
+#: estatik/admin_template/es_agents/es_agents.php:78
+msgid "Please select agents you want to copy."
+msgstr ""
+
+#: estatik/admin_template/es_agents/es_agents.php:79
+msgid "Please select agents you want to delete."
+msgstr ""
+
+#: estatik/admin_template/es_agents/es_agents.php:80
+msgid "Please select agents you want to publish."
+msgstr ""
+
+#: estatik/admin_template/es_agents/es_agents.php:81
+msgid "Please select agents you want to unpublish."
+msgstr ""
+
+#: estatik/admin_template/es_agents/es_agents.php:172
+msgid "Selected Agents have been copied."
+msgstr ""
+
+#: estatik/admin_template/es_agents/es_agents.php:176
+msgid "Selected Agents have been deleted."
+msgstr ""
+
+#: estatik/admin_template/es_agents/es_agents.php:180
+msgid "Selected Agents have been published."
+msgstr ""
+
+#: estatik/admin_template/es_agents/es_agents.php:184
+msgid "Selected Agents have been unpublished."
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:411
+msgid "Express"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:423
+msgid "Sandbox (test mode)"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:431
+msgid "Paypal API key"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:435
+msgid "Paypal API secret"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:442
+msgid "Paypal Sandbox API key"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:446
+msgid "Paypal Sandbox API secret"
+msgstr ""
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:247
+msgid ""
+"Something were wrong with paypal checkout. Please support admin of the site "
+"with this problem."
+msgstr ""
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:251
+msgid "Order successfully created. Wait for paypal approve."
+msgstr ""
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:1116
+msgid "$"
+msgstr ""
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:1118
+msgid "GBP"
+msgstr ""
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:1119
+msgid "RUB"
+msgstr ""
+
+#: estatik/admin_template/es_widgets.php:325
+msgid "Request Message:"
+msgstr ""
+
+#: estatik/admin_template/es_widgets.php:419
+msgid "* When No selected images will be changed with fade effect."
+msgstr ""
+
+#: estatik/admin_template/es_widgets.php:470
+msgid "Listing IDs"
+msgstr ""
+
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:318 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:326 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:326
+msgid "Thank you for your submission. Your property has been published."
+msgstr ""
+
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:320 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:324 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:328 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:331
+msgid ""
+"Thank you for your submission. Your property will be published after Admin "
+"checks and approves it."
+msgstr ""
+
+#: estatik/front_templates/includes/es_prop_management.php:47
+msgid "as Agent to submit your properties."
+msgstr ""
+
+#: estatik/front_templates/widgets/es_request_form.php:31
+msgid "Estatik Request Info from"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:25 
+#: estatik/admin_template/es_admin_functions.php:26 
+#: estatik/admin_template/es_settings.php:487 
+#: estatik/front_templates/includes/es_view_first.php:13
+msgid "Properties"
+msgstr "Woningen/panden"
+
+#: estatik/admin_template/es_admin_functions.php:27 
+#: estatik/admin_template/es_dashboard.php:12 estatik/estatik.php:128 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:232 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:237
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: estatik/admin_template/es_admin_functions.php:28 estatik/estatik.php:21 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:308
+msgid "Add New Property"
+msgstr "Nieuwe woning"
+
+#: estatik/admin_template/es_admin_functions.php:29 
+#: estatik/admin_template/es_property/es_add_new_property.php:268 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:301
+msgid "Edit Property"
+msgstr "Bewerk dit item"
+
+#: estatik/admin_template/es_admin_functions.php:30 
+#: estatik/admin_template/es_property/es_add_new_property.php:270 
+#: estatik/admin_template/es_property/es_import_csv_property.php:148
+msgid "New Property"
+msgstr "Nieuwe woning"
+
+#: estatik/admin_template/es_admin_functions.php:31
+msgid "All Properties"
+msgstr "Alle woningen"
+
+#: estatik/admin_template/es_admin_functions.php:32
+msgid "View Properties"
+msgstr "Bekijk eigenschappen"
+
+#: estatik/admin_template/es_admin_functions.php:33
+msgid "Search Properties"
+msgstr "Zoekinstellingen"
+
+#: estatik/admin_template/es_admin_functions.php:34
+msgid "No Properties found"
+msgstr "Geen Objecten meer gevonden"
+
+#: estatik/admin_template/es_admin_functions.php:35
+msgid "No Properties found in the Trash"
+msgstr "Geen Object gevonden in Prullenbak"
+
+#: estatik/admin_template/es_admin_functions.php:67 
+#: estatik/admin_template/es_admin_functions.php:77
+msgid "Property Categories"
+msgstr "Vastgoed Categorieën"
+
+#: estatik/admin_template/es_admin_functions.php:68
+msgid "Property Category"
+msgstr "Vastgoedcategorie"
+
+#: estatik/admin_template/es_admin_functions.php:69
+msgid "Search Property Categories"
+msgstr "Zoek in vastgoed Categorieën"
+
+#: estatik/admin_template/es_admin_functions.php:70
+msgid "All Property Categories"
+msgstr "Alle vastgoed Categorieën"
+
+#: estatik/admin_template/es_admin_functions.php:71
+msgid "Parent Property Category"
+msgstr "Vastgoed Hoofdcategorie"
+
+#: estatik/admin_template/es_admin_functions.php:72
+msgid "Parent Property Category:"
+msgstr "Vastgoed Hoofdcategorie"
+
+#: estatik/admin_template/es_admin_functions.php:73
+msgid "Edit Property Category"
+msgstr "Bewerk Vastgoed Categorie"
+
+#: estatik/admin_template/es_admin_functions.php:74
+msgid "Update Property Category"
+msgstr "Werk Vastgoed Categorie Bij"
+
+#: estatik/admin_template/es_admin_functions.php:75
+msgid "Add New Property Category"
+msgstr "Voeg profiel Categorie Toe"
+
+#: estatik/admin_template/es_admin_functions.php:76
+msgid "New Property Category"
+msgstr "Nieuwe profiel Categorie"
+
+#: estatik/admin_template/es_admin_functions.php:89 
+#: estatik/admin_template/es_admin_functions.php:90
+msgid "Property Status"
+msgstr "Statussen"
+
+#: estatik/admin_template/es_admin_functions.php:91
+msgid "Search Status Categories"
+msgstr "Status zoekcategorieën"
+
+#: estatik/admin_template/es_admin_functions.php:92
+msgid "All Status Categories"
+msgstr "Te huur / Te koop"
+
+#: estatik/admin_template/es_admin_functions.php:93
+msgid "Parent Status Category"
+msgstr "Status Hoofd Categorie"
+
+#: estatik/admin_template/es_admin_functions.php:94
+msgid "Parent Status Category:"
+msgstr "Status Hoofd Categorie"
+
+#: estatik/admin_template/es_admin_functions.php:95
+msgid "Edit Status Category"
+msgstr "Bewerken Status Categorie"
+
+#: estatik/admin_template/es_admin_functions.php:96
+msgid "Update Status Category"
+msgstr "Bijwerken Status Categorie"
+
+#: estatik/admin_template/es_admin_functions.php:97
+msgid "Add New Status Category"
+msgstr "Nieuwe categorie toevoegen"
+
+#: estatik/admin_template/es_admin_functions.php:98
+msgid "New Status Category"
+msgstr "New Status Categorie"
+
+#: estatik/admin_template/es_admin_functions.php:99
+msgid "Status Categories"
+msgstr "Status Categorieën"
+
+#: estatik/admin_template/es_admin_functions.php:111 
+#: estatik/admin_template/es_admin_functions.php:112
+msgid "Property Types"
+msgstr "Woning Typen"
+
+#: estatik/admin_template/es_admin_functions.php:113
+msgid "Search Types Categories"
+msgstr "Zoekopdracht soort Categorieën"
+
+#: estatik/admin_template/es_admin_functions.php:114
+msgid "All Types Categories"
+msgstr "Alle soorten categorieën"
+
+#: estatik/admin_template/es_admin_functions.php:115
+msgid "Parent Type Category"
+msgstr "Hoofd Type Categorie"
+
+#: estatik/admin_template/es_admin_functions.php:116
+msgid "Parent Type Category:"
+msgstr "Hoofd Type Categorie"
+
+#: estatik/admin_template/es_admin_functions.php:117
+msgid "Edit Type Category"
+msgstr "Type Categorie bewerken"
+
+#: estatik/admin_template/es_admin_functions.php:118
+msgid "Update Type Category"
+msgstr "Type update Categorie"
+
+#: estatik/admin_template/es_admin_functions.php:119
+msgid "Add New Type Category"
+msgstr "Toevoegen nieuwe type categorie"
+
+#: estatik/admin_template/es_admin_functions.php:120
+msgid "New Type Category"
+msgstr "Toevoegen nieuw type categorie"
+
+#: estatik/admin_template/es_admin_functions.php:121
+msgid "Type Categories"
+msgstr "Type Categorieën"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:59 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:56
+#, php-format
+msgid "New user registration on your blog %s:"
+msgstr "Nieuwe gebruikersregistratie op je site %s:"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:60 
+#: estatik/admin_template/es_agents/es_add_new_agent.php:66 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:57 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:63
+#, php-format
+msgid "Username: %s"
+msgstr "Gebruikersnaam: %s"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:61 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:58
+#, php-format
+msgid "E-mail: %s"
+msgstr "E-mail: %s"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:62 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:59
+#, php-format
+msgid "[%s] New User Registration"
+msgstr "[%s] Nieuwe gebruikersregistratie"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:63 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:60
+msgid "Hi there,"
+msgstr "Hallo,"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:64 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:61
+#, php-format
+msgid "Welcome to %s! Here's how to log in:"
+msgstr "Welkom bij%s! Klik hier om in te loggen:"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:67 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:64
+#, php-format
+msgid "Password: %s"
+msgstr "Wachtwoord: %s"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:68 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:65
+#, php-format
+msgid "If you have any problems, please contact me at %s."
+msgstr "Als u problemen heeft, neem dan contact met mij op% s."
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:70 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:67
+#, php-format
+msgid "[%s] Your username and password"
+msgstr "[%s] Jouw gebruikersnaam en wachtwoord"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:127 
+#: estatik/admin_template/es_manager/es_data_manager.php:22 
+#: estatik/admin_template/es_property/es_add_new_property.php:251 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:295
+msgid "Please fill your field."
+msgstr "Vul dit veld in."
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:128 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:119 
+#: estatik/front_templates/widgets/es_request_form.php:63
+msgid "Email is required."
+msgstr "E-Mail is vereist."
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:129 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:120
+msgid "Email is not valid."
+msgstr "E-mailadres is ongeldig"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:130
+msgid "This email already exists. Please choose another one."
+msgstr "Dit e-mailadres bestaat al. Kies een andere naam."
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:131 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:122
+msgid "User name is required."
+msgstr "Gebruikersnaam is verplicht."
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:132 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:123
+msgid "This user name is already registered. Please choose another one."
+msgstr "Deze gebruikersnaam is al gebruikt. Kies een andere naam."
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:134
+msgid "Agent info"
+msgstr "info makelaar"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:139 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:127
+msgid "Please edit your agent information below and click save to finish."
+msgstr ""
+"Bewerk uw makelaars informatie hieronder en klik op Opslaan om te voltooien."
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:141
+msgid "Please fill up your agent information below and click save to finish."
+msgstr ""
+"Vul uw makelaars informatie hieronder en klik op Opslaan om te voltooien."
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:143 
+#: estatik/admin_template/es_property/es_add_new_property.php:278 
+#: estatik/admin_template/es_property/es_add_new_property.php:284 
+#: estatik/admin_template/es_property/es_import_csv_property.php:157 
+#: estatik/admin_template/es_subscriptions/es_add_new_subscription.php:30 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:311 
+#: estatik/front_templates/includes/agent_files/es_import_csv_property.php:113
+msgid "Save & Close"
+msgstr "Opslaan en sluiten"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:144 
+#: estatik/admin_template/es_property/es_add_new_property.php:279 
+#: estatik/admin_template/es_property/es_add_new_property.php:285 
+#: estatik/admin_template/es_property/es_import_csv_property.php:158 
+#: estatik/admin_template/es_settings.php:219 
+#: estatik/admin_template/es_subscriptions/es_add_new_subscription.php:31 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:129 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:312 
+#: estatik/front_templates/includes/agent_files/es_import_csv_property.php:114
+msgid "Save"
+msgstr "Opslaan"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:158 
+#: estatik/admin_template/es_agents/es_agents.php:207 
+#: estatik/admin_template/es_orders.php:10 
+#: estatik/admin_template/es_subscriptions/es_add_new_subscription.php:36 
+#: estatik/admin_template/es_subscriptions/es_my_subscriptions.php:31 
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:262 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:150 
+#: estatik/front_templates/widgets/es_request_form.php:32
+msgid "Name"
+msgstr "Naam"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:162 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:154
+msgid "User name"
+msgstr "Gebruikersnaam"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:168
+msgid "Agent email"
+msgstr "E-mail makelaar"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:173 
+#: estatik/admin_template/es_orders.php:12 
+#: estatik/admin_template/es_settings.php:233 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:180 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:194
+msgid "Subscription"
+msgstr "intekening"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:175
+msgid "-- Select subscription --"
+msgstr "Inschrijving selecteren"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:183 
+#: estatik/admin_template/es_agents/es_agents.php:123 
+#: estatik/admin_template/es_agents/es_agents.php:213 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:166 
+#: estatik/front_templates/includes/es_agents.php:78 
+#: estatik/front_templates/includes/es_agents_trendy.php:72 
+#: estatik/front_templates/includes/es_prop_single.php:348
+msgid "Company"
+msgstr "Bedrijf"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:191
+msgid "Sold properties"
+msgstr "verkochte woningen"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:195 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:170
+msgid "Tel"
+msgstr "Tel"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:199 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:174
+msgid "www"
+msgstr "www"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:203 
+#: estatik/admin_template/es_agents/es_agents.php:135 
+#: estatik/admin_template/es_agents/es_agents.php:219 
+#: estatik/front_templates/includes/es_agents.php:68 
+#: estatik/front_templates/includes/es_prop_single.php:337
+msgid "Rating"
+msgstr "Beoordeling"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:214 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:199
+msgid "About"
+msgstr "Over"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:218 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:203
+msgid "Photo/Logo"
+msgstr "Foto/Logo"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:230 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:215
+msgid "Upload photo"
+msgstr "Upload Foto"
+
+#: estatik/admin_template/es_agents/es_add_new_agent.php:258 
+#: estatik/admin_template/es_manager/es_data_manager.php:51 
+#: estatik/admin_template/es_manager/es_data_manager.php:67 
+#: estatik/admin_template/es_manager/es_data_manager.php:85 
+#: estatik/admin_template/es_manager/es_data_manager.php:101 
+#: estatik/admin_template/es_manager/es_data_manager.php:122 
+#: estatik/admin_template/es_manager/es_data_manager.php:138 
+#: estatik/admin_template/es_manager/es_data_manager.php:154 
+#: estatik/admin_template/es_manager/es_data_manager.php:170 
+#: estatik/admin_template/es_manager/es_data_manager.php:191 
+#: estatik/admin_template/es_manager/es_data_manager.php:211 
+#: estatik/admin_template/es_manager/es_data_manager.php:227 
+#: estatik/admin_template/es_manager/es_data_manager.php:248 
+#: estatik/admin_template/es_property/es_add_new_property.php:557 
+#: estatik/admin_template/es_property/es_add_new_property.php:648 
+#: estatik/admin_template/es_property/es_add_new_property.php:666 
+#: estatik/admin_template/es_property/es_add_new_property.php:685
+msgid "Add new field"
+msgstr "Voeg nieuw veld toe"
+
+#: estatik/admin_template/es_agents/es_agents.php:83 
+#: estatik/admin_template/es_property/es_my_listings.php:164 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:195
+msgid "Are you sure you want to Copy it?"
+msgstr "Weet u zeker dat u wilt kopiëren?"
+
+#: estatik/admin_template/es_agents/es_agents.php:84 
+#: estatik/admin_template/es_manager/es_data_manager.php:6 
+#: estatik/admin_template/es_property/es_add_new_property.php:258 
+#: estatik/admin_template/es_property/es_my_listings.php:165 
+#: estatik/admin_template/es_subscriptions/es_my_subscriptions.php:4 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:196
+msgid "Are you sure you want to delete it?"
+msgstr "Weet u zeker dat u dit wilt verwijderen?"
+
+#: estatik/admin_template/es_agents/es_agents.php:85 
+#: estatik/admin_template/es_property/es_my_listings.php:166
+msgid "Are you sure you want to publish it?"
+msgstr "Bent u zeker dat u wilt publiceren?"
+
+#: estatik/admin_template/es_agents/es_agents.php:86 
+#: estatik/admin_template/es_property/es_my_listings.php:167
+msgid "Are you sure you want to unpublish it?"
+msgstr "Bent u zeker dat u het publiceren ongedaan wilt maken?"
+
+#: estatik/admin_template/es_agents/es_agents.php:93 
+#: estatik/admin_template/es_agents/es_agents.php:104 
+#: estatik/admin_template/es_property/es_add_new_property.php:260 
+#: estatik/admin_template/es_property/es_my_listings.php:173 
+#: estatik/admin_template/es_property/es_my_listings.php:183 
+#: estatik/admin_template/es_subscriptions/es_my_subscriptions.php:11 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:203 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:214
+msgid "OK"
+msgstr "OK"
+
+#: estatik/admin_template/es_agents/es_agents.php:105 
+#: estatik/admin_template/es_manager/es_data_manager.php:9 
+#: estatik/admin_template/es_property/es_add_new_property.php:261 
+#: estatik/admin_template/es_property/es_my_listings.php:184 
+#: estatik/admin_template/es_subscriptions/es_my_subscriptions.php:12 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:215
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: estatik/admin_template/es_agents/es_agents.php:112 
+#: estatik/admin_template/es_property/es_my_listings.php:235 
+#: estatik/admin_template/es_settings.php:539 estatik/estatik.php:29
+msgid "Agents"
+msgstr "Makelaars"
+
+#: estatik/admin_template/es_agents/es_agents.php:121 
+#: estatik/admin_template/es_property/es_my_listings.php:197 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:244
+msgid "Filter by"
+msgstr "Filter op"
+
+#: estatik/admin_template/es_agents/es_agents.php:136
+msgid "Bad"
+msgstr "Slecht"
+
+#: estatik/admin_template/es_agents/es_agents.php:137
+msgid "Poor"
+msgstr "Armoede"
+
+#: estatik/admin_template/es_agents/es_agents.php:138
+msgid "Regular"
+msgstr "Standaard"
+
+#: estatik/admin_template/es_agents/es_agents.php:139
+msgid "Good"
+msgstr "Goed"
+
+#: estatik/admin_template/es_agents/es_agents.php:140
+msgid "Excellent"
+msgstr "Uitstekend"
+
+#: estatik/admin_template/es_agents/es_agents.php:144
+msgid "By Name"
+msgstr "Naam"
+
+#: estatik/admin_template/es_agents/es_agents.php:146 
+#: estatik/admin_template/es_property/es_my_listings.php:249 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:289 
+#: estatik/front_templates/includes/es_view_first.php:8 
+#: estatik/front_templates/widgets/es_search.php:137
+msgid "Search"
+msgstr "Zoek"
+
+#: estatik/admin_template/es_agents/es_agents.php:147 
+#: estatik/admin_template/es_property/es_my_listings.php:250 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:290 
+#: estatik/front_templates/widgets/es_search.php:136
+msgid "Reset"
+msgstr "Herstel"
+
+#: estatik/admin_template/es_agents/es_agents.php:154 
+#: estatik/admin_template/es_property/es_my_listings.php:255 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:296
+msgid "Manage"
+msgstr "Beheer"
+
+#: estatik/admin_template/es_agents/es_agents.php:156 
+#: estatik/admin_template/es_property/es_my_listings.php:257 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:298
+msgid "Select all"
+msgstr "Selecteer alles"
+
+#: estatik/admin_template/es_agents/es_agents.php:157 
+#: estatik/admin_template/es_property/es_my_listings.php:258 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:299
+msgid "Undo selection"
+msgstr "Selectie ongedaan maken"
+
+#: estatik/admin_template/es_agents/es_agents.php:158 
+#: estatik/admin_template/es_property/es_my_listings.php:259 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:300
+msgid "Copy"
+msgstr "Kopiëren"
+
+#: estatik/admin_template/es_agents/es_agents.php:159 
+#: estatik/admin_template/es_agents/es_agents.php:308 
+#: estatik/admin_template/es_property/es_my_listings.php:260 
+#: estatik/admin_template/es_property/es_my_listings.php:418 
+#: estatik/admin_template/es_subscriptions/es_my_subscriptions.php:48 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:301 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:505 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:507
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: estatik/admin_template/es_agents/es_agents.php:160 
+#: estatik/admin_template/es_property/es_my_listings.php:261
+msgid "Publish"
+msgstr "Publiceer"
+
+#: estatik/admin_template/es_agents/es_agents.php:161 
+#: estatik/admin_template/es_property/es_my_listings.php:262
+msgid "Unpublish"
+msgstr "Offline halen"
+
+#: estatik/admin_template/es_agents/es_agents.php:168
+msgid "Agent has been deleted."
+msgstr "makelaar is verwijderd."
+
+#: estatik/admin_template/es_agents/es_agents.php:188
+msgid "Your Search results."
+msgstr "Zoekresultaten"
+
+#: estatik/admin_template/es_agents/es_agents.php:201
+msgid "Agent ID"
+msgstr "Makelaars ID"
+
+#: estatik/admin_template/es_agents/es_agents.php:204 
+#: estatik/front_templates/includes/es_login.php:19 
+#: estatik/front_templates/includes/es_login.php:20
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: estatik/admin_template/es_agents/es_agents.php:210 
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:160 
+#: estatik/front_templates/widgets/es_request_form.php:33
+msgid "Email"
+msgstr "E-mail"
+
+#: estatik/admin_template/es_agents/es_agents.php:216
+msgid "Properties Q-ty"
+msgstr "Onroerend goed van hoeveelheid"
+
+#: estatik/admin_template/es_agents/es_agents.php:222 
+#: estatik/admin_template/es_manager/es_data_manager.php:39 
+#: estatik/admin_template/es_property/es_add_new_property.php:386 
+#: estatik/admin_template/es_property/es_add_new_property.php:388 
+#: estatik/admin_template/es_property/es_my_listings.php:210 
+#: estatik/admin_template/es_property/es_my_listings.php:311 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:405 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:407 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:258 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:366 
+#: estatik/front_templates/includes/es_prop_single.php:199 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:246 
+#: estatik/front_templates/tcpdf/examples/es_prop_pdf.php:171
+msgid "Status"
+msgstr "Status"
+
+#: estatik/admin_template/es_agents/es_agents.php:304
+msgid "Unactive"
+msgstr "Niet actief"
+
+#: estatik/admin_template/es_agents/es_agents.php:304
+msgid "Active"
+msgstr "Actief"
+
+#: estatik/admin_template/es_agents/es_agents.php:307 
+#: estatik/admin_template/es_property/es_my_listings.php:417 
+#: estatik/admin_template/es_subscriptions/es_my_subscriptions.php:47 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:501 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:506
+msgid "Edit"
+msgstr "Pas aan"
+
+#: estatik/admin_template/es_agents/es_agents.php:318 
+#: estatik/admin_template/es_orders.php:47 
+#: estatik/admin_template/es_subscriptions/es_my_subscriptions.php:55
+msgid "No record Found."
+msgstr "Geen informatie gevonden"
+
+#: estatik/admin_template/es_dashboard.php:4 estatik/estatik.php:19
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: estatik/admin_template/es_dashboard.php:11 estatik/estatik.php:20
+msgid "My listings"
+msgstr "Woningen"
+
+#: estatik/admin_template/es_dashboard.php:13 
+#: estatik/admin_template/es_manager/es_data_manager.php:16 
+#: estatik/estatik.php:23
+msgid "Data Manager"
+msgstr "Data manager"
+
+#: estatik/admin_template/es_dashboard.php:14
+msgid "Agent Info"
+msgstr "info makelaar"
+
+#: estatik/admin_template/es_dashboard.php:15 
+#: estatik/admin_template/es_settings.php:213 estatik/estatik.php:31
+msgid "Settings"
+msgstr "Instellingen"
+
+#: estatik/admin_template/es_dashboard.php:19
+msgid "Get Support"
+msgstr "Meer informatie"
+
+#: estatik/admin_template/es_dashboard.php:23
+msgid "Step-by-step guide"
+msgstr "Stap-voor-Stap Handleiding"
+
+#: estatik/admin_template/es_dashboard.php:24
+msgid "Video Tutorial"
+msgstr "Instructievideo bekijken"
+
+#: estatik/admin_template/es_dashboard.php:25
+msgid "Submit a Ticket"
+msgstr "Ticket indienen"
+
+#: estatik/admin_template/es_dashboard.php:29
+msgid "Choose Your Theme"
+msgstr "Kies uw thema"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:8
+msgid "Ok"
+msgstr "Ok"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:23 
+#: estatik/admin_template/es_property/es_add_new_property.php:252 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:296
+msgid "field has been added."
+msgstr "veld is toegevoegd."
+
+#: estatik/admin_template/es_manager/es_data_manager.php:24 
+#: estatik/admin_template/es_property/es_add_new_property.php:253 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:297
+msgid "field has been deleted."
+msgstr "veld is verwijderd."
+
+#: estatik/admin_template/es_manager/es_data_manager.php:28
+msgid "Properties details"
+msgstr "Object informatie"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:29
+msgid "Location"
+msgstr "Locatie"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:30
+msgid "Dimensions"
+msgstr "Afmetingen"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:31 
+#: estatik/admin_template/es_manager/es_data_manager.php:200 
+#: estatik/admin_template/es_property/es_add_new_property.php:296 
+#: estatik/admin_template/es_property/es_add_new_property.php:635 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:337 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:642 
+#: estatik/front_templates/includes/es_prop_single.php:86 
+#: estatik/front_templates/includes/es_prop_single.php:272 
+#: estatik/front_templates/includes/es_prop_single.php:275 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:122 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:358 
+#: estatik/front_templates/tcpdf/examples/es_prop_pdf.php:214 
+#: estatik/front_templates/tcpdf/examples/es_prop_pdf.php:216
+msgid "Features"
+msgstr "Kenmerken"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:32 
+#: estatik/admin_template/es_manager/es_data_manager.php:237 
+#: estatik/admin_template/es_settings.php:230 
+#: estatik/admin_template/es_settings.php:346
+msgid "Currency"
+msgstr "Munteenheid"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:56 
+#: estatik/admin_template/es_property/es_add_new_property.php:370 
+#: estatik/admin_template/es_property/es_add_new_property.php:372 
+#: estatik/admin_template/es_property/es_my_listings.php:199 
+#: estatik/admin_template/es_property/es_my_listings.php:305 
+#: estatik/admin_template/es_widgets.php:440 
+#: estatik/admin_template/es_widgets.php:675 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:390 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:392 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:246 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:360 
+#: estatik/front_templates/tcpdf/examples/es_prop_pdf.php:153 
+#: estatik/front_templates/widgets/es_search.php:174
+msgid "Category"
+msgstr "Categorie"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:74 
+#: estatik/admin_template/es_property/es_add_new_property.php:353 
+#: estatik/admin_template/es_property/es_add_new_property.php:355 
+#: estatik/admin_template/es_property/es_my_listings.php:222 
+#: estatik/admin_template/es_property/es_my_listings.php:308 
+#: estatik/admin_template/es_widgets.php:455 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:375 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:377 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:270 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:363 
+#: estatik/front_templates/includes/es_prop_single.php:192 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:238 
+#: estatik/front_templates/tcpdf/examples/es_prop_pdf.php:168 
+#: estatik/front_templates/widgets/es_search.php:178
+msgid "Type"
+msgstr "Soort"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:90
+msgid "Rent period"
+msgstr "Huurperiode"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:111 
+#: estatik/admin_template/es_property/es_add_new_property.php:566 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:573 
+#: estatik/front_templates/widgets/es_search.php:143
+msgid "Country"
+msgstr "Land"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:127
+msgid "States/Regions"
+msgstr "Districten / regio's"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:143
+msgid "Cities"
+msgstr "Gemeentes"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:159 
+#: estatik/admin_template/es_property/es_add_new_property.php:297 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:338 
+#: estatik/front_templates/includes/es_prop_single.php:83 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:119
+msgid "Neighborhood"
+msgstr "Omgeving"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:180
+msgid "Area & lot size"
+msgstr "Gebied & grootte"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:216 
+#: estatik/admin_template/es_property/es_add_new_property.php:653 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:653
+msgid "Appliances"
+msgstr "Apparatuur"
+
+#: estatik/admin_template/es_manager/es_manager_temps/es_appliance.php:49 
+#: estatik/admin_template/es_manager/es_manager_temps/es_category.php:19 
+#: estatik/admin_template/es_manager/es_manager_temps/es_city.php:32 
+#: estatik/admin_template/es_manager/es_manager_temps/es_country.php:30 
+#: estatik/admin_template/es_manager/es_manager_temps/es_currency.php:23 
+#: estatik/admin_template/es_manager/es_manager_temps/es_dimension.php:23 
+#: estatik/admin_template/es_manager/es_manager_temps/es_feature.php:49 
+#: estatik/admin_template/es_manager/es_manager_temps/es_neigh.php:60 
+#: estatik/admin_template/es_manager/es_manager_temps/es_period.php:19 
+#: estatik/admin_template/es_manager/es_manager_temps/es_state.php:44 
+#: estatik/admin_template/es_manager/es_manager_temps/es_status.php:18 
+#: estatik/admin_template/es_manager/es_manager_temps/es_type.php:17
+msgid "No record found. Please add new one."
+msgstr "Geen informatie gevonden. Gelieve te voegen."
+
+#: estatik/admin_template/es_orders.php:4 estatik/estatik.php:27
+msgid "Orders"
+msgstr "Bestellingen"
+
+#: estatik/admin_template/es_orders.php:11
+msgid "Order status"
+msgstr "Bestelling status"
+
+#: estatik/admin_template/es_orders.php:13 
+#: estatik/admin_template/es_subscriptions/es_my_subscriptions.php:34
+msgid "Price, $"
+msgstr "Prijs"
+
+#: estatik/admin_template/es_orders.php:14 
+#: estatik/admin_template/es_property/es_add_new_property.php:341 
+#: estatik/admin_template/es_property/es_add_new_property.php:343 
+#: estatik/admin_template/es_settings.php:266 
+#: estatik/front_templates/includes/es_prop_single.php:305 
+#: estatik/front_templates/widgets/es_search.php:182
+msgid "Agent"
+msgstr "Vastgoedmakelaar"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:254 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:298
+msgid "Please enter numbers only."
+msgstr "Vul alleen nummers in a.u.b."
+
+#: estatik/admin_template/es_property/es_add_new_property.php:277 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:303
+msgid "Please Edit your property detail and click save to finish."
+msgstr "Bewerk uw project detail en klik op Opslaan om te voltooien."
+
+#: estatik/admin_template/es_property/es_add_new_property.php:283 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:310
+msgid "Please fill up your property detail and click save to finish."
+msgstr "Vul uw woning detail en klik op Opslaan om te voltooien."
+
+#: estatik/admin_template/es_property/es_add_new_property.php:289 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:330
+msgid "Property has been updated."
+msgstr "Uw woning is bijgewerkt."
+
+#: estatik/admin_template/es_property/es_add_new_property.php:294 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:335
+msgid "Basic information"
+msgstr "Basisinformatie"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:295 
+#: estatik/admin_template/es_property/es_my_listings.php:245 
+#: estatik/admin_template/es_property/es_my_listings.php:302 
+#: estatik/admin_template/es_settings.php:258 
+#: estatik/admin_template/es_settings.php:261 
+#: estatik/front_templates/es_front_functions.php:24 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:336 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:285 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:357 
+#: estatik/front_templates/tcpdf/examples/es_front_functions.php:32
+msgid "Address"
+msgstr "Adres"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:298 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:339
+msgid "Media"
+msgstr "Media"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:299 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:340
+msgid "Meta Info"
+msgstr "Meta Info"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:318 
+#: estatik/admin_template/es_property/es_my_listings.php:243 
+#: estatik/admin_template/es_property/es_my_listings.php:290 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:351 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:283 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:345 
+#: estatik/front_templates/widgets/es_request_form.php:35
+msgid "Property ID"
+msgstr "Woning ID"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:336 
+#: estatik/admin_template/es_property/es_my_listings.php:296 
+#: estatik/admin_template/es_settings.php:257 
+#: estatik/admin_template/es_widgets.php:410 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:371 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:351
+msgid "Title"
+msgstr "Titel"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:402 
+#: estatik/admin_template/es_subscriptions/es_my_subscriptions.php:33 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:421 
+#: estatik/front_templates/includes/es_listing_functions.php:157 
+#: estatik/front_templates/includes/es_listing_functions.php:264
+msgid "Featured"
+msgstr "Uitgelicht"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:415 
+#: estatik/admin_template/es_property/es_add_new_property.php:432 
+#: estatik/admin_template/es_property/es_add_new_property.php:449 
+#: estatik/admin_template/es_property/es_add_new_property.php:466 
+#: estatik/admin_template/es_settings.php:243 
+#: estatik/admin_template/es_settings.php:252 
+#: estatik/admin_template/es_settings.php:262 
+#: estatik/admin_template/es_settings.php:267 
+#: estatik/admin_template/es_settings.php:272 
+#: estatik/admin_template/es_settings.php:277 
+#: estatik/admin_template/es_settings.php:282 
+#: estatik/admin_template/es_settings.php:311 
+#: estatik/admin_template/es_settings.php:338 
+#: estatik/admin_template/es_settings.php:588 
+#: estatik/admin_template/es_settings.php:594 
+#: estatik/admin_template/es_settings.php:600 
+#: estatik/admin_template/es_settings.php:606 
+#: estatik/admin_template/es_settings.php:612 
+#: estatik/admin_template/es_widgets.php:20 
+#: estatik/admin_template/es_widgets.php:417 
+#: estatik/admin_template/es_widgets.php:436 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:430 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:448 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:465 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:482
+msgid "Yes"
+msgstr "Ja"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:416 
+#: estatik/admin_template/es_property/es_add_new_property.php:433 
+#: estatik/admin_template/es_property/es_add_new_property.php:450 
+#: estatik/admin_template/es_property/es_add_new_property.php:467 
+#: estatik/admin_template/es_settings.php:244 
+#: estatik/admin_template/es_settings.php:253 
+#: estatik/admin_template/es_settings.php:263 
+#: estatik/admin_template/es_settings.php:268 
+#: estatik/admin_template/es_settings.php:273 
+#: estatik/admin_template/es_settings.php:278 
+#: estatik/admin_template/es_settings.php:283 
+#: estatik/admin_template/es_settings.php:316 
+#: estatik/admin_template/es_settings.php:342 
+#: estatik/admin_template/es_settings.php:589 
+#: estatik/admin_template/es_settings.php:595 
+#: estatik/admin_template/es_settings.php:601 
+#: estatik/admin_template/es_settings.php:607 
+#: estatik/admin_template/es_settings.php:613 
+#: estatik/admin_template/es_widgets.php:26 
+#: estatik/admin_template/es_widgets.php:418 
+#: estatik/admin_template/es_widgets.php:437 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:431 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:449 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:466 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:483
+msgid "No"
+msgstr "Nee"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:419 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:435 
+#: estatik/front_templates/includes/es_listing_functions.php:162 
+#: estatik/front_templates/includes/es_listing_functions.php:269
+msgid "Hot"
+msgstr "Verkocht"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:436 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:452
+msgid "Open-house"
+msgstr "Open Huis"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:453 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:469 
+#: estatik/front_templates/includes/es_listing_functions.php:147 
+#: estatik/front_templates/includes/es_listing_functions.php:254
+msgid "Foreclosure"
+msgstr "VERKOCHT onder voorbehoud"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:470 
+#: estatik/admin_template/es_settings.php:251 
+#: estatik/admin_template/es_subscriptions/es_add_new_subscription.php:60 
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:265 
+#: estatik/front_templates/es_front_functions.php:33 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:486 
+#: estatik/front_templates/tcpdf/examples/es_front_functions.php:41 
+#: estatik/front_templates/tcpdf/examples/es_prop_pdf.php:154 
+#: estatik/front_templates/widgets/es_search.php:157
+msgid "Price"
+msgstr "Prijs"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:475 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:491
+msgid "Period"
+msgstr "Periode"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:489 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:505 
+#: estatik/front_templates/includes/es_prop_single.php:205 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:253 
+#: estatik/front_templates/tcpdf/examples/es_prop_pdf.php:172 
+#: estatik/front_templates/widgets/es_search.php:160
+msgid "Bedrooms"
+msgstr "Aantal slaapkamers"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:495 
+#: estatik/front_templates/es_front_functions.php:28 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:511 
+#: estatik/front_templates/includes/es_prop_single.php:211 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:260 
+#: estatik/front_templates/tcpdf/examples/es_front_functions.php:36 
+#: estatik/front_templates/tcpdf/examples/es_prop_pdf.php:175 
+#: estatik/front_templates/widgets/es_search.php:163
+msgid "Bathrooms"
+msgstr "Aantal badkamers"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:500 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:516 
+#: estatik/front_templates/includes/es_prop_single.php:217 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:267 
+#: estatik/front_templates/tcpdf/examples/es_prop_pdf.php:176
+msgid "Floors"
+msgstr "Aantal verdiepingen"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:504 
+#: estatik/front_templates/es_front_functions.php:29 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:520 
+#: estatik/front_templates/tcpdf/examples/es_front_functions.php:37
+msgid "Area"
+msgstr "Inhoud in m³"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:513 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:529 
+#: estatik/front_templates/includes/es_prop_single.php:178 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:220 
+#: estatik/front_templates/tcpdf/examples/es_prop_pdf.php:167 
+#: estatik/front_templates/widgets/es_search.php:171
+msgid "Lot size"
+msgstr "Perceelopp. in m²"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:522 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:538 
+#: estatik/front_templates/includes/es_prop_single.php:224 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:275
+msgid "Built in"
+msgstr "Gebouwd in"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:526 
+#: estatik/admin_template/es_subscriptions/es_add_new_subscription.php:69 
+#: estatik/front_templates/es_front_functions.php:30 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:542 
+#: estatik/front_templates/includes/es_prop_single.php:243 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:322 
+#: estatik/front_templates/tcpdf/examples/es_front_functions.php:38 
+#: estatik/front_templates/tcpdf/examples/es_prop_pdf.php:186
+msgid "Description"
+msgstr "Omschrijving"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:571 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:578
+msgid "Choose Country"
+msgstr "Kies een Land"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:587 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:594 
+#: estatik/front_templates/widgets/es_search.php:148
+msgid "State/Region"
+msgstr "Provincie"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:599 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:606 
+#: estatik/front_templates/widgets/es_search.php:153
+msgid "City"
+msgstr "Plaats"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:611 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:618
+msgid "ZIP/Postcode"
+msgstr "Postcode"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:615 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:622
+msgid "Street"
+msgstr "Straat"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:621 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:628
+msgid "Longitude"
+msgstr "Lengtegraad"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:625 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:632
+msgid "Latitude"
+msgstr "Breedtegraad"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:693 
+#: estatik/admin_template/es_settings.php:229 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:679
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:694 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:680 
+#: estatik/front_templates/includes/es_prop_single.php:89 
+#: estatik/front_templates/includes/es_prop_single.php:297 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:125 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:401
+msgid "Video"
+msgstr "Film"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:698 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:684
+msgid "Select files or upload images in a zip-file."
+msgstr "Selecteer bestanden of beelden in een zip-bestand te uploaden."
+
+#: estatik/admin_template/es_property/es_add_new_property.php:701 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:687
+msgid "Upload"
+msgstr "Uploaden"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:704 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:690
+msgid ""
+"The first image will be default image. You can drag and drop images to "
+"change their order."
+msgstr ""
+"De eerste afbeelding wordt de standaard afbeelding. U kunt de afbeeldingen "
+"slepen en plaatsen om de volgorde te wijzigen."
+
+#: estatik/admin_template/es_property/es_add_new_property.php:715 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:701
+msgid "Embed the code"
+msgstr "De insluitcode"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:731 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:717
+msgid "Meta keywords"
+msgstr "Meta trefwoorden"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:735 
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:721
+msgid "Meta description"
+msgstr "Mete beschrijving"
+
+#: estatik/admin_template/es_property/es_import_csv_property.php:156 
+#: estatik/front_templates/includes/agent_files/es_import_csv_property.php:112
+msgid ""
+"Please Import your property detail with CSV sample and click save to finish."
+msgstr ""
+"Gelieve Importeer uw woning detail met CSV monster en klik op Opslaan om te "
+"voltooien."
+
+#: estatik/admin_template/es_property/es_import_csv_property.php:164 
+#: estatik/front_templates/includes/agent_files/es_import_csv_property.php:117
+msgid "Property has been Added."
+msgstr "Het onroerendgoed is toegevoegd."
+
+#: estatik/admin_template/es_property/es_import_csv_property.php:170 
+#: estatik/front_templates/includes/agent_files/es_import_csv_property.php:120
+msgid "Please choose CSV file. or download sample file for refrence."
+msgstr "Kies CSV-bestand. of download het voorbeeldbestand voor verversen."
+
+#: estatik/admin_template/es_property/es_import_csv_property.php:182 
+#: estatik/front_templates/includes/agent_files/es_import_csv_property.php:126
+msgid "Download Sample File"
+msgstr "Download Sample CSV bestand"
+
+#: estatik/admin_template/es_property/es_import_csv_property.php:183 
+#: estatik/front_templates/includes/agent_files/es_import_csv_property.php:127
+msgid "Download Sample"
+msgstr "Download voorbeeld csv"
+
+#: estatik/admin_template/es_property/es_import_csv_property.php:187 
+#: estatik/front_templates/includes/agent_files/es_import_csv_property.php:130
+msgid "Import CSV"
+msgstr "CSV-bestand Importeren"
+
+#: estatik/admin_template/es_property/es_my_listings.php:160 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:192
+msgid "Please select properties you want to copy."
+msgstr "Selecteer projecten die u wilt kopiëren."
+
+#: estatik/admin_template/es_property/es_my_listings.php:161 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:193
+msgid "Please select properties you want to delete."
+msgstr "Selecteer projecten die u wilt verwijderen."
+
+#: estatik/admin_template/es_property/es_my_listings.php:162
+msgid "Please select properties you want to publish."
+msgstr "Selecteer eigenschappen die u wilt publiceren."
+
+#: estatik/admin_template/es_property/es_my_listings.php:163
+msgid "Please select properties you want to unpublish."
+msgstr "Selecteer projecten die u wilt depubiceren."
+
+#: estatik/admin_template/es_property/es_my_listings.php:190
+msgid "My Listings"
+msgstr "Woningen/panden"
+
+#: estatik/admin_template/es_property/es_my_listings.php:247 
+#: estatik/admin_template/es_property/es_my_listings.php:299 
+#: estatik/admin_template/es_settings.php:281 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:287 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:354 
+#: estatik/front_templates/includes/es_prop_single.php:164 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:204 
+#: estatik/front_templates/tcpdf/examples/es_prop_pdf.php:163
+msgid "Date added"
+msgstr "Toegevoegd op"
+
+#: estatik/admin_template/es_property/es_my_listings.php:267 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:308
+msgid "Property has been deleted."
+msgstr "Onroerend goed is verwijderd"
+
+#: estatik/admin_template/es_property/es_my_listings.php:270 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:312
+msgid "Selected properties have been copied."
+msgstr "Geselecteerde woningen zijn gekopieerd."
+
+#: estatik/admin_template/es_property/es_my_listings.php:273 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:316
+msgid "Selected properties have been deleted."
+msgstr "Geselecteerde eigenschappen zijn verwijderd."
+
+#: estatik/admin_template/es_property/es_my_listings.php:276
+msgid "Selected properties have been published."
+msgstr "Geselecteerde woningen zijn gepubliceerd."
+
+#: estatik/admin_template/es_property/es_my_listings.php:279
+msgid "Selected properties have been unpublished."
+msgstr "Geselecteerde woningen zijn ongepubliceerde geweest."
+
+#: estatik/admin_template/es_property/es_my_listings.php:282 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:320 
+#: estatik/front_templates/includes/es_my_listing.php:3
+msgid "Your search results."
+msgstr "Zoekresultaten"
+
+#: estatik/admin_template/es_property/es_my_listings.php:293 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:348
+msgid "Image"
+msgstr "Afbeelding"
+
+#: estatik/admin_template/es_property/es_my_listings.php:383 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:454 
+#: estatik/front_templates/includes/es_listing_functions.php:128
+msgid "No Image"
+msgstr "Geen afbeelding"
+
+#: estatik/admin_template/es_property/es_my_listings.php:423 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:515 
+#: estatik/front_templates/includes/es_listing_functions.php:341 
+#: estatik/front_templates/includes/es_listing_functions.php:426
+msgid "No record found."
+msgstr "Geen informatie gevonden"
+
+#: estatik/admin_template/es_property/es_property_temps/es_property_cities.php:22
+#:  
+#: estatik/front_templates/includes/agent_files/es_property_temps/es_property_cities.php:22
+msgid "No City"
+msgstr "Geen stad"
+
+#: estatik/admin_template/es_property/es_property_temps/es_property_images.php:41
+#:  
+#: estatik/front_templates/includes/agent_files/es_property_temps/es_property_images.php:41
+msgid "No record found. please add new one."
+msgstr "Geen informatie gevonden. Gelieve te voegen."
+
+#: estatik/admin_template/es_property/es_property_temps/es_property_states.php:23
+#:  
+#: estatik/front_templates/includes/agent_files/es_property_temps/es_property_states.php:23
+msgid "No State"
+msgstr "Geen provincie"
+
+#: estatik/admin_template/es_settings.php:218
+msgid "Please fill up your Settings detail and click save to finish."
+msgstr "Vul uw detail instellingen en klik op opslaan om te voltooien."
+
+#: estatik/admin_template/es_settings.php:222
+msgid "Settings has been updated."
+msgstr "Uw instellingen zijn bijgewerkt"
+
+#: estatik/admin_template/es_settings.php:227
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: estatik/admin_template/es_settings.php:228 
+#: estatik/admin_template/es_widgets.php:136 
+#: estatik/admin_template/es_widgets.php:490 
+#: estatik/admin_template/es_widgets.php:725
+msgid "Layout"
+msgstr "Indeling"
+
+#: estatik/admin_template/es_settings.php:231
+msgid "Sharing"
+msgstr "Delen"
+
+#: estatik/admin_template/es_settings.php:232
+msgid "Map View"
+msgstr "Kaart overzicht"
+
+#: estatik/admin_template/es_settings.php:242
+msgid "Powered by link"
+msgstr "Mogelijk gemaakt door"
+
+#: estatik/admin_template/es_settings.php:247
+msgid "Number of listings per page"
+msgstr "Aantal vermeldingen per pagina:"
+
+#: estatik/admin_template/es_settings.php:256
+msgid "Title / Address"
+msgstr "Titel / Adres"
+
+#: estatik/admin_template/es_settings.php:271
+msgid "Labels"
+msgstr "Tags"
+
+#: estatik/admin_template/es_settings.php:276
+msgid "Enable Google Maps API"
+msgstr "Google Maps API inschakelen"
+
+#: estatik/admin_template/es_settings.php:286 
+#: estatik/admin_template/es_settings.php:288
+msgid "Date format"
+msgstr "Datumweergave"
+
+#: estatik/admin_template/es_settings.php:295
+msgid "Property page slug"
+msgstr "Woning"
+
+#: estatik/admin_template/es_settings.php:300
+msgid "Choose theme color style"
+msgstr "Kies thema kleur stijl"
+
+#: estatik/admin_template/es_settings.php:302
+msgid "Light"
+msgstr "Licht"
+
+#: estatik/admin_template/es_settings.php:303
+msgid "Dark"
+msgstr "Donker"
+
+#: estatik/admin_template/es_settings.php:307
+msgid "View first menu"
+msgstr "Bekijk eerste menu"
+
+#: estatik/admin_template/es_settings.php:322
+msgid "Subscription settings"
+msgstr "Abonnement instellingen"
+
+#: estatik/admin_template/es_settings.php:324
+msgid "Listing publishing"
+msgstr "Listing publishing"
+
+#: estatik/admin_template/es_settings.php:327
+msgid "Automatic"
+msgstr "Automatisch"
+
+#: estatik/admin_template/es_settings.php:331
+msgid "Manual"
+msgstr "Handmatig"
+
+#: estatik/admin_template/es_settings.php:335
+msgid "Enable Subscriptions"
+msgstr "Inschrijvingen inschakelen?"
+
+#: estatik/admin_template/es_settings.php:348 
+#: estatik/admin_template/es_settings.php:366 
+#: estatik/admin_template/es_settings.php:377 
+#: estatik/admin_template/es_settings.php:388
+msgid "- Select Value -"
+msgstr "Selecteer waarde"
+
+#: estatik/admin_template/es_settings.php:357 
+#: estatik/admin_template/es_settings.php:579
+msgid "Currency sign place"
+msgstr "valutasymbool"
+
+#: estatik/admin_template/es_settings.php:358 
+#: estatik/admin_template/es_settings.php:580
+msgid "Before price"
+msgstr "Voor het bedrag"
+
+#: estatik/admin_template/es_settings.php:359 
+#: estatik/admin_template/es_settings.php:581
+msgid "After price"
+msgstr "Na het bedrag"
+
+#: estatik/admin_template/es_settings.php:364
+msgid "Registration page"
+msgstr "Registratiepagina"
+
+#: estatik/admin_template/es_settings.php:369 
+#: estatik/admin_template/es_settings.php:380 
+#: estatik/admin_template/es_settings.php:391
+msgid "No title"
+msgstr "Geen titel"
+
+#: estatik/admin_template/es_settings.php:375
+msgid "Manage properties page"
+msgstr "Beheer Woningen"
+
+#: estatik/admin_template/es_settings.php:386
+msgid "Subscriptions table page"
+msgstr "Abonnementen tabel pagina"
+
+#: estatik/admin_template/es_settings.php:397
+msgid "Subscription expired email settings"
+msgstr "Abonnement verlopen e-mailinstellingen"
+
+#: estatik/admin_template/es_settings.php:399
+msgid "Subscription expired subject"
+msgstr "Abonnement verlopen onderwerp"
+
+#: estatik/admin_template/es_settings.php:403
+msgid "Subscription expired message"
+msgstr "Abonnement verlopen bericht"
+
+#: estatik/admin_template/es_settings.php:406
+msgid "Subscription Paypal settings"
+msgstr "Inschrijving Paypal instellingen"
+
+#: estatik/admin_template/es_settings.php:408
+msgid "Paypal Type"
+msgstr "PayPal"
+
+#: estatik/admin_template/es_settings.php:410
+msgid "Standard"
+msgstr "Standaard"
+
+#: estatik/admin_template/es_settings.php:416
+msgid "Paypal email"
+msgstr "Paypal email ID"
+
+#: estatik/admin_template/es_settings.php:421
+msgid "Paypal API Mode"
+msgstr "Paypal API Mode"
+
+#: estatik/admin_template/es_settings.php:424
+msgid "Live"
+msgstr "Live"
+
+#: estatik/admin_template/es_settings.php:455
+msgid "Listings layout"
+msgstr "Vermeldingen layout"
+
+#: estatik/admin_template/es_settings.php:479 
+#: estatik/admin_template/es_settings.php:519
+msgid "Single property"
+msgstr "Woning"
+
+#: estatik/admin_template/es_settings.php:489
+msgid "Resize method"
+msgstr "resize methode"
+
+#: estatik/admin_template/es_settings.php:490
+msgid "Crop & shrink"
+msgstr "Uitsnijden & krimpen"
+
+#: estatik/admin_template/es_settings.php:491
+msgid "Crop"
+msgstr "Uitsnijden"
+
+#: estatik/admin_template/es_settings.php:497
+msgid "Listings view"
+msgstr "lijsten te bekijken"
+
+#: estatik/admin_template/es_settings.php:498
+msgid "Table"
+msgstr "Tabel"
+
+#: estatik/admin_template/es_settings.php:499
+msgid "2 colums"
+msgstr "2 colums"
+
+#: estatik/admin_template/es_settings.php:500
+msgid "list"
+msgstr "lijst"
+
+#: estatik/admin_template/es_settings.php:503 
+#: estatik/admin_template/es_settings.php:525 
+#: estatik/admin_template/es_settings.php:544 
+#: estatik/admin_template/es_settings.php:698
+msgid "Height"
+msgstr "Hoogte"
+
+#: estatik/admin_template/es_settings.php:509 
+#: estatik/admin_template/es_settings.php:531 
+#: estatik/admin_template/es_settings.php:548
+msgid "Widht"
+msgstr "Breedte"
+
+#: estatik/admin_template/es_settings.php:520
+msgid "Photo on<br />the left/right"
+msgstr "foto op <br /> de links / rechts"
+
+#: estatik/admin_template/es_settings.php:521
+msgid "Photo <br />in center"
+msgstr "Centreer"
+
+#: estatik/admin_template/es_settings.php:522
+msgid "Photo <br /> Thumb"
+msgstr "Foto <br /> Thumbnail"
+
+#: estatik/admin_template/es_settings.php:556
+msgid "Default currency"
+msgstr "Standaard valuta"
+
+#: estatik/admin_template/es_settings.php:558
+msgid "Dollar, Euro, etc"
+msgstr "Dollar, Euro, etc"
+
+#: estatik/admin_template/es_settings.php:571
+msgid "Price format"
+msgstr "Prijsformaat"
+
+#: estatik/admin_template/es_settings.php:611
+msgid "PDF flyer"
+msgstr "PDF Flyer"
+
+#: estatik/admin_template/es_settings.php:620
+msgid "Icons color"
+msgstr "Kleur iconen:"
+
+#: estatik/admin_template/es_settings.php:625 
+#: estatik/admin_template/es_settings.php:636 
+#: estatik/admin_template/es_settings.php:647 
+#: estatik/admin_template/es_settings.php:663 
+#: estatik/admin_template/es_settings.php:675 
+#: estatik/admin_template/es_settings.php:687
+msgid "-- None --"
+msgstr "-- Geen --"
+
+#: estatik/admin_template/es_settings.php:658
+msgid "Icons type"
+msgstr "Icoontjes"
+
+#: estatik/admin_template/es_settings.php:697
+msgid "Extra settings"
+msgstr "Extra instellingen"
+
+#: estatik/admin_template/es_settings.php:699
+msgid "Number of listings to show"
+msgstr "Aantal te tonen objecten"
+
+#: estatik/admin_template/es_settings.php:700
+msgid "Map zoom level (default value is 12)"
+msgstr "Kaart zoomniveau (standaardwaarde is 12)"
+
+#: estatik/admin_template/es_settings.php:705
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: estatik/admin_template/es_settings.php:706
+msgid ""
+"Please create pages with shortcodes below to display map on your website"
+msgstr ""
+"Gelieve pagina's met shortcodes hieronder om de weergave map op uw website"
+
+#: estatik/admin_template/es_settings.php:710
+msgid "All properties"
+msgstr "Alle woningen"
+
+#: estatik/admin_template/es_settings.php:714
+msgid "Properties for rent"
+msgstr "Woningen te huur"
+
+#: estatik/admin_template/es_settings.php:718
+msgid "Properties for sale"
+msgstr "Woningen te koop"
+
+#: estatik/admin_template/es_settings.php:722
+msgid "Specific properties"
+msgstr "Specifiek onroerend goed"
+
+#: estatik/admin_template/es_subscriptions/es_add_new_subscription.php:5
+msgid "Update subscription"
+msgstr "Abonnement bijwerken"
+
+#: estatik/admin_template/es_subscriptions/es_add_new_subscription.php:5
+msgid "Add new Subscription"
+msgstr "Nieuwe  abonnement toevoegen"
+
+#: estatik/admin_template/es_subscriptions/es_add_new_subscription.php:29
+msgid ""
+"Please create or edit your subscription plan here. Do not forget to click on "
+"save button."
+msgstr "Bewerk uw inschrijving en klik op Opslaan om te voltooien."
+
+#: estatik/admin_template/es_subscriptions/es_add_new_subscription.php:40
+msgid "Number of properties"
+msgstr "Aantal woningen"
+
+#: estatik/admin_template/es_subscriptions/es_add_new_subscription.php:44
+msgid "Featured properties"
+msgstr "Aanbevolen woningen"
+
+#: estatik/admin_template/es_subscriptions/es_add_new_subscription.php:50
+msgid "Subscription period"
+msgstr "Looptijd inschrijving"
+
+#: estatik/admin_template/es_subscriptions/es_add_new_subscription.php:65
+msgid "Renewal Price"
+msgstr "vernieuwing Prijs"
+
+#: estatik/admin_template/es_subscriptions/es_my_subscriptions.php:19 
+#: estatik/estatik.php:25
+msgid "Subscriptions"
+msgstr "Inschrijvingen"
+
+#: estatik/admin_template/es_subscriptions/es_my_subscriptions.php:24
+msgid ""
+"Here you can create plans that will meet your website requirements and be "
+"most profitable for you."
+msgstr "Hier kunt u plannen hoe uw website het meest winstgevende voor u is."
+
+#: estatik/admin_template/es_subscriptions/es_my_subscriptions.php:32
+msgid "Properties q-ty"
+msgstr "Onroerend goed van hoeveelheid"
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:35
+msgid "Week"
+msgstr "Week"
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:36
+msgid "Month"
+msgstr "Maand"
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:37
+msgid "Year"
+msgstr "Jaar"
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:263
+msgid "All listings"
+msgstr "Bekijk alle vermeldingen"
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:264
+msgid "Featured listings"
+msgstr "Aanbevolen woningen"
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:266
+msgid "Renewal price"
+msgstr "vernieuwing Prijs"
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:293
+msgid "Subscription expired"
+msgstr "Inschrijving verlopen"
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:295
+msgid "Already in use"
+msgstr "URL al in gebruik"
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:305 
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:313
+msgid "Free"
+msgstr "Gratis"
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:330
+msgid "Total"
+msgstr "Totaal"
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:353 
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:357 
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:360
+msgid "Proceed"
+msgstr "Doorgaan"
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:362
+msgid "Please select registration page in subscription settings."
+msgstr "Selecteer de registratiepagina in instellingen voor abonnement."
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:374
+msgid "Firstly, you need to enable subscription option in admin panel."
+msgstr ""
+"In de eerste plaats moet u abonnement optie in adminpaneel in te schakelen."
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:870
+msgid ""
+"Hello, </br>Your subscription plan period ends today. Please renew your "
+"subscription\n"
+"            and click <a href=\""
+msgstr ""
+"Hallo<br>Uw plan abonnementsperiode eindigt vandaag. Vul uw abonnement "
+"verlengen en klik op<a href=\" href=\"\"></a href=\">"
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:886
+msgid "Subscription is expired."
+msgstr "Abonnement is verlopen."
+
+#: estatik/admin_template/es_subscriptions/es_subscription_functions.php:1117
+msgid "EUR"
+msgstr "€"
+
+#: estatik/admin_template/es_widgets.php:6
+msgid "Estatik Search"
+msgstr "Estatik Zoeken"
+
+#: estatik/admin_template/es_widgets.php:100
+msgid "Search Title:"
+msgstr "Zoek Titel:"
+
+#: estatik/admin_template/es_widgets.php:107
+msgid "Address:"
+msgstr "Adres:"
+
+#: estatik/admin_template/es_widgets.php:109
+msgid "Country:"
+msgstr "Land:"
+
+#: estatik/admin_template/es_widgets.php:111
+msgid "State/Region:"
+msgstr "Provincie / Regio:"
+
+#: estatik/admin_template/es_widgets.php:113
+msgid "City:"
+msgstr "Gemeente:"
+
+#: estatik/admin_template/es_widgets.php:115
+msgid "Error, duplicate 1: Price"
+msgstr "Prijs:"
+
+#: estatik/admin_template/es_widgets.php:117
+msgid "Bedrooms:"
+msgstr "Slaapkamers:"
+
+#: estatik/admin_template/es_widgets.php:119
+msgid "Bathrooms:"
+msgstr "Badkamers:"
+
+#: estatik/admin_template/es_widgets.php:121
+msgid "Category:"
+msgstr "Categorie:"
+
+#: estatik/admin_template/es_widgets.php:123
+msgid "Type:"
+msgstr "Type:"
+
+#: estatik/admin_template/es_widgets.php:125
+msgid "Sqft:"
+msgstr "m²"
+
+#: estatik/admin_template/es_widgets.php:127
+msgid "Lot size:"
+msgstr "Oppervlakte"
+
+#: estatik/admin_template/es_widgets.php:129
+msgid "Agent:"
+msgstr "Vastgoedmakelaar"
+
+#: estatik/admin_template/es_widgets.php:131
+msgid "Keywords:"
+msgstr "Keywords:"
+
+#: estatik/admin_template/es_widgets.php:150
+msgid "Search page"
+msgstr "Zoek pagina"
+
+#: estatik/admin_template/es_widgets.php:160 
+#: estatik/admin_template/es_widgets.php:502 
+#: estatik/admin_template/es_widgets.php:737
+msgid "Show On Pages"
+msgstr "Toon op pagina’s"
+
+#: estatik/admin_template/es_widgets.php:173 
+#: estatik/admin_template/es_widgets.php:514 
+#: estatik/admin_template/es_widgets.php:749
+msgid "Select Pages"
+msgstr "Selecteer pagina's:"
+
+#: estatik/admin_template/es_widgets.php:195 
+#: estatik/admin_template/es_widgets.php:537 
+#: estatik/admin_template/es_widgets.php:772
+msgid "Archive Page"
+msgstr "Archief Pagina"
+
+#: estatik/admin_template/es_widgets.php:199 
+#: estatik/admin_template/es_widgets.php:541 
+#: estatik/admin_template/es_widgets.php:776
+msgid "Single Page"
+msgstr "Enkele Pagina"
+
+#: estatik/admin_template/es_widgets.php:203 
+#: estatik/admin_template/es_widgets.php:545 
+#: estatik/admin_template/es_widgets.php:780
+msgid "Category Page"
+msgstr "Categoriepagina"
+
+#: estatik/admin_template/es_widgets.php:207 
+#: estatik/admin_template/es_widgets.php:549 
+#: estatik/admin_template/es_widgets.php:784
+msgid "Search Page"
+msgstr "Zoekpagina"
+
+#: estatik/admin_template/es_widgets.php:211 
+#: estatik/admin_template/es_widgets.php:553 
+#: estatik/admin_template/es_widgets.php:788
+msgid "Author Page"
+msgstr "Auteur"
+
+#: estatik/admin_template/es_widgets.php:308
+msgid "Estatik Request Form"
+msgstr "Aanvraagformulier voor Estatik"
+
+#: estatik/admin_template/es_widgets.php:320
+msgid "Request Title:"
+msgstr "Titel"
+
+#: estatik/admin_template/es_widgets.php:321 
+#: estatik/admin_template/es_widgets.php:354
+msgid "Learn more about this property"
+msgstr "Meer informatie over"
+
+#: estatik/admin_template/es_widgets.php:326
+msgid ""
+"Hi, I`m interested in the property. Please send me more information about it."
+" Thank you!"
+msgstr ""
+"Hallo, ben ik geïnteresseerd in deze woning. Stuur mij meer informatie over "
+"het. Dank u!"
+
+#: estatik/admin_template/es_widgets.php:330
+msgid "Send Message To"
+msgstr "Stuur bericht naar"
+
+#: estatik/admin_template/es_widgets.php:355
+msgid ""
+"Hi, I`m interestedin the property. Please send me more information about it. "
+"Thank you!"
+msgstr ""
+"Hallo, ben ik geïnteresseerd in deze woning. Stuur mij meer informatie over "
+"het. Dank u!"
+
+#: estatik/admin_template/es_widgets.php:356
+msgid "admin"
+msgstr "beheerder"
+
+#: estatik/admin_template/es_widgets.php:371
+msgid "Estatik Slideshow"
+msgstr "Estatik Slideshow"
+
+#: estatik/admin_template/es_widgets.php:415
+msgid "Show Arrows:"
+msgstr "Toon pijlen"
+
+#: estatik/admin_template/es_widgets.php:422
+msgid "Slide Effect"
+msgstr "Dia-Effect"
+
+#: estatik/admin_template/es_widgets.php:434
+msgid "Only Featured:"
+msgstr "Uitgelicht:"
+
+#: estatik/admin_template/es_widgets.php:475
+msgid "Images Height"
+msgstr "Afbeeldingshoogte"
+
+#: estatik/admin_template/es_widgets.php:480
+msgid "Images Width"
+msgstr "Breedte van de afbeeldingen"
+
+#: estatik/admin_template/es_widgets.php:485
+msgid "Number of Images"
+msgstr "Aantal afbeeldingen"
+
+#: estatik/admin_template/es_widgets.php:643
+msgid "Estatik Map View"
+msgstr "Estatik-kaartweergave"
+
+#: estatik/admin_template/es_widgets.php:690
+msgid "Map Icon Style:"
+msgstr "Icoon Stijl"
+
+#: estatik/admin_template/es_widgets.php:715
+msgid "Number of Props at once"
+msgstr "Aantal woningen"
+
+#: estatik/admin_template/es_widgets.php:720
+msgid "Map Zoom Level(default 10)"
+msgstr "Kaart Zoom Level(default 10)"
+
+#: estatik/estatik.php:22
+msgid "Import CSV Property"
+msgstr "Eigenschappen van de csv-import"
+
+#: estatik/estatik.php:26
+msgid "Add Subscription"
+msgstr "Nieuw abonnement"
+
+#: estatik/estatik.php:30
+msgid "Add New Agent"
+msgstr "Makelaar toevoegen"
+
+#: estatik/estatik.php:126 estatik/estatik.php:127
+msgid "News"
+msgstr "Nieuws"
+
+#: estatik/estatik.php:129
+msgid "Add New News"
+msgstr "Nieuws toevoegen"
+
+#: estatik/estatik.php:130
+msgid "Edit News"
+msgstr "Bewerk Nieuws"
+
+#: estatik/estatik.php:131
+msgid "New News"
+msgstr "Nieuwe nieuws item"
+
+#: estatik/estatik.php:132
+msgid "All News"
+msgstr "Alle nieuws"
+
+#: estatik/estatik.php:133
+msgid "View News"
+msgstr "Bekijk nieuws"
+
+#: estatik/estatik.php:134
+msgid "Search News"
+msgstr "Doorzoek Nieuws"
+
+#: estatik/estatik.php:135
+msgid "No News found"
+msgstr "Geen Nieuws gevonden."
+
+#: estatik/estatik.php:136
+msgid "No News found in the Trash"
+msgstr "Geen nieuwberichten gevonden in de prullenbak"
+
+#: estatik/front_templates/es_front_functions.php:363 
+#: estatik/front_templates/tcpdf/examples/es_front_functions.php:412
+msgid "min"
+msgstr "Minimum"
+
+#: estatik/front_templates/es_front_functions.php:367 
+#: estatik/front_templates/tcpdf/examples/es_front_functions.php:416
+msgid "max"
+msgstr "Maximum"
+
+#: estatik/front_templates/es_front_functions.php:474 
+#: estatik/front_templates/includes/es_listing_functions.php:204 
+#: estatik/front_templates/tcpdf/examples/es_front_functions.php:541 
+#: estatik/front_templates/widgets/es_slideshow.php:274
+msgid "%s bath"
+msgstr "%s badk."
+
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:114
+msgid ""
+"You are registered to our website. Your username and password Emailed to you."
+msgstr ""
+"U bent ingeschreven op onze website. Uw gebruikersnaam en wachtwoord zijn "
+"naar u gemaild."
+
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:121
+msgid "This email is already exist. Please choose another one."
+msgstr "Dit e-mailadres is al in gebruik. Gebruik een ander e-mail adres."
+
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:128
+msgid "Logout"
+msgstr "Uitloggen"
+
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:131
+msgid "Register"
+msgstr "Registreren"
+
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:135
+msgid "Yout profile has been updated."
+msgstr "Uw profiel is aangepast."
+
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:185
+msgid "Renew subscription"
+msgstr "Verleng mijn abonnement"
+
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:187
+msgid "Change subscription"
+msgstr "abonnement wijzigen"
+
+#: estatik/front_templates/includes/agent_files/es_add_new_agent.php:195 
+#: estatik/front_templates/includes/es_prop_management.php:28
+msgid "Add new subscription"
+msgstr "Nieuwe  abonnement toevoegen"
+
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:107
+msgid "You can add new listing!"
+msgstr "U kunt een nieuwe woning toevoegen!"
+
+#: estatik/front_templates/includes/agent_files/es_add_new_property.php:732
+msgid "You can't add new listing."
+msgstr "U kunt geen nieuw onroerendgoed toevoegen."
+
+#: estatik/front_templates/includes/agent_files/es_import_csv_property.php:110
+msgid "Add New Properties"
+msgstr "Nieuwe onroerend goed toevoegen"
+
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:223 
+#: estatik/front_templates/includes/es_profile.php:11 
+#: estatik/front_templates/includes/es_prop_management.php:40
+msgid "Please"
+msgstr "alstublieft"
+
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:223
+msgid "update"
+msgstr "bijwerken"
+
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:223
+msgid "your subscription plan"
+msgstr "Uw abonnement"
+
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:225
+msgid "You can't add new listings."
+msgstr "U kunt geen nieuw onroerendgoed toevoegen."
+
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:236 
+#: estatik/front_templates/includes/agent_files/es_my_listings.php:238
+msgid "Import Csv"
+msgstr "CSV-bestand Importeren"
+
+#: estatik/front_templates/includes/es_agents.php:65 
+#: estatik/front_templates/includes/es_agents_trendy.php:82
+msgid "Properties sold"
+msgstr "verkochte woningen"
+
+#: estatik/front_templates/includes/es_agents.php:86 
+#: estatik/front_templates/includes/es_agents_trendy.php:90
+msgid "No active Agent."
+msgstr "Geen actieve makelaars."
+
+#: estatik/front_templates/includes/es_agents.php:97 
+#: estatik/front_templates/includes/es_agents_trendy.php:101 
+#: estatik/front_templates/includes/es_listing_functions.php:358 
+#: estatik/front_templates/includes/es_login.php:34 
+#: estatik/front_templates/includes/es_profile.php:17 
+#: estatik/front_templates/includes/es_prop_management.php:59 
+#: estatik/front_templates/includes/es_prop_single.php:362 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:420 
+#: estatik/front_templates/includes/es_register.php:24
+msgid "Powered by"
+msgstr "Mogelijk gemaakt door"
+
+#: estatik/front_templates/includes/es_listing_functions.php:152 
+#: estatik/front_templates/includes/es_listing_functions.php:259
+msgid "Openhouse"
+msgstr "Open huis"
+
+#: estatik/front_templates/includes/es_listing_functions.php:216 
+#: estatik/front_templates/includes/es_listing_functions.php:411
+msgid "View on map"
+msgstr "Bekijk op de kaart"
+
+#: estatik/front_templates/includes/es_listing_functions.php:220 
+#: estatik/front_templates/includes/es_listing_functions.php:415
+msgid "Details"
+msgstr "Details"
+
+#: estatik/front_templates/includes/es_listing_functions.php:284
+#, php-format
+msgid "%s photo"
+msgstr "%s foto"
+
+#: estatik/front_templates/includes/es_listing_functions.php:292
+#, php-format
+msgid "%s bed"
+msgstr "%s slaapk."
+
+#: estatik/front_templates/includes/es_listing_functions.php:348 
+#: estatik/front_templates/includes/es_listing_functions.php:433
+msgid "Map"
+msgstr "Kaart"
+
+#: estatik/front_templates/includes/es_login.php:9
+msgid "you are logged in"
+msgstr "Je bent ingelogd"
+
+#: estatik/front_templates/includes/es_login.php:10 
+#: estatik/front_templates/includes/es_profile.php:11 
+#: estatik/front_templates/includes/es_prop_management.php:51 
+#: estatik/front_templates/includes/es_register.php:14
+msgid "logout"
+msgstr "uitloggen"
+
+#: estatik/front_templates/includes/es_login.php:16
+msgid "Log in into your account"
+msgstr "Log in in uw account"
+
+#: estatik/front_templates/includes/es_login.php:21 
+#: estatik/front_templates/includes/es_login.php:22
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: estatik/front_templates/includes/es_login.php:23
+msgid "Login"
+msgstr "Inloggen"
+
+#: estatik/front_templates/includes/es_login.php:26
+msgid "I forgot my password"
+msgstr "Ik ben mijn paswoord vergeten"
+
+#: estatik/front_templates/includes/es_login.php:27
+msgid "I need to register for a new account"
+msgstr "Nieuw account aanmaken"
+
+#: estatik/front_templates/includes/es_profile.php:11 
+#: estatik/front_templates/includes/es_prop_management.php:42 
+#: estatik/front_templates/includes/es_prop_management.php:44
+msgid "register"
+msgstr "inschrijven"
+
+#: estatik/front_templates/includes/es_profile.php:11
+msgid "as Agent to edit your profile."
+msgstr "Om uw profiel te bewerken:"
+
+#: estatik/front_templates/includes/es_prop_management.php:26
+msgid ""
+"You are not subscribed for view this page. You need to select your "
+"subscription."
+msgstr ""
+"U bent niet geabonneerd voor weergave van deze pagina. U moet uw abonnement "
+"te selecteren."
+
+#: estatik/front_templates/includes/es_prop_management.php:39
+msgid "You are not Agent."
+msgstr "U bent geen makelaar."
+
+#: estatik/front_templates/includes/es_prop_management.php:45
+msgid "and"
+msgstr "en"
+
+#: estatik/front_templates/includes/es_prop_management.php:46
+msgid "log in"
+msgstr "inloggen"
+
+#: estatik/front_templates/includes/es_prop_single.php:79 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:115
+msgid "Basic facts"
+msgstr "Basisgegevens"
+
+#: estatik/front_templates/includes/es_prop_single.php:92 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:128
+msgid "Contact agent"
+msgstr "Vraag informatie aan"
+
+#: estatik/front_templates/includes/es_prop_single.php:172 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:213 
+#: estatik/front_templates/tcpdf/examples/es_prop_pdf.php:164
+msgid "Area size"
+msgstr "Inhoud"
+
+#: estatik/front_templates/includes/es_prop_single.php:185 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:229
+msgid "Rent Period"
+msgstr "Huurperiode"
+
+#: estatik/front_templates/includes/es_prop_single.php:252 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:333
+msgid "View on map / Neighborhood"
+msgstr "Bekijk op de kaart"
+
+#: estatik/front_templates/includes/es_prop_single.php:285 
+#: estatik/front_templates/includes/es_prop_single_trendy.php:379 
+#: estatik/front_templates/tcpdf/examples/es_prop_pdf.php:225
+msgid "Amenities"
+msgstr "Voorzieningen"
+
+#: estatik/front_templates/includes/es_prop_single.php:357
+msgid "To top"
+msgstr "Naar boven"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:56
+msgid "attic"
+msgstr "Zolder"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:57
+msgid "balcony"
+msgstr "Balkon"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:58
+msgid "cooling"
+msgstr "koeling"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:59
+msgid "disability access"
+msgstr "toegang voor gehandicapten"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:60
+msgid "fenced yard"
+msgstr "Omheinde tuin"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:61
+msgid "fireplace"
+msgstr "Open haard"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:62
+msgid "garden"
+msgstr "tuin"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:63
+msgid "gym"
+msgstr "Fitnessruimte"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:64
+msgid "heating"
+msgstr "verwarming"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:65
+msgid "laundry"
+msgstr "wasmachine"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:66
+msgid "parking"
+msgstr "parkeren"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:67
+msgid "swimming pool"
+msgstr "zwembad"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:70
+msgid "dishwasher"
+msgstr "vaatwasser"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:71
+msgid "hairdryer"
+msgstr "haardroger"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:72
+msgid "iron"
+msgstr "strijkijzer"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:73
+msgid "microwave"
+msgstr "magnetron"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:74
+msgid "oven"
+msgstr "oven"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:75
+msgid "refridgerator"
+msgstr "koelkast"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:76
+msgid "phone"
+msgstr "telefoon"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:77
+msgid "tv"
+msgstr "televisie"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:78
+msgid "vcr"
+msgstr "video"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:79
+msgid "washing machine"
+msgstr "Wasmachine"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:80
+msgid "wifi"
+msgstr "Wifi"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:292
+msgid "Share this"
+msgstr "Deel dit"
+
+#: estatik/front_templates/includes/es_prop_single_trendy.php:412
+msgid "Go to top"
+msgstr "Ga naar boven"
+
+#: estatik/front_templates/includes/es_property_map.php:87 
+#: estatik/front_templates/includes/es_property_map.php:203 
+#: estatik/front_templates/includes/es_property_map.php:321
+msgid "bed"
+msgstr "slaapkamer"
+
+#: estatik/front_templates/includes/es_property_map.php:89 
+#: estatik/front_templates/includes/es_property_map.php:205 
+#: estatik/front_templates/includes/es_property_map.php:324 
+#: estatik/front_templates/includes/es_property_map.php:94 
+#: estatik/front_templates/includes/es_property_map.php:210 
+#: estatik/front_templates/includes/es_property_map.php:330 
+#: estatik/front_templates/includes/es_register.php:14
+msgid "You are already logged in."
+msgstr "Je bent al ingelogd."
+
+#: estatik/front_templates/includes/es_view_first.php:19
+msgid "Properties by Agent"
+msgstr "onroerend goed aangeboden door makelaar"
+
+#: estatik/front_templates/includes/es_view_first.php:29
+msgid "View first"
+msgstr "Eerst bekijken"
+
+#: estatik/front_templates/includes/es_view_first.php:50
+msgid "Menu is empty."
+msgstr "Menu is leeg."
+
+#: estatik/front_templates/tcpdf/examples/es_prop_pdf.php:160
+msgid "Basic Facts"
+msgstr "Basisgegevens"
+
+#: estatik/front_templates/tcpdf/examples/es_prop_pdf.php:179
+msgid "Built In"
+msgstr "Bouwjaar"
+
+#: estatik/front_templates/tcpdf/examples/es_prop_pdf.php:197
+msgid "Neighbourhood"
+msgstr "Omgeving"
+
+#: estatik/front_templates/widgets/es_request_form.php:34
+msgid "Phone"
+msgstr "Telefoonnummer"
+
+#: estatik/front_templates/widgets/es_request_form.php:36
+msgid "Property Address"
+msgstr "Adres"
+
+#: estatik/front_templates/widgets/es_request_form.php:37
+msgid "Request"
+msgstr "Aanvraag"
+
+#: estatik/front_templates/widgets/es_request_form.php:53
+msgid "Your message was sent"
+msgstr "Uw bericht is succesvol verzonden"
+
+#: estatik/front_templates/widgets/es_request_form.php:54
+msgid "Thank you for your message! We will contact you as soon as we can."
+msgstr "Bedankt voor uw bericht. U hoort spoedig van ons."
+
+#: estatik/front_templates/widgets/es_request_form.php:64
+msgid "Email not valid."
+msgstr "E-mailadres is ongeldig"
+
+#: estatik/front_templates/widgets/es_request_form.php:65
+msgid "Please Enter the security code."
+msgstr "Voer de veligheidstekst in."
+
+#: estatik/front_templates/widgets/es_request_form.php:66
+msgid "Incorrect Code Entered."
+msgstr "Onjuiste Code ingevoerd."
+
+#: estatik/front_templates/widgets/es_request_form.php:68 
+#: estatik/front_templates/widgets/es_request_form.php:69
+msgid "Your name"
+msgstr "Jouw naam"
+
+#: estatik/front_templates/widgets/es_request_form.php:70 
+#: estatik/front_templates/widgets/es_request_form.php:71
+msgid "Your email"
+msgstr "Uw e-mail"
+
+#: estatik/front_templates/widgets/es_request_form.php:72 
+#: estatik/front_templates/widgets/es_request_form.php:73
+msgid "Phone number"
+msgstr "Telefoonnummer"
+
+#: estatik/front_templates/widgets/es_request_form.php:74
+msgid "Request message"
+msgstr "Verzoek-bericht:"
+
+#: estatik/front_templates/widgets/es_request_form.php:79
+msgid "Send"
+msgstr "Verzonden"
+
+#: estatik/front_templates/widgets/es_search.php:133
+msgid "Address, City, ZIP"
+msgstr "Adres, Plaats, Postcode"
+
+#: estatik/front_templates/widgets/es_search.php:188
+msgid "Key words"
+msgstr "trefwoorden"
+
+#: estatik/front_templates/widgets/es_slideshow.php:285
+msgid "No Slide"
+msgstr "Geen Slide"
+
+msgid "Most recent"
+msgstr ""
+"Meest recente\n"
+
+msgid "Highest price"
+msgstr "Hoogste prijs"
+
+msgid "Lowest price"
+msgstr "Laagste prijs"
+
+msgid "Most popular"
+msgstr "Meest populair"
+
+msgid "Year built"
+msgstr "Bouwjaar"
+
+msgid "text/number"
+msgstr "text / nummer"
+
+msgid ""
+"Here you can add video and upload images. Please enter video code in iframe "
+"format, e.g. -"
+msgstr ""
+"Hier kan je video toe te voegen en afbeeldingen uploaden. Vul video code in "
+"iframe-formaat, bijv. -"
+
+msgid "Choose Import Fields"
+msgstr "Kies Importeren Fields"
+
+msgid "Skip first line"
+msgstr "Sla de eerste lijn"
+
+msgid "Property status"
+msgstr "Makelaar status"
+
+msgid "Choose source file"
+msgstr "Kies bronbestand"
+
+msgid "Start import"
+msgstr "Importeren"
+
+msgid "Please fill up your settings details and click save to finish."
+msgstr ""
+"Vul up van uw instellingen gegevens in en klik op te slaan om te voltooien."
+
+msgid "Show price"
+msgstr "Toon prijs"
+
+msgid "Show Address"
+msgstr "Adres weergeven"
+
+msgid "Hide main title"
+msgstr "Hide hoofdtitel"
+
+msgid "Theme style"
+msgstr "Thema stijl"
+
+msgid "Width"
+msgstr "Breedte"
+
+msgid "Enable subscriptions"
+msgstr "Inschakelen abonnementen"
+
+msgid "PayPal Subscription settings"
+msgstr "PayPal Abonnementsinstellingen"
+
+msgid "Submit a ticket"
+msgstr "Verzend ticket"
+
+msgid "Add new"
+msgstr "Voeg nieuwe"
+
+msgid "Related services"
+msgstr "Gerelateerde diensten"
+
+msgid "Installation & setup"
+msgstr "Installatie en configuratie"
+
+msgid ""
+"Sit back and let us handle everything. Within 2 hours you ' ll get a site "
+"exactly like our demo."
+msgstr ""
+"Leun achterover en laat ons alles af te handelen. Binnen 2 uur kom je een "
+"site precies zoals onze demo."
+
+msgid "Customization"
+msgstr "Maatwerk"
+
+msgid "We can develop any additional feature on your individual request."
+msgstr ""
+"We kunnen geen extra functie van uw individuele aanvraag te ontwikkelen."
+
+msgid "Custom real estate website"
+msgstr "Custom vastgoed website"
+
+msgid ""
+"Need a site with unique stunning design and flexible trendy features? Click "
+"here."
+msgstr ""
+"Behoefte aan een site met unieke oogstrelend ontwerp en flexibele trendy "
+"functies? Klik hier."
+
+msgid "Select taxonomy"
+msgstr "Kies een taxonomie"
+
+msgid "%s beds"
+msgstr "%s slaapk."
+
+msgid "%s baths"
+msgstr "%s badk."

@@ -1,0 +1,1509 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Estatik\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-09 18:14+0500\n"
+"PO-Revision-Date: 2017-07-09 14:04+0000\n"
+"Last-Translator: admingergely <gergely@cinnamonweb.hu>\n"
+"Language-Team: Hungarian\n"
+"Language: hu-HU\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: ru_RU\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: estatik\n"
+"X-Loco-Parser: loco_parse_po"
+
+#: estatik/admin_template/es_admin_functions.php:40
+msgid "No Properties found in the Trash"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:59 
+#: estatik/admin_template/es_admin_functions.php:69
+msgid "Property Categories"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:60
+msgid "Property Category"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:61
+msgid "Search Property Categories"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:62
+msgid "All Property Categories"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:63
+msgid "Parent Property Category"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:64
+msgid "Parent Property Category:"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:66
+msgid "Update Property Category"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:67
+msgid "Add New Property Category"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:68
+msgid "New Property Category"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:82 
+#: estatik/admin_template/es_admin_functions.php:83
+msgid "Property Status"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:84
+msgid "Search Status Categories"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:85
+msgid "All Status Categories"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:86
+msgid "Parent Status Category"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:87
+msgid "Parent Status Category:"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:88
+msgid "Edit Status Category"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:89
+msgid "Update Status Category"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:90
+msgid "Add New Status Category"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:91
+msgid "New Status Category"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:92
+msgid "Status Categories"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:105 
+#: estatik/admin_template/es_admin_functions.php:106
+msgid "Property Types"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:107
+msgid "Search Types Categories"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:108
+msgid "All Types Categories"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:109
+msgid "Parent Type Category"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:110
+msgid "Parent Type Category:"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:111
+msgid "Edit Type Category"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:112
+msgid "Update Type Category"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:113
+msgid "Add New Type Category"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:114
+msgid "New Type Category"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:115
+msgid "Type Categories"
+msgstr ""
+
+#: estatik/admin_template/es_manager/es_data_manager.php:8
+msgid "Ok"
+msgstr ""
+
+#: estatik/admin_template/es_property/es_add_new_property.php:284 
+#: estatik/admin_template/es_property/es_my_listings.php:212 
+#: estatik/admin_template/es_property/es_my_listings.php:223
+msgid "OK"
+msgstr ""
+
+#: estatik/admin_template/es_property/es_add_new_property.php:472
+msgid "Open house"
+msgstr ""
+
+#: estatik/admin_template/es_property/es_my_listings.php:200
+msgid "Please select properties you want to unpublish."
+msgstr ""
+
+#: estatik/admin_template/es_property/es_my_listings.php:295
+msgid "Undo selection"
+msgstr ""
+
+#: estatik/admin_template/es_property/es_my_listings.php:310
+msgid "Selected properties have been copied."
+msgstr ""
+
+#: estatik/admin_template/es_property/es_my_listings.php:314
+msgid "Selected properties have been deleted."
+msgstr ""
+
+#: estatik/admin_template/es_property/es_my_listings.php:318
+msgid "Selected properties have been published."
+msgstr ""
+
+#: estatik/admin_template/es_property/es_my_listings.php:322
+msgid "Selected properties have been unpublished."
+msgstr ""
+
+#: estatik/admin_template/es_property/es_property_temps/es_property_images.php:43
+msgid "No record found. please add new one."
+msgstr ""
+
+#: estatik/admin_template/es_property/es_property_temps/es_property_states.php:30
+msgid "No State"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:93
+msgid "Powered by link"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:119
+msgid "Date Format"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:151
+msgid "Resize method"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:152
+msgid "Crop & shrink"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:153
+msgid "Crop"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:165 
+#: estatik/admin_template/es_settings.php:188
+msgid "Height"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:171 
+#: estatik/admin_template/es_settings.php:194
+msgid "Widht"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:183
+msgid "Photo on<br />the left/right"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:184
+msgid "Photo <br />in center"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:185
+msgid "Photo <br /> Thumb"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:265
+msgid "PDF Player"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:270
+msgid "Sharing Feature is available in"
+msgstr ""
+
+#: estatik/admin_template/es_settings.php:270
+msgid "version only"
+msgstr ""
+
+#: estatik/admin_template/es_widgets.php:117
+msgid "Show On Pages"
+msgstr ""
+
+#: estatik/admin_template/es_widgets.php:129
+msgid "Select Pages"
+msgstr ""
+
+#: estatik/admin_template/es_widgets.php:153
+msgid "Archive Page"
+msgstr ""
+
+#: estatik/admin_template/es_widgets.php:157
+msgid "Single Page"
+msgstr ""
+
+#: estatik/admin_template/es_widgets.php:161
+msgid "Category Page"
+msgstr ""
+
+#: estatik/admin_template/es_widgets.php:165
+msgid "Search Page"
+msgstr ""
+
+#: estatik/admin_template/es_widgets.php:169
+msgid "Author Page"
+msgstr ""
+
+#: estatik/estatik.php:28
+msgid "Estatik Pro"
+msgstr ""
+
+#: estatik/front_templates/includes/es_cheapest_props.php:75 
+#: estatik/front_templates/includes/es_featured_props.php:76 
+#: estatik/front_templates/includes/es_latest_props.php:80 
+#: estatik/front_templates/includes/es_my_listing.php:210
+msgid "openhouse"
+msgstr ""
+
+#: estatik/front_templates/includes/es_cheapest_props.php:78 
+#: estatik/front_templates/includes/es_featured_props.php:79 
+#: estatik/front_templates/includes/es_latest_props.php:83 
+#: estatik/front_templates/includes/es_my_listing.php:213
+msgid "foreclosure"
+msgstr ""
+
+#: estatik/front_templates/includes/es_cheapest_props.php:178 
+#: estatik/front_templates/includes/es_featured_props.php:179 
+#: estatik/front_templates/includes/es_latest_props.php:182 
+#: estatik/front_templates/includes/es_my_listing.php:305 
+#: estatik/front_templates/includes/es_prop_single.php:301
+msgid "Powered by"
+msgstr ""
+
+#: estatik/front_templates/includes/es_view_first.php:19
+msgid "Properties by Agent"
+msgstr ""
+
+#: estatik/front_templates/includes/es_view_first.php:29
+msgid "View first"
+msgstr ""
+
+#: estatik/front_templates/includes/es_view_first.php:50
+msgid "Menu is empty."
+msgstr ""
+
+#: estatik/front_templates/widgets/es_search.php:134 
+#: estatik/front_templates/widgets/es_search.php:142 
+#: estatik/front_templates/widgets/es_search.php:150 
+#: estatik/front_templates/widgets/es_search.php:159 
+#: estatik/front_templates/widgets/es_search.php:167
+msgid "min"
+msgstr ""
+
+#: estatik/front_templates/widgets/es_search.php:136 
+#: estatik/front_templates/widgets/es_search.php:144 
+#: estatik/front_templates/widgets/es_search.php:152 
+#: estatik/front_templates/widgets/es_search.php:161 
+#: estatik/front_templates/widgets/es_search.php:169
+msgid "max"
+msgstr ""
+
+#: estatik/front_templates/widgets/es_search.php:158
+msgid "Sq ft"
+msgstr ""
+
+#: estatik/front_templates/widgets/es_search.php:213
+msgid "Key words"
+msgstr ""
+
+#: estatik/admin_template/es_admin_functions.php:30 
+#: estatik/admin_template/es_admin_functions.php:31 
+#: estatik/admin_template/es_settings.php:149 
+#: estatik/front_templates/includes/es_view_first.php:13
+msgid "Properties"
+msgstr "Ingatlan"
+
+#: estatik/admin_template/es_admin_functions.php:32 
+#: estatik/admin_template/es_dashboard.php:13
+msgid "Add New"
+msgstr "Új hozzáadása"
+
+#: estatik/admin_template/es_admin_functions.php:33 estatik/estatik.php:25
+msgid "Add new property"
+msgstr "Új lista hozzáadása"
+
+#: estatik/admin_template/es_admin_functions.php:34 
+#: estatik/admin_template/es_property/es_add_new_property.php:294
+msgid "Edit Property"
+msgstr "Lista szerkesztése"
+
+#: estatik/admin_template/es_admin_functions.php:35 
+#: estatik/admin_template/es_property/es_add_new_property.php:298
+msgid "New Property"
+msgstr "Új lista"
+
+#: estatik/admin_template/es_admin_functions.php:36
+msgid "All Properties"
+msgstr "Minden lista"
+
+#: estatik/admin_template/es_admin_functions.php:37
+msgid "View Properties"
+msgstr "Nézze meg a listákat"
+
+#: estatik/admin_template/es_admin_functions.php:38
+msgid "Search Properties"
+msgstr "Keresési listák"
+
+#: estatik/admin_template/es_admin_functions.php:39
+msgid "No Properties found"
+msgstr "Nem találhatók hirdetések"
+
+#: estatik/admin_template/es_admin_functions.php:65
+msgid "Edit Property Category"
+msgstr "Szerkesztési lista szerkesztése"
+
+#: estatik/admin_template/es_dashboard.php:4 estatik/estatik.php:23
+msgid "Dashboard"
+msgstr "Műszerfal"
+
+#: estatik/admin_template/es_dashboard.php:12 estatik/estatik.php:24
+msgid "My listings"
+msgstr "Saját listám"
+
+#: estatik/admin_template/es_dashboard.php:14 
+#: estatik/admin_template/es_manager/es_data_manager.php:16 
+#: estatik/estatik.php:26
+msgid "Data manager"
+msgstr "Adatkezelő"
+
+#: estatik/admin_template/es_dashboard.php:15 
+#: estatik/admin_template/es_settings.php:51 estatik/estatik.php:27
+msgid "Settings"
+msgstr "Beállítások"
+
+#: estatik/admin_template/es_dashboard.php:19
+msgid "Get Support"
+msgstr "Támogatást kapni"
+
+#: estatik/admin_template/es_dashboard.php:23
+msgid "Step-by-step guide"
+msgstr "Lépésről-lépésre útmutató"
+
+#: estatik/admin_template/es_dashboard.php:24
+msgid "Video Tutorial"
+msgstr "Videó bemutató"
+
+#: estatik/admin_template/es_dashboard.php:25
+msgid "Submit a ticket"
+msgstr "Jegy bejelentkezése"
+
+#: estatik/admin_template/es_dashboard.php:29
+msgid "Choose Your Theme"
+msgstr "Válassza ki a témát"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:6 
+#: estatik/admin_template/es_property/es_add_new_property.php:282 
+#: estatik/admin_template/es_property/es_my_listings.php:203
+msgid "Are you sure you want to delete it?"
+msgstr "Biztosan törölni akarja?"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:9 
+#: estatik/admin_template/es_property/es_add_new_property.php:285 
+#: estatik/admin_template/es_property/es_my_listings.php:224
+msgid "Cancel"
+msgstr "Megszünteti"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:22 
+#: estatik/admin_template/es_property/es_add_new_property.php:274
+msgid "Please fill your field."
+msgstr "Kérjük, töltse ki a meződet."
+
+#: estatik/admin_template/es_manager/es_data_manager.php:23 
+#: estatik/admin_template/es_property/es_add_new_property.php:275
+msgid "field has been added."
+msgstr "Mező hozzáadva."
+
+#: estatik/admin_template/es_manager/es_data_manager.php:24 
+#: estatik/admin_template/es_property/es_add_new_property.php:276
+msgid "field has been deleted."
+msgstr "Mező törölve."
+
+#: estatik/admin_template/es_manager/es_data_manager.php:28
+msgid "Properties details"
+msgstr "Tulajdonság részletei"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:29
+msgid "Location"
+msgstr "Elhelyezkedés"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:30
+msgid "Dimensions"
+msgstr "Méretek"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:31 
+#: estatik/admin_template/es_manager/es_data_manager.php:183 
+#: estatik/admin_template/es_property/es_add_new_property.php:338 
+#: estatik/admin_template/es_property/es_add_new_property.php:683 
+#: estatik/front_templates/includes/es_prop_single.php:71 
+#: estatik/front_templates/includes/es_prop_single.php:261 
+#: estatik/front_templates/includes/es_prop_single.php:265
+msgid "Features"
+msgstr "Jellemzők"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:32 
+#: estatik/admin_template/es_manager/es_data_manager.php:218 
+#: estatik/admin_template/es_settings.php:75
+msgid "Currency"
+msgstr "Valuta"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:39 
+#: estatik/admin_template/es_property/es_add_new_property.php:422 
+#: estatik/admin_template/es_property/es_add_new_property.php:424 
+#: estatik/admin_template/es_property/es_my_listings.php:254 
+#: estatik/admin_template/es_property/es_my_listings.php:358 
+#: estatik/front_templates/includes/es_prop_single.php:174
+msgid "Status"
+msgstr "Állapot"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:50 
+#: estatik/admin_template/es_manager/es_data_manager.php:66 
+#: estatik/admin_template/es_manager/es_data_manager.php:84 
+#: estatik/admin_template/es_manager/es_data_manager.php:100 
+#: estatik/admin_template/es_manager/es_data_manager.php:121 
+#: estatik/admin_template/es_manager/es_data_manager.php:137 
+#: estatik/admin_template/es_manager/es_data_manager.php:153 
+#: estatik/admin_template/es_manager/es_data_manager.php:174 
+#: estatik/admin_template/es_manager/es_data_manager.php:194 
+#: estatik/admin_template/es_manager/es_data_manager.php:210 
+#: estatik/admin_template/es_manager/es_data_manager.php:228 
+#: estatik/admin_template/es_property/es_add_new_property.php:590 
+#: estatik/admin_template/es_property/es_add_new_property.php:697 
+#: estatik/admin_template/es_property/es_add_new_property.php:717
+msgid "Add new field"
+msgstr "Új mező hozzáadása"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:55 
+#: estatik/admin_template/es_property/es_add_new_property.php:406 
+#: estatik/admin_template/es_property/es_add_new_property.php:408 
+#: estatik/admin_template/es_property/es_my_listings.php:242 
+#: estatik/admin_template/es_property/es_my_listings.php:352 
+#: estatik/front_templates/widgets/es_search.php:174 
+#: estatik/front_templates/widgets/es_search.php:176
+msgid "Category"
+msgstr "Kategória"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:89
+msgid "Rent period"
+msgstr "Bérleti időszak"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:110 
+#: estatik/admin_template/es_property/es_add_new_property.php:603
+msgid "Country"
+msgstr "Ország"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:126
+msgid "States/Regions"
+msgstr "Államok / Régiók"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:142
+msgid "Cities"
+msgstr "Városok"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:163
+msgid "Area & lot size"
+msgstr "A terület és a tétel mérete"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:199 
+#: estatik/admin_template/es_property/es_add_new_property.php:703
+msgid "Appliances"
+msgstr "Készülékek"
+
+#: estatik/admin_template/es_manager/es_manager_temps/es_appliance.php:50 
+#: estatik/admin_template/es_manager/es_manager_temps/es_category.php:20 
+#: estatik/admin_template/es_manager/es_manager_temps/es_city.php:32 
+#: estatik/admin_template/es_manager/es_manager_temps/es_country.php:30 
+#: estatik/admin_template/es_manager/es_manager_temps/es_currency.php:25 
+#: estatik/admin_template/es_manager/es_manager_temps/es_dimension.php:25 
+#: estatik/admin_template/es_manager/es_manager_temps/es_feature.php:49 
+#: estatik/admin_template/es_manager/es_manager_temps/es_period.php:19 
+#: estatik/admin_template/es_manager/es_manager_temps/es_state.php:45 
+#: estatik/admin_template/es_manager/es_manager_temps/es_status.php:20 
+#: estatik/admin_template/es_manager/es_manager_temps/es_type.php:19
+msgid "No record found. Please add new one."
+msgstr "Nincs találat. Adjon hozzá újat."
+
+#: estatik/admin_template/es_pro.php:30
+msgid "Upload Downloaded Estatik Pro"
+msgstr "Feltöltés Estatik Pro"
+
+#: estatik/admin_template/es_pro.php:37
+msgid ""
+"Full advanced version with extra portal management option, social sharing, "
+"additional widgets support, etc."
+msgstr ""
+"Teljesen fejlett változat extra portálkezelési lehetőséggel, közösségi "
+"megosztással, további kütyüktámogatásokkal stb."
+
+#: estatik/admin_template/es_pro.php:38
+msgid "Please upload your"
+msgstr "Töltsd fel"
+
+#: estatik/admin_template/es_pro.php:38
+msgid ""
+"version in zip format and click upload to finish for update to pro Version."
+msgstr ""
+"Zip formátumú verziót, és kattintson a feltöltés gombra a verziószám "
+"frissítéséhez."
+
+#: estatik/admin_template/es_pro.php:39 
+#: estatik/admin_template/es_property/es_add_new_property.php:730
+msgid "Upload"
+msgstr "Feltöltés"
+
+#: estatik/admin_template/es_pro.php:48
+msgid "Upload Zip"
+msgstr "ZIP feltöltése"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:277
+msgid "Please enter numbers only."
+msgstr "Kérjük, csak a számokat adja meg."
+
+#: estatik/admin_template/es_property/es_add_new_property.php:310
+msgid "Please Edit your property detail and click save to finish."
+msgstr ""
+"Kérjük, módosítsa az ingatlan részleteit, és a befejezéshez kattintson a "
+"Mentés gombra."
+
+#: estatik/admin_template/es_property/es_add_new_property.php:311 
+#: estatik/admin_template/es_property/es_add_new_property.php:319
+msgid "Save & Close"
+msgstr "Mentés és bezárás"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:312 
+#: estatik/admin_template/es_property/es_add_new_property.php:320 
+#: estatik/admin_template/es_settings.php:59
+msgid "Save"
+msgstr "Mentés "
+
+#: estatik/admin_template/es_property/es_add_new_property.php:318
+msgid "Please fill up your property detail and click save to finish."
+msgstr ""
+"Töltse ki a tulajdon részleteit, és kattintson a Mentés gombra a "
+"befejezéshez."
+
+#: estatik/admin_template/es_property/es_add_new_property.php:327
+msgid "Property has been updated."
+msgstr "A listát frissítettük."
+
+#: estatik/admin_template/es_property/es_add_new_property.php:336
+msgid "Basic information"
+msgstr "Alapinformációk"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:337 
+#: estatik/admin_template/es_property/es_my_listings.php:281 
+#: estatik/admin_template/es_property/es_my_listings.php:349 
+#: estatik/admin_template/es_settings.php:109 
+#: estatik/admin_template/es_settings.php:112
+msgid "Address"
+msgstr "Cím"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:339
+msgid "Media"
+msgstr "Média"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:363 
+#: estatik/admin_template/es_property/es_my_listings.php:279 
+#: estatik/admin_template/es_property/es_my_listings.php:337
+msgid "Property ID"
+msgstr "Listaazonosító"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:385 
+#: estatik/admin_template/es_property/es_my_listings.php:343 
+#: estatik/admin_template/es_settings.php:108
+msgid "Title"
+msgstr "Cím"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:438 
+#: estatik/front_templates/includes/es_cheapest_props.php:69 
+#: estatik/front_templates/includes/es_featured_props.php:70 
+#: estatik/front_templates/includes/es_latest_props.php:74 
+#: estatik/front_templates/includes/es_my_listing.php:204
+msgid "Featured"
+msgstr "Kiemelt"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:451 
+#: estatik/admin_template/es_property/es_add_new_property.php:468 
+#: estatik/admin_template/es_property/es_add_new_property.php:485 
+#: estatik/admin_template/es_property/es_add_new_property.php:502 
+#: estatik/admin_template/es_settings.php:94 
+#: estatik/admin_template/es_settings.php:103 
+#: estatik/admin_template/es_settings.php:113 
+#: estatik/admin_template/es_settings.php:242 
+#: estatik/admin_template/es_settings.php:248 
+#: estatik/admin_template/es_settings.php:254 
+#: estatik/admin_template/es_settings.php:260 
+#: estatik/admin_template/es_settings.php:266 
+#: estatik/admin_template/es_widgets.php:52 
+#: estatik/admin_template/es_widgets.php:58 
+#: estatik/admin_template/es_widgets.php:64 
+#: estatik/admin_template/es_widgets.php:70 
+#: estatik/admin_template/es_widgets.php:76 
+#: estatik/admin_template/es_widgets.php:82 
+#: estatik/admin_template/es_widgets.php:88 
+#: estatik/admin_template/es_widgets.php:94 
+#: estatik/admin_template/es_widgets.php:100
+msgid "Yes"
+msgstr "Igen"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:452 
+#: estatik/admin_template/es_property/es_add_new_property.php:469 
+#: estatik/admin_template/es_property/es_add_new_property.php:486 
+#: estatik/admin_template/es_property/es_add_new_property.php:503 
+#: estatik/admin_template/es_settings.php:95 
+#: estatik/admin_template/es_settings.php:104 
+#: estatik/admin_template/es_settings.php:114 
+#: estatik/admin_template/es_widgets.php:53 
+#: estatik/admin_template/es_widgets.php:59 
+#: estatik/admin_template/es_widgets.php:65 
+#: estatik/admin_template/es_widgets.php:71 
+#: estatik/admin_template/es_widgets.php:77 
+#: estatik/admin_template/es_widgets.php:83 
+#: estatik/admin_template/es_widgets.php:89 
+#: estatik/admin_template/es_widgets.php:95 
+#: estatik/admin_template/es_widgets.php:101
+msgid "No"
+msgstr "Nem"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:489
+msgid "Foreclosure"
+msgstr "Kizárás"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:511
+msgid "Period"
+msgstr "Időszak"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:525 
+#: estatik/front_templates/includes/es_prop_single.php:181 
+#: estatik/front_templates/widgets/es_search.php:141
+msgid "Bedrooms"
+msgstr "Hálószoba"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:531 
+#: estatik/front_templates/includes/es_prop_single.php:188 
+#: estatik/front_templates/widgets/es_search.php:149
+msgid "Bathrooms"
+msgstr "Fürdőszoba"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:535 
+#: estatik/front_templates/includes/es_prop_single.php:195
+msgid "Floors"
+msgstr "Szintjei"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:539
+msgid "Area"
+msgstr "Terület"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:548 
+#: estatik/front_templates/includes/es_prop_single.php:149 
+#: estatik/front_templates/widgets/es_search.php:166
+msgid "Lot size"
+msgstr "Telekméret"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:557 
+#: estatik/front_templates/includes/es_prop_single.php:202
+msgid "Built in"
+msgstr "Beépített"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:608
+msgid "Choose Country"
+msgstr "Válassz országot"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:624
+msgid "State/Region"
+msgstr "Ország / régió"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:648
+msgid "ZIP/Postcode"
+msgstr "ZIP / irányítószám"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:653
+msgid "Street"
+msgstr "Utca"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:663
+msgid "Longitude"
+msgstr "Hosszúság"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:667
+msgid "Latitude"
+msgstr "Szélesség"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:727
+msgid "Select files or upload images in a zip-file."
+msgstr "Válasszon fájlokat, vagy tölts fel képeket zip-fájlba."
+
+#: estatik/admin_template/es_property/es_add_new_property.php:733
+msgid ""
+"The first image will be default image. You can drag and drop images to "
+"change their order."
+msgstr ""
+"Az első kép lesz az alapértelmezett kép. Képeket húzhat és húzhat át a "
+"rendelés megváltoztatásához."
+
+#: estatik/admin_template/es_property/es_my_listings.php:197
+msgid "Please select properties you want to copy."
+msgstr "Válassza ki a másolni kívánt tulajdonságokat."
+
+#: estatik/admin_template/es_property/es_my_listings.php:198
+msgid "Please select properties you want to delete."
+msgstr "Kérjük, válassza ki a törölni kívánt tulajdonságokat."
+
+#: estatik/admin_template/es_property/es_my_listings.php:199
+msgid "Please select properties you want to publish."
+msgstr "Kérjük, válassza ki a közzétenni kívánt tulajdonságokat."
+
+#: estatik/admin_template/es_property/es_my_listings.php:202
+msgid "Are you sure you want to Copy it?"
+msgstr "Biztos benne, hogy másolni szeretné?"
+
+#: estatik/admin_template/es_property/es_my_listings.php:204
+msgid "Are you sure you want to publish it?"
+msgstr "Biztos benne, hogy közzé kívánja tenni?"
+
+#: estatik/admin_template/es_property/es_my_listings.php:205
+msgid "Are you sure you want to unpublish it?"
+msgstr "Biztos benne, hogy közzéteszi?"
+
+#: estatik/admin_template/es_property/es_my_listings.php:231
+msgid "My Listings"
+msgstr "Saját hirdetések"
+
+#: estatik/admin_template/es_property/es_my_listings.php:240
+msgid "Filter by"
+msgstr "Szűrés vlami alapján"
+
+#: estatik/admin_template/es_property/es_my_listings.php:292
+msgid "Manage"
+msgstr "Kezel"
+
+#: estatik/admin_template/es_property/es_my_listings.php:294
+msgid "Select all"
+msgstr "Mindet kiválaszt"
+
+#: estatik/admin_template/es_property/es_my_listings.php:296
+msgid "Copy"
+msgstr "Másolat"
+
+#: estatik/admin_template/es_property/es_my_listings.php:297 
+#: estatik/admin_template/es_property/es_my_listings.php:484
+msgid "Delete"
+msgstr "Töröl"
+
+#: estatik/admin_template/es_property/es_my_listings.php:298
+msgid "Publish"
+msgstr "Közzétesz"
+
+#: estatik/admin_template/es_property/es_my_listings.php:299
+msgid "Unpublish"
+msgstr "Közzétételének"
+
+#: estatik/admin_template/es_property/es_my_listings.php:306
+msgid "Property has been deleted."
+msgstr "A listát törölték."
+
+#: estatik/admin_template/es_property/es_my_listings.php:326 
+#: estatik/front_templates/includes/es_my_listing.php:17
+msgid "Your search results."
+msgstr "A keresési eredmények."
+
+#: estatik/admin_template/es_property/es_my_listings.php:340
+msgid "Image"
+msgstr "Kép"
+
+#: estatik/admin_template/es_property/es_my_listings.php:447 
+#: estatik/front_templates/includes/es_cheapest_props.php:117 
+#: estatik/front_templates/includes/es_featured_props.php:117 
+#: estatik/front_templates/includes/es_latest_props.php:122 
+#: estatik/front_templates/includes/es_my_listing.php:252
+msgid "No Image"
+msgstr "Nincs kép"
+
+#: estatik/admin_template/es_property/es_my_listings.php:483
+msgid "Edit"
+msgstr "Szerkesztése"
+
+#: estatik/admin_template/es_property/es_my_listings.php:494 
+#: estatik/front_templates/includes/es_cheapest_props.php:158 
+#: estatik/front_templates/includes/es_featured_props.php:158 
+#: estatik/front_templates/includes/es_latest_props.php:162 
+#: estatik/front_templates/includes/es_my_listing.php:293
+msgid "No record found."
+msgstr "Nincs találat."
+
+#: estatik/admin_template/es_property/es_property_temps/es_property_cities.php:23
+msgid "No City"
+msgstr "Nincs város"
+
+#: estatik/admin_template/es_settings.php:58
+msgid "Please fill up your Settings detail and click save to finish"
+msgstr ""
+"Töltse ki a Beállítások részleteit, és a befejezéshez kattintson a Mentés "
+"gombra."
+
+#: estatik/admin_template/es_settings.php:64
+msgid "Settings has been updated."
+msgstr "A beállítások frissítve lettek."
+
+#: estatik/admin_template/es_settings.php:72
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+#: estatik/admin_template/es_settings.php:73 
+#: estatik/admin_template/es_widgets.php:104
+msgid "Layout"
+msgstr "Elrendezés"
+
+#: estatik/admin_template/es_settings.php:74
+msgid "Images"
+msgstr "képek"
+
+#: estatik/admin_template/es_settings.php:76
+msgid "Sharing"
+msgstr "Megosztása"
+
+#: estatik/admin_template/es_settings.php:98
+msgid "Number of listings per page"
+msgstr "Oldalankénti listák száma"
+
+#: estatik/admin_template/es_settings.php:107
+msgid "Title/Address"
+msgstr "Cím / Address"
+
+#: estatik/admin_template/es_settings.php:117
+msgid "Date format"
+msgstr "Dátum formátum"
+
+#: estatik/admin_template/es_settings.php:129
+msgid "Listings layout"
+msgstr "A hirdetések elrendezése"
+
+#: estatik/admin_template/es_settings.php:135 
+#: estatik/admin_template/es_settings.php:182
+msgid "Single property"
+msgstr "Egyetlen ingatlan"
+
+#: estatik/admin_template/es_settings.php:142
+msgid "Disabled Layouts are available in"
+msgstr "A letiltott elrendezések elérhetők"
+
+#: estatik/admin_template/es_settings.php:142 
+#: estatik/admin_template/es_settings.php:203
+msgid "version"
+msgstr "változat"
+
+#: estatik/admin_template/es_settings.php:159
+msgid "Listings view"
+msgstr "Lista nézet"
+
+#: estatik/admin_template/es_settings.php:160
+msgid "Table"
+msgstr "Asztal"
+
+#: estatik/admin_template/es_settings.php:161
+msgid "2 colums"
+msgstr "2 oszlop"
+
+#: estatik/admin_template/es_settings.php:162
+msgid "list"
+msgstr "Lista"
+
+#: estatik/admin_template/es_settings.php:203
+msgid "Disabled fields are available in"
+msgstr "A letiltott mezők elérhetők"
+
+#: estatik/admin_template/es_settings.php:209
+msgid "Default currency"
+msgstr "Alapértelmezett pénznem"
+
+#: estatik/admin_template/es_settings.php:211
+msgid "Dollar, Euro, etc"
+msgstr "Dollár, euro, stb"
+
+#: estatik/admin_template/es_settings.php:224
+msgid "Price format"
+msgstr "Árformátum"
+
+#: estatik/admin_template/es_settings.php:232
+msgid "Currency sign place"
+msgstr "Pénznem megjelölés helye"
+
+#: estatik/admin_template/es_settings.php:233
+msgid "Before price"
+msgstr "Ár előtt"
+
+#: estatik/admin_template/es_settings.php:234
+msgid "After price"
+msgstr "Ár után"
+
+#: estatik/admin_template/es_settings.php:243 
+#: estatik/admin_template/es_settings.php:249 
+#: estatik/admin_template/es_settings.php:255 
+#: estatik/admin_template/es_settings.php:261 
+#: estatik/admin_template/es_settings.php:267
+msgid "NO"
+msgstr "NEM"
+
+#: estatik/admin_template/es_widgets.php:6
+msgid "Estatik Search"
+msgstr "Estatik Keresés"
+
+#: estatik/admin_template/es_widgets.php:46
+msgid "Search Title:"
+msgstr "Keresés Cím:"
+
+#: estatik/admin_template/es_widgets.php:50
+msgid "Address:"
+msgstr "Cím"
+
+#: estatik/admin_template/es_widgets.php:56
+msgid "Price:"
+msgstr "Ár:"
+
+#: estatik/admin_template/es_widgets.php:62
+msgid "Bedrooms:"
+msgstr "Hálószoba:"
+
+#: estatik/admin_template/es_widgets.php:68
+msgid "Bathrooms:"
+msgstr "Fürdőszoba:"
+
+#: estatik/admin_template/es_widgets.php:74
+msgid "Category:"
+msgstr "Kategória:"
+
+#: estatik/admin_template/es_widgets.php:80
+msgid "Type:"
+msgstr "Típus:"
+
+#: estatik/admin_template/es_widgets.php:86
+msgid "Sqft:"
+msgstr "Terület"
+
+#: estatik/admin_template/es_widgets.php:92
+msgid "Lot size:"
+msgstr "Telekméret:"
+
+#: estatik/admin_template/es_widgets.php:98
+msgid "Keywords:"
+msgstr "Kulcsszavak"
+
+#: estatik/front_templates/includes/es_cheapest_props.php:72 
+#: estatik/front_templates/includes/es_featured_props.php:73 
+#: estatik/front_templates/includes/es_latest_props.php:77 
+#: estatik/front_templates/includes/es_my_listing.php:207
+msgid "hot"
+msgstr "Forró"
+
+#: estatik/front_templates/includes/es_cheapest_props.php:169 
+#: estatik/front_templates/includes/es_featured_props.php:169 
+#: estatik/front_templates/includes/es_latest_props.php:171 
+#: estatik/front_templates/includes/es_my_listing.php:311
+msgid "Map"
+msgstr "Térkép"
+
+#: estatik/front_templates/includes/es_prop_single.php:157
+msgid "Rent Period"
+msgstr "Bérleti időszak"
+
+#: estatik/front_templates/includes/es_prop_single.php:279
+msgid "Amenities"
+msgstr "Felszerelés"
+
+#: estatik/front_templates/widgets/es_search.php:122
+msgid "Address, City, ZIP"
+msgstr "Cím, város, ZIP"
+
+#: estatik/front_templates/includes/es_prop_single.php:296
+msgid "To top"
+msgstr "Oldal tetéjre"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:455
+msgid "Hot"
+msgstr "Legfrissebb"
+
+#: estatik/admin_template/es_manager/es_data_manager.php:73 
+#: estatik/admin_template/es_property/es_add_new_property.php:389 
+#: estatik/admin_template/es_property/es_add_new_property.php:391 
+#: estatik/admin_template/es_property/es_my_listings.php:266 
+#: estatik/admin_template/es_property/es_my_listings.php:355 
+#: estatik/front_templates/includes/es_prop_single.php:166 
+#: estatik/front_templates/widgets/es_search.php:194 
+#: estatik/front_templates/widgets/es_search.php:196
+msgid "Type"
+msgstr "Típus"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:506 
+#: estatik/admin_template/es_settings.php:102 
+#: estatik/front_templates/widgets/es_search.php:133
+msgid "Price"
+msgstr "Ár"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:561 
+#: estatik/front_templates/includes/es_prop_single.php:233
+msgid "Description"
+msgstr "Leírás"
+
+#: estatik/admin_template/es_property/es_add_new_property.php:636
+msgid "City"
+msgstr "Város"
+
+#: estatik/admin_template/es_property/es_my_listings.php:283 
+#: estatik/admin_template/es_property/es_my_listings.php:346 
+#: estatik/front_templates/includes/es_prop_single.php:135
+msgid "Date added"
+msgstr "Hozzádva"
+
+#: estatik/front_templates/includes/es_cheapest_props.php:146 
+#: estatik/front_templates/includes/es_featured_props.php:146 
+#: estatik/front_templates/includes/es_latest_props.php:150 
+#: estatik/front_templates/includes/es_my_listing.php:281 
+#: estatik/front_templates/includes/es_prop_single.php:68 
+#: estatik/front_templates/includes/es_prop_single.php:244
+msgid "View on map"
+msgstr "Mutasd térképen"
+
+#: estatik/front_templates/includes/es_cheapest_props.php:147 
+#: estatik/front_templates/includes/es_featured_props.php:147 
+#: estatik/front_templates/includes/es_latest_props.php:151 
+#: estatik/front_templates/includes/es_my_listing.php:282
+msgid "Details"
+msgstr "Részletek"
+
+#: estatik/front_templates/includes/es_prop_single.php:66
+msgid "Basic facts"
+msgstr "Alap adatok"
+
+#: estatik/front_templates/includes/es_prop_single.php:142
+msgid "Area size"
+msgstr "Terület mérete"
+
+#: estatik/front_templates/includes/es_view_first.php:8 
+#: estatik/front_templates/widgets/es_search.php:125
+msgid "Search"
+msgstr "Keresés"
+
+#: estatik/front_templates/widgets/es_search.php:124
+msgid "Reset"
+msgstr "Törlés"
+
+msgid "View on map / Neighborhood"
+msgstr "Nézd meg a térképen / a környéken"
+
+msgid "Types"
+msgstr "Típusai"
+
+msgid "Categories"
+msgstr "Kategóriák"
+
+msgid "Neighborhood"
+msgstr "Szomszédság"
+
+msgid "sq m"
+msgstr "nm"
+
+msgid "hectares"
+msgstr "ha"
+
+msgid "bed"
+msgid_plural "beds"
+msgstr[0] "hálószoba"
+msgstr[1] "hálószoba"
+
+msgid "bath"
+msgid_plural "baths"
+msgstr[0] "fürdőszoba"
+msgstr[1] "fürdőszoba"
+
+msgid "Subscriptions"
+msgstr "Előfizetői"
+
+msgid "Add Subscription"
+msgstr "Feliratkozás hozzáadása"
+
+msgid "Add New Subscription"
+msgstr "Új előfizetés hozzáadása"
+
+msgid ""
+"Please create or edit your subscription plan here. Do not forget to click on "
+"save button."
+msgstr ""
+"Kérjük, készítsen vagy szerkesztse meg előfizetési tervét itt. Ne felejts el "
+"rákattintani Mentés gomb"
+
+msgid "Featured properties"
+msgstr "Kiemelt tulajdonságok"
+
+msgid "Subscription period"
+msgstr "Előfizetési időszak"
+
+msgid "Renewal Price"
+msgstr "Megújítási ár"
+
+msgid "Orders"
+msgstr "Rendelés"
+
+msgid "Order status"
+msgstr "Rendelés állapota"
+
+msgid "Subscription"
+msgstr "Előfizetés"
+
+msgid "Price, $"
+msgstr "Ár, EUR"
+
+msgid "Subscription settings"
+msgstr "Előfizetési beállítások"
+
+msgid "Listing publishing"
+msgstr "Listázási kiadványok"
+
+msgid "Automatic"
+msgstr "Automatikus"
+
+msgid "Manual"
+msgstr "Kézikönyv"
+
+msgid "Enable Subscriptions"
+msgstr "Feliratkozások engedélyezése"
+
+msgid "Registration page"
+msgstr "Regisztrációs oldal"
+
+msgid "Manage properties page"
+msgstr "Tulajdonságok kezelése oldal"
+
+msgid "Subscriptions table page"
+msgstr "Előfizetések táblázata"
+
+msgid "Subscription expired email settings"
+msgstr "Előfizetés lejárt e-mail beállítások"
+
+msgid "Subscription expired subject"
+msgstr "Előfizetés lejárt tárgya "
+
+msgid "Subscription expired message"
+msgstr "Előfizetés lejárt"
+
+msgid "Subscription Paypal settings"
+msgstr "Paypal beállítások"
+
+msgid ""
+"Hello, Your subscription plan period ends today. Please renew your "
+"subscription and click here >> to proceed. Otherwise your listings will be "
+"unpublished. Thank you."
+msgstr ""
+"Üdvözöljük, az előfizetési terved időszaka ma befejeződik. Kérjük, újítsa "
+"meg Előfizetés és kattintson ide >> a folytatáshoz. Ellenkező esetben a "
+"hirdetések közzé nem kerülnek.Köszönöm. "
+
+msgid "Paypal Type"
+msgstr "PayPal típus"
+
+msgid "Paypal email"
+msgstr "Email PayPal"
+
+msgid "Paypal API Mode"
+msgstr "PayPal API Mód"
+
+msgid "Number of properties"
+msgstr "Listák száma"
+
+msgid "Update Subscription"
+msgstr "Előfizetés frissítése"
+
+msgid ""
+"Here you can create plans that will meet your website requirements and be "
+"most profitable for you."
+msgstr ""
+"Itt létrehozhat olyan terveket, amelyek megfelelnek az Ön webhelyének "
+"követelményeinek Leginkább nyereséges az Ön számára."
+
+msgid "Week"
+msgstr "Hét"
+
+msgid "Month"
+msgstr "Hónap"
+
+msgid "Year"
+msgstr "Év"
+
+msgid "Map View"
+msgstr "Térképnézet"
+
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+msgid ""
+"Please create pages with shortcodes below to display map on your website"
+msgstr ""
+"Kérjük, hozzon létre oldalakat az alábbi rövid kódokkal, hogy megjelenítse a "
+"térképet a webhelyén "
+
+msgid "All properties"
+msgstr "Minden lista"
+
+msgid "Properties for rent"
+msgstr "Kiadó hirdetések"
+
+msgid "Properties for sale"
+msgstr "Eladó ingatlanok"
+
+msgid "Specific properties"
+msgstr "Különleges tulajdonságok"
+
+msgid "Icons color"
+msgstr "Ikonok színe"
+
+msgid "Icons type"
+msgstr "Ikonok típusa"
+
+msgid "Extra settings"
+msgstr "Extra beállítások"
+
+msgid "Number of listings to show"
+msgstr "Megjelenítendő listák száma"
+
+msgid "Map zoom level (default value is 12)"
+msgstr "Térkép nagyítási szintje (az alapértelmezett érték 12)"
+
+msgid "Choose theme color style"
+msgstr "Válasszon témaszínstípust"
+
+msgid "View first menu"
+msgstr "Sortieren nach Menü"
+
+msgid "Light"
+msgstr "Fény"
+
+msgid "Dark"
+msgstr "Sötét"
+
+msgid "PDF flyer"
+msgstr "PDF szórólap"
+
+msgid "Select subscription"
+msgstr "Válasszon előfizetést"
+
+msgid "text/number"
+msgstr "szöveg / szám"
+
+msgid "Openhouse"
+msgstr "Openhouse"
+
+msgid "Agents"
+msgstr "Minőségben"
+
+msgid "Add New Agent"
+msgstr "Új ügynök hozzáadása"
+
+msgid "Please fill up your agent information below and click save to finish."
+msgstr ""
+"Kérjük töltse fel az ügyintéző adatait, és kattintson a Mentés gombra a "
+"befejezéshez."
+
+msgid "User name"
+msgstr "Felhasználónév"
+
+msgid "Company"
+msgstr "Vállalat"
+
+msgid "Sold properties"
+msgstr "Eladott tulajdonságok"
+
+msgid "Rating"
+msgstr "Értékelés"
+
+msgid "About"
+msgstr "Miatt"
+
+msgid "Installation & setup"
+msgstr "Telepítés és beállítás"
+
+msgid "Lowest price"
+msgstr ""
+"Legalacsonyabb ár\n"
+
+msgid "Total"
+msgstr "Teljes"
+
+msgid "Import properties"
+msgstr "Tulajdonságok importálása"
+
+msgid "Download Sample File"
+msgstr "Töltse le a mintafájlt"
+
+msgid "Migration"
+msgstr "Migración"
+
+msgid "Become Pro"
+msgstr "Légy PRO"
+
+msgid "More details"
+msgstr "További részletek"
+
+msgid ""
+"Here you can add video and upload images. Please enter video code in iframe "
+"format, e.g. -"
+msgstr ""
+"Itt felveheti a képeket és feltölthet képeket. Kérjük, írja be video kódját "
+"iframe formátumba, pl. -"
+
+msgid "Add image(s)"
+msgstr "Kép hozzáadása"
+
+msgid "Please enter Google Map API key in General Settings of the plugin"
+msgstr ""
+"Adja meg a Google Térkép API-kulcsot a beépülő modul általános beállításaiban"
+
+msgid "Choose fields for import"
+msgstr "Válassza ki az importálandó mezőket"
+
+msgid "CSV delimiter"
+msgstr "CSV határoló"
+
+msgid "Bad"
+msgstr "Rossz"
+
+msgid "Poor"
+msgstr "Szegény"
+
+msgid "Regular"
+msgstr "Normál"
+
+msgid "Good"
+msgstr "Jó"
+
+msgid "Excellent"
+msgstr "Kiváló"
+
+msgid "Layouts"
+msgstr "Elrendezések"
+
+msgid "Admin Logo"
+msgstr "Adminisztrátori logó"
+
+msgid "Properties sold"
+msgstr "Eladott ingatlanok"
+
+msgid "Set map markers"
+msgstr "Állítsa be a térképjelölőket"
+
+msgid "Select taxonomy"
+msgstr "Válasszon taxonómiát"
+
+msgid "Select term"
+msgstr "Válasszon kifejezést"
+
+msgid "Related services"
+msgstr "Kapcsolódó szolgáltatások"
+
+msgid ""
+"Sit back and let us handle everything. Within 2 hours you`ll get a site "
+"exactly like our demo."
+msgstr ""
+"Üljön vissza, és kezeljünk mindent. 2 órán belül egy olyan webhelyet kapsz, "
+"amely pontosan olyan, mint a demó."
+
+msgid "We can develop any additional feature on your individual request."
+msgstr "Bármely további funkciót fejleszthetünk az Ön egyedi igényein."
+
+msgid "Customization"
+msgstr "Testreszabás"
+
+msgid ""
+"Need a site with unique stunning design and flexible trendy features? Click "
+"here."
+msgstr ""
+"Szüksége van egy olyan helyszínre, amely egyedülálló lenyűgöző dizájnt és "
+"rugalmas trendi funkciókat tartalmaz? Kattints ide."
+
+msgid "Custom real estate website"
+msgstr "Egyedi ingatlan honlap"
+
+msgid "Subscription data"
+msgstr "Előfizetési adatok"
+
+msgid "Property qty"
+msgstr "A hirdetések mennyisége"
+
+msgid "Featured qty"
+msgstr "Kiemelt mennyiség"
+
+msgid "Price renewal"
+msgstr "Az ár megújítása"
+
+msgid "%s bed"
+msgstr "%s hálószoba"
+
+msgid "%s bath"
+msgstr "%s fürdőszoba"
+
+msgid "Most recent"
+msgstr "Legfrissebb"
+
+msgid "Highest price"
+msgstr "Legmagasabb ár"
+
+msgid "Most popular"
+msgstr "Legnepszerubb"
+
+msgid "Add new"
+msgstr "Új hozzáadása"
+
+msgid "Year built"
+msgstr "Építés éve"
+
+msgid "Add new item"
+msgstr "Új elem hozzáadása"
+
+msgid "Item is successfully created."
+msgstr "A tétel sikeresen létrejön."
+
+msgid "General"
+msgstr "Általános"
+
+msgid "Show price"
+msgstr "Ár megjelenítése"
+
+msgid "Title / Address"
+msgstr ""
+
+msgid "Show Address"
+msgstr "Cím megjelenítése"
+
+msgid "Theme style"
+msgstr "Téma stílus"
+
+msgid "Single property layout"
+msgstr "Egyetlen listaelrendezés"
+
+msgid "%s beds"
+msgstr "%s hálószoba"
+
+msgid "%s baths"
+msgstr "%s fürdőszoba"

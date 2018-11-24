@@ -1,0 +1,81 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: October 25, 2018 5:52 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.52
+WORDPRESS:	4.9.8
+PHP INFO:	7.2.9 | SAPI: fpm-fcgi
+SERVER:		nginx/1.14.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (256M default) 
+MEMORY STACK: 4MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+FILTERED: [] 
+RESPONSE: mysqldump: [Warning] Using a password on the command line interface can be insecure.
+ 
+TABLES: total:32 | filtered:0 | create:32 
+SQL CREATED: 20181025_56cbc9e2e988d6606602_20181025175205_database.sql 
+SQL FILE SIZE: 1.59MB (1666152) 
+SQL FILE TIME: 2018-10-25 17:52:39 
+SQL RUNTIME: 0.19 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /app/public 
+ARCHIVE FILE: 20181025_56cbc9e2e988d6606602_20181025175205_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	103.91MB 
+STATS:	Dirs 648 | Files 5,132 
+SQL ADDED: 20181025_56cbc9e2e988d6606602_20181025175205_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5780
+    [filename] => /app/public/wp-snapshots/tmp/20181025_56cbc9e2e988d6606602_20181025175205_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 54.72MB 
+ARCHIVE RUNTIME: 38.61 sec. 
+MEMORY STACK: 6MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preparing for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/app/public/wp-snapshots/tmp/20181025_56cbc9e2e988d6606602_20181025175205_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.59MB 
+Installer File: 514.11KB 
+Archive File: 54.72MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 41.91 sec.
+PEAK PHP MEMORY USED: 8MB
+DONE PROCESSING => 20181025 October 25, 2018 5:53 pm
+ 

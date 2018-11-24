@@ -1,0 +1,775 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Estatik\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-09 18:14+0500\n"
+"PO-Revision-Date: 2017-07-13 13:07+0000\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en-GB\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: ru_RU\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: estatik\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: en_GB"
+
+msgid "Openhouse"
+msgstr ""
+
+msgid "Properties"
+msgstr "Annonces"
+
+msgid "Add New"
+msgstr "Ajouter"
+
+msgid "Add New Property"
+msgstr "Ajouter nouvelle annonce"
+
+msgid "Edit Property"
+msgstr "Editer"
+
+msgid "New Property"
+msgstr "Nouvelle annonce"
+
+msgid "All Properties"
+msgstr "Toutes les annonces"
+
+msgid "View Properties"
+msgstr "Voir les annonces"
+
+msgid "Search Properties"
+msgstr "Chercher un bien"
+
+msgid "No Properties found"
+msgstr "Aucune annonce trouvée"
+
+msgid "Update Type Category"
+msgstr "Mettre à jour le type de catégorie"
+
+msgid "Add New Type Category"
+msgstr "Ajouter un nouveau type de catégorie"
+
+msgid "New Type Category"
+msgstr "Nouveau type de catégorie"
+
+msgid "Type Categories"
+msgstr "Type de catégories"
+
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+msgid "My listings"
+msgstr "Mes annonces"
+
+msgid "Data Manager"
+msgstr "Gestion des données"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Get Support"
+msgstr "Aide"
+
+msgid "Step-by-step guide"
+msgstr "Guide pas-à-pas"
+
+msgid "Video Tutorial"
+msgstr "Tutoriel vidéo"
+
+msgid "Submit a Ticket"
+msgstr "Demander de l'aide"
+
+msgid "Choose Your Theme"
+msgstr "Choisissez votre thème"
+
+msgid "Are you sure you want to delete it?"
+msgstr "Voulez-vous vraiment supprimer ?"
+
+msgid "Ok"
+msgstr ""
+"Ok\n"
+
+msgid "Cancel"
+msgstr "Annulé"
+
+msgid "Please fill your field."
+msgstr "Merci de remplir ce champ"
+
+msgid "field has been added."
+msgstr "Ce champ a été ajouté"
+
+msgid "field has been deleted."
+msgstr "Ce champ a été ajouté"
+
+msgid "Properties details"
+msgstr "Détails des annonces"
+
+msgid "Location"
+msgstr "Localisation"
+
+msgid "Dimensions"
+msgstr "Superficie"
+
+msgid "Features"
+msgstr "Caractéristiques"
+
+msgid "Currency"
+msgstr "Devise"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Add new field"
+msgstr "Ajouter un nouveau champ"
+
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Rent period"
+msgstr "Période de location"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "States/Regions"
+msgstr "Etat/Région"
+
+msgid "Cities"
+msgstr "Ville"
+
+msgid "Area & lot size"
+msgstr "Surface du terrain"
+
+msgid "Appliances"
+msgstr "Appareils"
+
+msgid "No record found. Please add new one."
+msgstr "Aucun enregistrement trouvé. Ajoutez-en un nouveau."
+
+msgid "Upload Downloaded Estatik Pro"
+msgstr ""
+"Télécharger\n"
+" \n"
+"téléchargé\n"
+" \n"
+"Estatik\n"
+" \n"
+"Pro"
+
+msgid ""
+"Full advanced version with extra portal management option, social sharing, "
+"additional widgets support, etc."
+msgstr ""
+"La pleine\n"
+" \n"
+"version avancée\n"
+" \n"
+"avec l'option\n"
+" \n"
+"supplémentaire\n"
+" \n"
+"de gestion de\n"
+" \n"
+"portail\n"
+", de partage\n"
+" \n"
+"social, le soutien\n"
+" \n"
+"des\n"
+" \n"
+"widgets\n"
+" \n"
+"supplémentaires\n"
+", etc."
+
+msgid "Please upload your"
+msgstr ""
+"S'il vous plaît\n"
+" \n"
+"télécharger votre "
+
+msgid ""
+"version in zip format and click upload to finish for update to pro Version."
+msgstr ""
+"version\n"
+" \n"
+"au format zip\n"
+" \n"
+"et\n"
+" \n"
+"cliquez sur Télécharger pour\n"
+" \n"
+"terminer\n"
+" \n"
+"la mise à jour\n"
+" \n"
+"à\n"
+" \n"
+"la version pro"
+
+msgid "Upload"
+msgstr "Télécharger"
+
+msgid "Upload Zip"
+msgstr "Télécharger zip"
+
+msgid "Please enter numbers only."
+msgstr "Indiquez des chiffres uniquement"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Please Edit your property detail and click save to finish."
+msgstr ""
+"Editez votre annonce en détail et cliquez sur Enregistrer pour terminer"
+
+msgid "Save & Close"
+msgstr "Enregistrer et Fermer"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Please fill up your property detail and click save to finish."
+msgstr ""
+"Remplissez le détail de votre annonce et cliquez sur Enregistrer pour "
+"terminer"
+
+msgid "Property has been updated."
+msgstr "L'annonce a été mise à jour"
+
+msgid "Basic information"
+msgstr "Informations de base"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Media"
+msgstr "Média"
+
+msgid "Property ID"
+msgstr "Ref annonce"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Featured"
+msgstr "Sélectionnée"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Hot"
+msgstr "Dernière minute"
+
+msgid "Open house"
+msgstr "Portes ouvertes"
+
+msgid "Foreclosure"
+msgstr "Saisie immobilière"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Period"
+msgstr "Période"
+
+msgid "Bedrooms"
+msgstr "Chambres"
+
+msgid "Bathrooms"
+msgstr "Salles de bain"
+
+msgid "Floors"
+msgstr "Etages"
+
+msgid "Area"
+msgstr "Superficie"
+
+msgid "Lot size"
+msgstr "Surface du terrain"
+
+msgid "Built in"
+msgstr "Date de construction"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Choose Country"
+msgstr "Choisir un pays"
+
+msgid "State/Region"
+msgstr "Etat / Région"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "ZIP/Postcode"
+msgstr "Code postal"
+
+msgid "Street"
+msgstr "Rue"
+
+msgid "Longitude"
+msgstr "Longitude"
+
+msgid "Latitude"
+msgstr "Latitude"
+
+msgid "Select files or upload images in a zip-file."
+msgstr ""
+"Sélectionnez des fichiers ou téléchargez vos images dans un fichier Zip"
+
+msgid ""
+"The first image will be default image. You can drag and drop images to "
+"change their order."
+msgstr ""
+"La première image sera l'image par défaut. Vous pouvez glisser et déposer "
+"des images pour modifier leur ordre."
+
+msgid "Please select properties you want to copy."
+msgstr "Sélectionnez les annonces que vous souhaitez copier"
+
+msgid "Please select properties you want to delete."
+msgstr "Sélectionnez les annonces que vous souhaiez supprimer"
+
+msgid "Please select properties you want to publish."
+msgstr "Sélectionnez les annonces que vous  souhaitez publier"
+
+msgid "Please select properties you want to unpublish."
+msgstr "Sélectionnez les annonces que vous souhaitez retirer de la publication"
+
+msgid "Are you sure you want to Copy it?"
+msgstr "Etes-vous sûr de vouloir copier ceci?"
+
+msgid "Are you sure you want to publish it?"
+msgstr "Etes-vous sûr de vouloir publier?"
+
+msgid "Are you sure you want to unpublish it?"
+msgstr "Etes-vous sûr de vouloir le retirer du site?"
+
+msgid "My Listings"
+msgstr "Mes annonces"
+
+msgid "Filter by"
+msgstr "Filtrer par"
+
+msgid "Date added"
+msgstr "Date d'ajout"
+
+msgid "Manage"
+msgstr "Gérer"
+
+msgid "Select all"
+msgstr "Tout sélectionner"
+
+msgid "Undo selection"
+msgstr "Déselectionner"
+
+msgid "Copy"
+msgstr "Copier"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Publish"
+msgstr "Publier"
+
+msgid "Unpublish"
+msgstr "Retirer du site"
+
+msgid "Property has been deleted."
+msgstr "L'annonce a été supprimée"
+
+msgid "Selected properties have been copied."
+msgstr "Les annonces sélectionnées ont été copiées."
+
+msgid "Selected properties have been deleted."
+msgstr "Les annonces sélectionnées ont été supprimées."
+
+msgid "Selected properties have been published."
+msgstr "Les annonces sélectionnées ont été publiées."
+
+msgid "Selected properties have been unpublished."
+msgstr "Les annnoces sélectionnées ont été retirées."
+
+msgid "Your search results."
+msgstr "Vos résultats de recherche"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "No Image"
+msgstr "Pas d'image"
+
+msgid "Edit"
+msgstr "Editer"
+
+msgid "No record found."
+msgstr "Aucun enregistrement trouvé."
+
+msgid "No City"
+msgstr "Pas de ville"
+
+msgid "No record found. please add new one."
+msgstr "Pas d'enregistrement trouvé. Veuillez en ajouter un."
+
+msgid "No State"
+msgstr "Pas d'Etat"
+
+msgid "Please fill up your Settings detail and click save to finish."
+msgstr "Remplissez vos Paramètres et cliquez pour sauvegarder"
+
+msgid "Settings has been updated."
+msgstr "Paramètres mis à jour"
+
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+msgid "Layout"
+msgstr "Disposition / Mise en page"
+
+msgid "Images"
+msgstr "Images"
+
+msgid "Sharing"
+msgstr "Partage"
+
+msgid "Powered by link"
+msgstr "Sponsorisé par"
+
+msgid "Number of listings per page"
+msgstr "Nombre d'annonces par page"
+
+msgid "Title/Address"
+msgstr "Titre/Adresse"
+
+msgid "Date format"
+msgstr "Format de la date"
+
+msgid "Date Format"
+msgstr "Format de la date"
+
+msgid "Listings layout"
+msgstr "Mise en page des annonces"
+
+msgid "Single property"
+msgstr "Annonce seule"
+
+msgid "Disabled Layouts are available in"
+msgstr ""
+"Mises\n"
+" \n"
+"à mobilité réduite sont\n"
+" \n"
+"disponibles dans"
+
+msgid "version"
+msgstr "version"
+
+msgid "Resize method"
+msgstr "Méthode de recadrage"
+
+msgid "Crop & shrink"
+msgstr "Rogner et rétrécir"
+
+msgid "Crop"
+msgstr "Rogner"
+
+msgid "Listings view"
+msgstr "Vue des annonces"
+
+msgid "Table"
+msgstr "Tableau"
+
+msgid "2 colums"
+msgstr "2 colonnes"
+
+msgid "list"
+msgstr "liste"
+
+msgid "Height"
+msgstr "Hauteur"
+
+msgid "Widht"
+msgstr "Largeur"
+
+msgid "Photo on<br />the left/right"
+msgstr "Photo sur<br />la gauche/la droite"
+
+msgid "Photo <br />in center"
+msgstr "Photo <br />au centre"
+
+msgid "Photo <br /> Thumb"
+msgstr "Photo <br /> miniature"
+
+msgid "Disabled fields are available in"
+msgstr ""
+"Champs\n"
+" \n"
+"mobilité\n"
+" \n"
+"sont disponibles dans"
+
+msgid "Default currency"
+msgstr "Devise par défaut"
+
+msgid "Dollar, Euro, etc"
+msgstr "Dollar, Euro, etc."
+
+msgid "Price format"
+msgstr "Format du prix"
+
+msgid "Currency sign place"
+msgstr "Symbole de la monnaie"
+
+msgid "Before price"
+msgstr "Devise avant le prix"
+
+msgid "After price"
+msgstr "Devise après le prix"
+
+msgid "NO"
+msgstr "NO"
+
+msgid "PDF Player"
+msgstr "PDF"
+
+msgid "Sharing Feature is available in"
+msgstr ""
+"Partage\n"
+" \n"
+"fonctionnalité est disponible dans"
+
+msgid "version only"
+msgstr "seule version"
+
+msgid "Estatik Search"
+msgstr "Recherche Estatik"
+
+msgid "Search Title:"
+msgstr "Recherche"
+
+msgid "Address:"
+msgstr "Adresse"
+
+msgid "Price:"
+msgstr "Prix"
+
+msgid "Bedrooms:"
+msgstr "Chambres"
+
+msgid "Bathrooms:"
+msgstr "Salles de bain"
+
+msgid "Category:"
+msgstr "Catégorie"
+
+msgid "Type:"
+msgstr "Type "
+
+msgid "Sqft:"
+msgstr "m²:"
+
+msgid "Lot size:"
+msgstr "Surface du terrain"
+
+msgid "Keywords:"
+msgstr "Mots-clés"
+
+msgid "Show On Pages"
+msgstr "Montrer sur les pages"
+
+msgid "Select Pages"
+msgstr "Sélectionner les pages"
+
+msgid "Archive Page"
+msgstr "Page d'archive"
+
+msgid "Single Page"
+msgstr "Page unique"
+
+msgid "Category Page"
+msgstr "Catégorie de la page"
+
+msgid "Search Page"
+msgstr "Chercher une page"
+
+msgid "Author Page"
+msgstr "Auteur"
+
+msgid "Estatik Pro"
+msgstr "Estatik Pro"
+
+msgid "hot"
+msgstr "Dernière minute"
+
+msgid "openhouse"
+msgstr "Portes ouvertes"
+
+msgid "foreclosure"
+msgstr "Saisie immobilière"
+
+msgid "View on map"
+msgstr "Montrer sur la carte"
+
+msgid "Details"
+msgstr "Détails"
+
+msgid "Map"
+msgstr "Carte"
+
+msgid "Powered by"
+msgstr "Sponsorisé par"
+
+msgid "Basic facts"
+msgstr "Caractéristiques"
+
+msgid "Area size"
+msgstr "Superficie"
+
+msgid "Rent Period"
+msgstr "Période de location"
+
+msgid "Amenities"
+msgstr "Equipements"
+
+msgid "To top"
+msgstr "Haut de page"
+
+msgid "Search"
+msgstr "Recherche"
+
+msgid "Properties by Agent"
+msgstr "Annonces par Agence"
+
+#: estatik/front_templates/includes/es_view_first.php:29
+msgid "View first"
+msgstr "Filtrer par"
+
+#: estatik/front_templates/includes/es_view_first.php:50
+msgid "Menu is empty."
+msgstr "Le menu est vide."
+
+#: estatik/front_templates/widgets/es_search.php:122
+msgid "Address, City, ZIP"
+msgstr "Adresse, Ville, Code Postal"
+
+msgid "Reset"
+msgstr "Réinitialiser"
+
+msgid "min"
+msgstr "min"
+
+msgid "max"
+msgstr "max"
+
+#: estatik/front_templates/widgets/es_search.php:158
+msgid "Sq ft"
+msgstr "Sq ft"
+
+#: estatik/front_templates/widgets/es_search.php:213
+msgid "Key words"
+msgstr "Mots-clés"
+
+msgid "Most recent"
+msgstr "Le plus récent"
+
+msgid "Highest price"
+msgstr "Le prix le plus élevé"
+
+msgid "Most popular"
+msgstr "Le plus populaire"
+
+msgid "%s bed"
+msgstr "%s chambre"
+
+msgid "%s bath"
+msgstr "%s salle de bain"
+
+msgid "Neighborhood"
+msgstr "Quartier"
+
+msgid "View on map / Neighborhood"
+msgstr "Voir sur la carte / Quartier"
+
+msgid "More details"
+msgstr "Détails"
+
+msgid "Show price"
+msgstr "Afficher le prix"
+
+msgid "Title / Address"
+msgstr "Titre / adresse"
+
+msgid "Show Address"
+msgstr "Afficher l'adresse"
+
+msgid "Show/hide Contact Agent tab"
+msgstr "Afficher / masquer l'onglet Agent de contact"
+
+msgid "Theme style"
+msgstr "Style de thème"
+
+msgid "Admin Logo image"
+msgstr "Admin Logo"
+
+msgid "Admin Logo Width"
+msgstr "Largeur du logo administrateur"
+
+msgid "Admin Logo Height"
+msgstr "Admin Logo Hauteur"
+
+msgid "Single property layout"
+msgstr "Disposition de propriété unique"
+
+msgid "Start import"
+msgstr "Commencer à importer"
+
+msgid "Year built"
+msgstr "Année de construction"
+
+msgid "Property title"
+msgstr "Titre de la propriété"
+
+msgid "Select / deselect all"
+msgstr "Sélectionnez / désélectionnez tous"
+
+msgid "Call for price"
+msgstr "Appelez pour les Prix"
+
+msgid "Here you can add video and upload images."
+msgstr "Ici, vous pouvez ajouter de la vidéo et télécharger des images."
+
+msgid "Please enter video code in iframe format, e.g. -"
+msgstr "Entrez le code vidéo au format iframe, p.ex."
+
+msgid "Embed the code"
+msgstr "Intégrez le code"
+
+msgid "Categories"
+msgstr "Catégories"
+
+msgid "Types"
+msgstr "Types"
+
+msgid "Lowest price"
+msgstr "Prix le plus bas"
+
+msgid "%s beds"
+msgstr "%s chambres"
+
+msgid "%s baths"
+msgstr "% salles de bains"

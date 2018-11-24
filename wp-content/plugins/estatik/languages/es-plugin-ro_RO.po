@@ -1,0 +1,1210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Estatik\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-09 18:14+0500\n"
+"PO-Revision-Date: 2017-08-17 08:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (UK)\n"
+"Language: en-GB\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: ru_RU\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: estatik\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: en_GB"
+
+msgid "Ok"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Hot"
+msgstr ""
+
+msgid "Powered by link"
+msgstr ""
+
+msgid "Dollar, Euro, etc"
+msgstr ""
+
+msgid "Estatik Pro"
+msgstr ""
+
+msgid "hot"
+msgstr ""
+
+msgid "Sq ft"
+msgstr ""
+
+msgid "Parent Status Category:"
+msgstr ""
+
+msgid "Edit Status Category"
+msgstr ""
+
+msgid "Update Status Category"
+msgstr ""
+
+msgid "Add New Status Category"
+msgstr ""
+
+msgid "New Status Category"
+msgstr ""
+
+msgid "Status Categories"
+msgstr ""
+
+msgid "Search Types Categories"
+msgstr ""
+
+msgid "All Types Categories"
+msgstr ""
+
+msgid "Parent Type Category"
+msgstr ""
+
+msgid "Parent Type Category:"
+msgstr ""
+
+msgid "Edit Type Category"
+msgstr ""
+
+msgid "Update Type Category"
+msgstr ""
+
+msgid "Add New Type Category"
+msgstr ""
+
+msgid "New Type Category"
+msgstr ""
+
+msgid "Type Categories"
+msgstr ""
+
+msgid "NO"
+msgstr "NU"
+
+msgid "Installation & setup"
+msgstr "Instalare și configurare"
+
+msgid "Lowest price"
+msgstr "Cel mai mic pret"
+
+msgid "Open house"
+msgstr "Casa deschisa"
+
+msgid "Foreclosure"
+msgstr "împiedicare"
+
+msgid "openhouse"
+msgstr "casa deschisa"
+
+msgid "foreclosure"
+msgstr "împiedicare"
+
+msgid "Properties"
+msgstr "Proprietăți"
+
+msgid "Add new"
+msgstr "Adăuga nou"
+
+msgid "Add new property"
+msgstr "Adăugați o proprietate nouă"
+
+msgid "Edit Property"
+msgstr "Editați proprietatea"
+
+msgid "New Property"
+msgstr "Noua proprietate"
+
+msgid "All Properties"
+msgstr "Toate proprietățile"
+
+msgid "View Properties"
+msgstr "Vizualizați proprietățile"
+
+msgid "Search Properties"
+msgstr "Proprietăți căutare"
+
+msgid "No Properties found"
+msgstr "Nu au fost găsite proprietăți"
+
+msgid "No Properties found in the Trash"
+msgstr "Nu sunt găsite proprietăți în coșul de gunoi"
+
+msgid "Property Categories"
+msgstr "Property Categories"
+
+msgid "Property Category"
+msgstr "Property Category"
+
+msgid "Search Property Categories"
+msgstr "Search Property Categories"
+
+msgid "All Property Categories"
+msgstr "All Property Categories"
+
+msgid "Parent Property Category"
+msgstr "Parent Property Category"
+
+msgid "Parent Property Category:"
+msgstr "Parent Property Category"
+
+msgid "Edit Property Category"
+msgstr "Edit Property Category"
+
+msgid "Update Property Category"
+msgstr "Update Property Category"
+
+msgid "Add New Property Category"
+msgstr "Add New Property Category"
+
+msgid "New Property Category"
+msgstr "New Property Category"
+
+msgid "Property Status"
+msgstr "Stare proprietate"
+
+msgid "Search Status Categories"
+msgstr "Search Status Categories"
+
+msgid "All Status Categories"
+msgstr "All Status Categories"
+
+msgid "Parent Status Category"
+msgstr "Parent Status Category"
+
+msgid "Property Types"
+msgstr "Tipuri de proprietate"
+
+msgid "Dashboard"
+msgstr "Bord"
+
+msgid "My listings"
+msgstr "Lista mea"
+
+msgid "Data manager"
+msgstr "Manager de date"
+
+msgid "Data Manager"
+msgstr "Manager de date"
+
+msgid "Settings"
+msgstr "Setări"
+
+msgid "Get support"
+msgstr "Obțineți sprijin"
+
+msgid "Step-by-step guide"
+msgstr "Ghid pas cu pas"
+
+msgid "Video Tutorial"
+msgstr "Tutorial video"
+
+msgid "Submit a ticket"
+msgstr "Trimiteți un bilet"
+
+msgid "Choose Your Theme"
+msgstr "Alegeți tema dvs."
+
+msgid "Are you sure you want to delete it?"
+msgstr "Sigur doriți să îl ștergeți?"
+
+msgid "Cancel"
+msgstr "Anulare"
+
+msgid "Please fill your field."
+msgstr "Completați câmpul."
+
+msgid "field has been added."
+msgstr "Câmpul a fost adăugat"
+
+msgid "field has been deleted."
+msgstr "Câmpul a fost șters"
+
+msgid "Properties details"
+msgstr "Detalii despre proprietăți"
+
+msgid "Location"
+msgstr "Locație"
+
+msgid "Dimensions"
+msgstr "Dimensiuni"
+
+msgid "Features"
+msgstr "Caracteristici"
+
+msgid "Currency"
+msgstr "Valută"
+
+msgid "Status"
+msgstr "Stare"
+
+msgid "Add new field"
+msgstr "Adăugați un câmp nou"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "Rent period"
+msgstr "Termen de închiriere"
+
+msgid "Country"
+msgstr "Țară"
+
+msgid "States/Regions"
+msgstr "State / Regiuni"
+
+msgid "Cities"
+msgstr "Orase"
+
+msgid "Area & lot size"
+msgstr "Suprafața și dimensiunea lotului"
+
+msgid "Appliances"
+msgstr "Electrocasnice"
+
+msgid "No record found. Please add new one."
+msgstr "Nicio inregistrare gasita. Adăugați o nouă."
+
+msgid "Upload Downloaded Estatik Pro"
+msgstr "Încărcați Descărcați Estatik Pro"
+
+msgid ""
+"Full advanced version with extra portal management option, social sharing, "
+"additional widgets support, etc."
+msgstr ""
+"Versiune completă avansată cu opțiune suplimentară de gestionare a "
+"portalului, partajare socială, suport widget-uri suplimentare etc."
+
+msgid "Please upload your"
+msgstr "Încărcați-vă"
+
+msgid ""
+"version in zip format and click upload to finish for update to pro Version."
+msgstr ""
+"versiunea în format zip și faceți clic pe încărcare pentru a finaliza "
+"actualizarea versiunii pro."
+
+msgid "Upload"
+msgstr "Încărcați"
+
+msgid "Upload Zip"
+msgstr "Încărcați zip"
+
+msgid "Please enter numbers only."
+msgstr "Introduceți numai numere."
+
+msgid "Please Edit your property detail and click save to finish."
+msgstr ""
+"Vă rugăm să editați detaliile dvs. de proprietate și faceți clic pe Salvați "
+"pentru a termina."
+
+msgid "Save & Close"
+msgstr "Salvați și închideți"
+
+msgid "Save"
+msgstr "Salvați"
+
+msgid "Please fill up your property detail and click save to finish."
+msgstr ""
+"Completați detaliile dvs. de proprietate și faceți clic pe Salvați pentru a "
+"termina."
+
+msgid "Property has been updated."
+msgstr "Proprietatea a fost actualizată."
+
+msgid "Basic information"
+msgstr "Informatii de baza"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Property ID"
+msgstr "ID-ul imobilului"
+
+msgid "Title"
+msgstr "Titlu"
+
+msgid "Featured"
+msgstr "Recomandate"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "No"
+msgstr "Nu"
+
+msgid "Price"
+msgstr "Preț"
+
+msgid "Period"
+msgstr "Perioadă"
+
+msgid "Bedrooms"
+msgstr "Dormitoare"
+
+msgid "Bathrooms"
+msgstr "Bai"
+
+msgid "Floors"
+msgstr "Etaje"
+
+msgid "Area"
+msgstr "Zonă"
+
+msgid "Lot size"
+msgstr "Mărimea lotului"
+
+msgid "Description"
+msgstr "Descriere"
+
+msgid "Choose Country"
+msgstr "Alege țara"
+
+msgid "State/Region"
+msgstr "Stat / Regiune"
+
+msgid "City"
+msgstr "Oraș"
+
+msgid "ZIP/Postcode"
+msgstr "Cod postal"
+
+msgid "Street"
+msgstr "Stradă"
+
+msgid "Longitude"
+msgstr "Longitudine"
+
+msgid "Latitude"
+msgstr "Latitudine"
+
+msgid "Select files or upload images in a zip-file."
+msgstr "Selectați fișiere sau încărcați imagini într-un fișier zip."
+
+msgid "Please select properties you want to copy."
+msgstr "Selectați proprietățile pe care doriți să le copiați."
+
+msgid "Please select properties you want to delete."
+msgstr "Selectați proprietățile pe care doriți să le ștergeți."
+
+msgid "Please select properties you want to publish."
+msgstr "Selectați proprietățile pe care doriți să le publicați."
+
+msgid "Please select properties you want to unpublish."
+msgstr "Selectați proprietățile pe care doriți să le dezactivați."
+
+msgid "Are you sure you want to Copy it?"
+msgstr "Sigur doriți să îl copiați?"
+
+msgid "Are you sure you want to publish it?"
+msgstr "Sunteți sigur că doriți să o publicați?"
+
+msgid "Are you sure you want to unpublish it?"
+msgstr "Sunteți sigur că doriți să îl dezactivați?"
+
+msgid "My Listings"
+msgstr "Lista mea"
+
+msgid "Filter by"
+msgstr "Filtreaza dupa"
+
+msgid "Date added"
+msgstr "Data adaugata"
+
+msgid "Manage"
+msgstr "Administra"
+
+msgid "Select all"
+msgstr "Selectează tot"
+
+msgid "Undo selection"
+msgstr "Anularea selecției"
+
+msgid "Copy"
+msgstr "Copie"
+
+msgid "Delete"
+msgstr "Șterge"
+
+msgid "Publish"
+msgstr "Publica"
+
+msgid "Unpublish"
+msgstr "Anulați publicarea"
+
+msgid "Property has been deleted."
+msgstr "Proprietatea a fost ștearsă."
+
+msgid "Selected properties have been copied."
+msgstr "Proprietățile selectate au fost copiate."
+
+msgid "Selected properties have been deleted."
+msgstr "Proprietățile selectate au fost șterse."
+
+msgid "Selected properties have been published."
+msgstr "Proprietăți selectate au fost publicate."
+
+msgid "Selected properties have been unpublished."
+msgstr "Proprietățile selectate au fost nepublicate."
+
+msgid "Your search results."
+msgstr "Rezultatele căutării."
+
+msgid "Image"
+msgstr "Imagine"
+
+msgid "No Image"
+msgstr "Nicio imagine"
+
+msgid "Edit"
+msgstr "Edita"
+
+msgid "No record found."
+msgstr "Nicio inregistrare gasita."
+
+msgid "No City"
+msgstr "Nici o cetate"
+
+msgid "No record found. please add new one."
+msgstr "Nicio inregistrare gasita. Adăugați una nouă."
+
+msgid "No State"
+msgstr "Fără stat"
+
+msgid "Please fill up your Settings detail and click save to finish"
+msgstr ""
+"Completați detaliile despre Setări și faceți clic pe Salvați pentru a termina"
+
+msgid "Settings has been updated."
+msgstr "Setările au fost actualizate."
+
+msgid "General Settings"
+msgstr "Setari generale"
+
+msgid "Layout"
+msgstr "Amplasare"
+
+msgid "Images"
+msgstr "Imagini"
+
+msgid "Sharing"
+msgstr "Partajarea"
+
+msgid "Number of listings per page"
+msgstr "Numărul de înregistrări pe pagină"
+
+msgid "Title/Address"
+msgstr "Titlu / Adresă"
+
+msgid "Date format"
+msgstr "Formatul datei"
+
+msgid "Date Format"
+msgstr "Format dată"
+
+msgid "Listings layout"
+msgstr "Listarea anunțurilor"
+
+msgid "Single property"
+msgstr "Proprietate unică"
+
+msgid "Disabled Layouts are available in"
+msgstr "Diseños movilidad están disponibles en"
+
+msgid "version"
+msgstr "versión"
+
+msgid "Resize method"
+msgstr "Cambiar el tamaño"
+
+msgid "Crop & shrink"
+msgstr "Recortar y reducir"
+
+msgid "Crop"
+msgstr "Recortar"
+
+msgid "Listings view"
+msgstr "Afișați listele"
+
+msgid "Table"
+msgstr "Masa"
+
+msgid "2 colums"
+msgstr "2 coloane"
+
+msgid "list"
+msgstr "listă"
+
+msgid "Height"
+msgstr "Înălţime"
+
+msgid "Widht"
+msgstr "Lăţime"
+
+msgid "Photo on<br />the left/right"
+msgstr "Foto pe <br /> stânga / dreapta"
+
+msgid "Photo <br />in center"
+msgstr "Photo <br /> în centru"
+
+msgid "Photo <br /> Thumb"
+msgstr "Foto <br /> Thumb"
+
+msgid "Disabled fields are available in"
+msgstr "Zonele cu dezactivare sunt disponibile în"
+
+msgid "Default currency"
+msgstr "Valuta prestabilită"
+
+msgid "Price format"
+msgstr "Formatul prețului"
+
+msgid "Currency sign place"
+msgstr "Loc de semnătură valută"
+
+msgid "Before price"
+msgstr "Înainte de preț"
+
+msgid "After price"
+msgstr "După preț"
+
+msgid "PDF Player"
+msgstr "PDF folleto"
+
+msgid "Sharing Feature is available in"
+msgstr "Funcția de distribuire este disponibilă în"
+
+msgid "version only"
+msgstr "sólo versión"
+
+msgid "Estatik Search"
+msgstr "Estatik Căutare"
+
+msgid "Search Title:"
+msgstr "Căutare Titlu"
+
+msgid "Show On Pages"
+msgstr "Afișați pe pagini"
+
+msgid "Select Pages"
+msgstr "Selectați Pagini"
+
+msgid "Archive Page"
+msgstr "Pagina de arhivă"
+
+msgid "Single Page"
+msgstr "Pagina singura"
+
+msgid "Category Page"
+msgstr "Categoria paginii"
+
+msgid "Search Page"
+msgstr "Pagina de căutare"
+
+msgid "Author Page"
+msgstr "Autor autor"
+
+msgid "%s beds"
+msgstr "%s paturi"
+
+msgid "%s baths"
+msgstr "%s bai"
+
+msgid "View on map"
+msgstr "Vizualizați pe hartă"
+
+msgid "Details"
+msgstr "Detalii"
+
+msgid "Map"
+msgstr "Hartă"
+
+msgid "Powered by"
+msgstr "Funciona Con"
+
+msgid "Basic facts"
+msgstr "Fapte fundamentale"
+
+msgid "Area size"
+msgstr "Dimensiunea zonei"
+
+msgid "Rent Period"
+msgstr "Perioada de închiriere"
+
+msgid "Amenities"
+msgstr "Dotări"
+
+msgid "To top"
+msgstr "Sus"
+
+msgid "Search"
+msgstr ""
+"Căutare\n"
+
+msgid "Properties by Agent"
+msgstr "Proprietăți de agent"
+
+msgid "Address, City, ZIP"
+msgstr "Adresă, Oraș, ZIP"
+
+msgid "Reset"
+msgstr "Restabili"
+
+msgid "min"
+msgstr "min"
+
+msgid "max"
+msgstr "max"
+
+msgid "Subscriptions"
+msgstr "Subscriptions"
+
+msgid "Add subscription"
+msgstr "Adăugați abonament"
+
+msgid "Add New Subscription"
+msgstr "Adăugați un abonament nou"
+
+msgid ""
+"Please create or edit your subscription plan here. Do not forget to click on "
+"save button."
+msgstr ""
+"Vă rugăm să creați sau să modificați planul de abonament aici. Nu uitați să "
+"faceți clic pe butonul de salvare."
+
+msgid "Featured properties"
+msgstr "Proprietăți recomandate"
+
+msgid "Subscription period"
+msgstr "Perioada de abonare"
+
+msgid "Renewal Price"
+msgstr "Prețul de reînnoire"
+
+msgid "Orders"
+msgstr "Comenzi de"
+
+msgid "Order status"
+msgstr "Starea comenzii"
+
+msgid "Subscription"
+msgstr "Abonament"
+
+msgid "Price, $"
+msgstr "Preț"
+
+msgid "Subscription settings"
+msgstr "Setările abonamentului"
+
+msgid "Listing publishing"
+msgstr "Publicarea de anunțuri"
+
+msgid "Automatic"
+msgstr "Automat"
+
+msgid "Manual"
+msgstr "Manual"
+
+msgid "Enable Subscriptions"
+msgstr "Activați abonamentele"
+
+msgid "Registration page"
+msgstr "Pagina de înregistrare"
+
+msgid "Manage properties page"
+msgstr "Gestionați pagina cu proprietăți"
+
+msgid "Subscriptions table page"
+msgstr "Pagina tabelului Abonamente"
+
+msgid "Subscription expired email settings"
+msgstr "Abonamentele au expirat setările de e-mail"
+
+msgid "Subscription expired subject"
+msgstr "Abonament expirat subiect"
+
+msgid "Subscription expired message"
+msgstr "Abonament expirat mesaj"
+
+msgid "Subscription Paypal settings"
+msgstr "Abonament Paypal setări"
+
+msgid ""
+"Hello, Your subscription plan period ends today. Please renew your "
+"subscription and click here >> to proceed. Otherwise your listings will be "
+"unpublished. Thank you."
+msgstr ""
+"Bună ziua, Perioada planului de abonare se termină astăzi. Reînnoiți "
+"abonamentul și faceți clic aici >> pentru a continua. Altfel, înregistrările "
+"dvs. vor fi nepublicate. Mulțumesc."
+
+msgid "Paypal Type"
+msgstr "Paypal Tip"
+
+msgid "Paypal email"
+msgstr "Email PayPal"
+
+msgid "Paypal API Mode"
+msgstr "Paypal API Mode"
+
+msgid "Number of properties"
+msgstr "Număr de proprietăți"
+
+msgid "Update Subscription"
+msgstr "Actualizați abonamentul"
+
+msgid ""
+"Here you can create plans that will meet your website requirements and be "
+"most profitable for you."
+msgstr ""
+"Aici puteți crea planuri care să corespundă cerințelor site-ului dvs. și să "
+"fie cele mai profitabile pentru dvs."
+
+msgid "Week"
+msgstr "Săptămână"
+
+msgid "Month"
+msgstr "Lună"
+
+msgid "Year"
+msgstr "An"
+
+msgid "Map view"
+msgstr "Vizualizare hartă"
+
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+msgid ""
+"Please create pages with shortcodes below to display map on your website"
+msgstr ""
+"Creați pagini cu coduri scurte de mai jos pentru a afișa harta pe site-ul "
+"dvs. Web"
+
+msgid "All properties"
+msgstr "Toate proprietățile"
+
+msgid "Properties for rent"
+msgstr "Proprietăți de închiriat"
+
+msgid "Properties for sale"
+msgstr "Proprietăți de vânzare"
+
+msgid "Specific properties"
+msgstr "Proprietăți specifice"
+
+msgid "Icons color"
+msgstr "Icoane de culoare"
+
+msgid "Icons type"
+msgstr "Tipuri de pictograme"
+
+msgid "Extra settings"
+msgstr "Setări suplimentare"
+
+msgid "Number of listings to show"
+msgstr "Numărul de listări afișate"
+
+msgid "Map zoom level (default value is 12)"
+msgstr "Nivelul de mărire a hărții (valoarea implicită este 12)"
+
+msgid "Choose theme color style"
+msgstr "Alegeți stilul culorii tematice"
+
+msgid "View first menu"
+msgstr "Vedeți primul meniu"
+
+msgid "Light"
+msgstr "Ușoară"
+
+msgid "Dark"
+msgstr "Întuneric"
+
+msgid "PDF flyer"
+msgstr "fluturaș PDF"
+
+msgid "Select subscription"
+msgstr "Selectați abonamentul"
+
+msgid "text/number"
+msgstr "Text / numărul"
+
+msgid "Name"
+msgstr "Nume"
+
+msgid "Update subscription"
+msgstr "Actualizați abonamentul"
+
+msgid "Agents"
+msgstr "Agenţi"
+
+msgid "Please fill up your agent information below and click save to finish."
+msgstr ""
+"Completați informațiile de agent de mai jos și faceți clic pe Salvați pentru "
+"a termina."
+
+msgid "Company"
+msgstr "Companie"
+
+msgid "Rating"
+msgstr "Evaluare"
+
+msgid "About"
+msgstr "Despre"
+
+msgid "Photo/Logo"
+msgstr "Foto / Logo"
+
+msgid "Sold properties"
+msgstr "Proprietăți vândute"
+
+msgid "User name"
+msgstr "Nume de utilizator"
+
+msgid "Add New Agent"
+msgstr "Adăugați agentul nou"
+
+msgid "By Name:"
+msgstr "Dupa nume:"
+
+msgid ""
+"Please Import your property detail with CSV sample and click save to finish"
+msgstr ""
+"Vă rugăm să importați detaliile dvs. de proprietate cu un eșantion CSV și "
+"faceți clic pe Salvați pentru a termina"
+
+msgid "Choose source file"
+msgstr "Alegeți fișierul sursă"
+
+msgid "Property status"
+msgstr "Starea proprietatii"
+
+msgid "Skip first line"
+msgstr "Sari peste prima linie"
+
+msgid "Choose Import Fields"
+msgstr "Alegeți câmpurile de import"
+
+msgid "Start import"
+msgstr "Începeți importarea"
+
+msgid "Year built"
+msgstr "An construit"
+
+msgid "Property title"
+msgstr "Titlul proprietatii"
+
+msgid "Select / deselect all"
+msgstr "Selectați / deselectați toate"
+
+msgid "Call for price"
+msgstr "Cereți prețul"
+
+msgid "Here you can add video and upload images."
+msgstr "Aici puteți adăuga imagini video și puteți încărca imagini."
+
+msgid "Please enter video code in iframe format, e.g. -"
+msgstr "Introduceți codul video în format iframe, de ex. -"
+
+msgid "Embed the code"
+msgstr "Încorporați codul"
+
+msgid "Categories"
+msgstr "Categorii"
+
+msgid "Types"
+msgstr "Tipuri"
+
+msgid "Add new item"
+msgstr "Adăugați un element nou"
+
+msgid "By Name"
+msgstr "Dupa nume"
+
+msgid "Properties Q-ty"
+msgstr "Proprietăți cantitate"
+
+msgid "Password"
+msgstr "Parola"
+
+msgid "Profile photo"
+msgstr "Fotografie de profil"
+
+msgid "Please fill up your settings details and click save to finish"
+msgstr ""
+"Completați detaliile de setare și faceți clic pe Salvați pentru a termina"
+
+msgid "Show price"
+msgstr "Afișați prețul"
+
+msgid "Title / Address"
+msgstr "Titlul / adresa"
+
+msgid "Show Address"
+msgstr "Afișați adresa"
+
+msgid "Show/hide Contact Agent tab"
+msgstr "Afișați / ascundeți fila Contact Agent"
+
+msgid "Theme style"
+msgstr "Stilul tematic"
+
+msgid "Admin Logo image"
+msgstr "Admin Logo image"
+
+msgid "Admin Logo Width"
+msgstr "Admin Logo Lăţime"
+
+msgid "Admin Logo Height"
+msgstr "Logo Înălţime"
+
+msgid "Single property layout"
+msgstr "Proprietate individuală"
+
+msgid "Width"
+msgstr "Lăţime"
+
+msgid "Enable subscriptions"
+msgstr "Activați abonamentele"
+
+msgid "PayPal Subscription settings"
+msgstr "PayPal Setările abonamentului"
+
+msgid "Signature"
+msgstr "Semnătură"
+
+msgid "PayPal Response Page"
+msgstr "Pagina de răspuns PayPal"
+
+msgid "PayPal mode"
+msgstr "Modul PayPal"
+
+msgid "PayPal Username"
+msgstr "PayPal Utilizator"
+
+msgid "PayPal password"
+msgstr "Parola PayPal"
+
+msgid "Most recent"
+msgstr ""
+"Cel mai recent\n"
+
+msgid "Highest price"
+msgstr "Cel mai mare preț"
+
+msgid "Most popular"
+msgstr "Cel mai popular"
+
+msgid "%s bed"
+msgstr "%s pat"
+
+msgid "%s bath"
+msgstr "%s baie"
+
+msgid "Neighborhood"
+msgstr "Cartier"
+
+msgid "View on map / Neighborhood"
+msgstr "Vezi pe harta / vecinatate"
+
+msgid "More details"
+msgstr "Mai multe detalii"
+
+msgid ""
+"Here you can add video and upload images. Please enter video code in iframe "
+"format, e.g. -"
+msgstr ""
+"Aici puteți adăuga imagini video și puteți încărca imagini. Introduceți "
+"codul video în format iframe, de ex. -"
+
+msgid "Add image(s)"
+msgstr "Adăugați imagini"
+
+msgid "Please enter Google Map API key in General Settings of the plugin"
+msgstr "Introduceți cheia API Google Map în setările generale ale pluginului"
+
+msgid "Choose fields for import"
+msgstr "Alegeți câmpurile pentru import"
+
+msgid "CSV delimiter"
+msgstr "CSV delimiter"
+
+msgid "Bad"
+msgstr "Rău"
+
+msgid "Poor"
+msgstr "Slab"
+
+msgid "Regular"
+msgstr "Regulat"
+
+msgid "Good"
+msgstr ""
+"Bun\n"
+
+msgid "Excellent"
+msgstr "Excelent"
+
+msgid "Layouts"
+msgstr "Amplasare"
+
+msgid "Admin Logo"
+msgstr "Admin logotipo"
+
+msgid "Properties sold"
+msgstr "Proprietăți vândute"
+
+msgid "Set map markers"
+msgstr "Setați marcatori de hartă"
+
+msgid "Select taxonomy"
+msgstr "Selectați taxonomia"
+
+msgid "Select term"
+msgstr "Selectați termenul"
+
+msgid "Related services"
+msgstr "Servicii conexe"
+
+msgid ""
+"Sit back and let us handle everything. Within 2 hours you`ll get a site "
+"exactly like our demo."
+msgstr ""
+"Stați în spate și să ne ocupăm de tot. În termen de 2 ore veți obține un "
+"site exact ca demo-ul nostru."
+
+msgid "We can develop any additional feature on your individual request."
+msgstr ""
+"Putem dezvolta orice caracteristică suplimentară la solicitarea dvs. "
+"individuală."
+
+msgid "Customization"
+msgstr "Personalizare"
+
+msgid ""
+"Need a site with unique stunning design and flexible trendy features? Click "
+"here."
+msgstr ""
+"Aveți nevoie de un site cu design unic uimitor și caracteristici flexibile "
+"la modă? Click aici."
+
+msgid "Custom real estate website"
+msgstr "Site-ul imobiliar personalizat"
+
+msgid "Subscription data"
+msgstr "Datele de abonament"
+
+msgid "Property qty"
+msgstr "Cantitatea de proprietate"
+
+msgid "Featured qty"
+msgstr "Recomandate cantitate"
+
+msgid "Price renewal"
+msgstr "Prelungirea prețului"
+
+msgid "Trial period"
+msgstr "Perioada de probă"
+
+msgid "Select trial period"
+msgstr "Selectați perioada de încercare"
+
+msgid "Featured listings"
+msgstr "Listări recomandate"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "All listing"
+msgstr "Toate listele"
+
+msgid "Import properties"
+msgstr "Importați proprietăți"
+
+msgid "Download Sample File"
+msgstr "Descărcați fișierul de probă"
+
+msgid "Migration"
+msgstr "Migrațiune"
+
+msgid "Become PRO"
+msgstr "Deveniți PRO"
+
+msgid "Sharing Feature is available in Estatik Pro version only"
+msgstr "Funcția Partajare este disponibilă numai în versiunea Estatik Pro"
+
+msgid "Disabled Layouts are available in Estatik Pro version"
+msgstr "Los diseños deshabilitados están disponibles en la versión Estatik Pro"
+
+msgid ""
+"Please upload your Estatik Pro / Premium version in zip format and click "
+"upload to finish for update to new Version."
+msgstr ""
+"Încărcați versiunea dvs. Estatik Pro / Premium în format zip și faceți clic "
+"pe încărcare pentru a finaliza pentru a actualiza versiunea nouă."
+
+msgid "Upload archive"
+msgstr "Încărcați arhiva"
+
+msgid "Upload Downloaded Estatik PRO / Premium"
+msgstr "Static încărcare Downloader Pro / Premium"
+
+msgid ""
+"To update the previous version to major version 3.* you need to migrate your "
+"listings as the new version of the plugin requires."
+msgstr ""
+"Pentru a actualiza versiunea anterioară la versiunea majoră 3. * trebuie să "
+"vă mutați înregistrările pe măsură ce noua versiune a plugin-ului necesită."
+
+msgid ""
+"Before doing this, please make sure that your version of the plugin doesn't "
+"have custom changes of the code."
+msgstr ""
+"Înainte de a face acest lucru, asigurați-vă că versiunea dvs. a pluginului "
+"nu are modificări personalizate ale codului."
+
+msgid "Migrate"
+msgstr "Migra"
+
+msgid "Are you sure you want to delete these items?"
+msgstr "Sigur doriți să ștergeți aceste elemente?"
+
+msgid "Are you sure you want to copy these items?"
+msgstr "Sigur doriți să copiați aceste elemente?"
+
+msgid "Item is successfully created"
+msgstr "Elementul a fost creat cu succes"
+
+msgid "Learn more about this property"
+msgstr "Aflați mai multe despre această proprietate"
+
+msgid "Send"
+msgstr "Trimite"
+
+msgid "Your name"
+msgstr "Numele dumneavoastră"
+
+msgid "Your email"
+msgstr "Email-ul tau"
+
+msgid "Your phone number"
+msgstr "Numarul tau de telefon"
+
+msgid "Enter phrase from image"
+msgstr "Introduceți fraza din imagine"
